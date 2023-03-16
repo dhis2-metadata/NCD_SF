@@ -1,4 +1,4 @@
-# Sensory Functions: Eye and Ear care - System Design Document {#sf-design}
+# Sensory Functions: Eye and Ear care - System Design Document {#ncd-sf-design}
 
 ## Introduction
 
