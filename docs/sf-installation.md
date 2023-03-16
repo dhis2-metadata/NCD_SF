@@ -1,4 +1,4 @@
-# Sensory Functions: Eye and Ear care - Installation guide { #sf-installation-guide }
+# Sensory Functions: Eye and Ear care - Installation guide { #ncd-sf-installation }
 
 This document includes an installation guide for the Sensory function: Eye and Ear care aggregate package.
 
