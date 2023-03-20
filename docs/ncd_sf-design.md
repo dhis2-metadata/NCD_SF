@@ -20,8 +20,8 @@ This set of indicators allows to measure service utilisation over time, morbidit
 
 ## Purpose
 
-The **Sensory Functions: Eye and Ear Care** System Design document provides an overview of the design principles and guidance used to develop the digital data package for routine aggregate **Eye and Ear care** program reporting in countries HMIS. This document is intended for use by DHIS2 implementers at country and regional level to be able to support implementation and localisation of the package.
-The **Sensory Functions Eye and Ear care** metadata package can be adapted to local needs and national guidelines. In particular, local work flows and national guidelines should be considered in the localization and adoption of the programs included in this package.
+The **Sensory Functions: Eye and Ear Care** System Design document provides an overview of the design principles and guidance used to develop the digital data toolkit for routine aggregate **Eye and Ear care** program reporting in countries HMIS. This document is intended for use by DHIS2 implementers at country and regional level to be able to support implementation and localisation of the toolkit.
+The **Sensory Functions Eye and Ear care** metadata toolkit can be adapted to local needs and national guidelines. In particular, local work flows and national guidelines should be considered in the localization and adoption of the programs included in this toolkit.
 
 The data sets have all been based either on WHO recommendations and best-practice examples or published reporting frameworks, such as the [Eye care indicator menu](https://apps.who.int/iris/handle/10665/354257) and [Ear and hearing care: indicators for monitoring provision of services](https://apps.who.int/iris/handle/10665/324936).
 
@@ -29,7 +29,7 @@ These data sets will in many instances have to be adjusted to fit with national 
 
 ## System design overview
 
-### Package structure
+### Toolkit structure
 
 The **Sensory Functions: Eye and Ear care** program consists of 3 different data sets that can be used at any given time based on the needs of the program:
 
