@@ -4773,47 +4773,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "nX8fcn9dyia"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "DSiEgJHZkyi"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "oDUJeJ4SAgO"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "CSBgvy6oUOq"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "kyoEYR44UmP"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "HIkTNZjeaEw"
                     },
                     "dataSet": {
                         "id": "uRrzcLSWeVh"
@@ -4829,39 +4789,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "LmsKM7YY2hw"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "yqRRLQMlm2v"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "raUjzYymz6G"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "aCiyRsb3CWI"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "lT6d197gDRv"
                     },
                     "dataSet": {
                         "id": "uRrzcLSWeVh"
@@ -4885,7 +4813,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "FEz60tiNOil"
+                        "id": "sX96WU7L4gu"
                     },
                     "dataSet": {
                         "id": "uRrzcLSWeVh"
@@ -4901,7 +4829,79 @@
                 },
                 {
                     "dataElement": {
-                        "id": "sX96WU7L4gu"
+                        "id": "lT6d197gDRv"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "LmsKM7YY2hw"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "nX8fcn9dyia"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "aCiyRsb3CWI"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "kyoEYR44UmP"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "HIkTNZjeaEw"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "yqRRLQMlm2v"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "CSBgvy6oUOq"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "FEz60tiNOil"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "oDUJeJ4SAgO"
                     },
                     "dataSet": {
                         "id": "uRrzcLSWeVh"
@@ -4949,31 +4949,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "RQH7LqBCkUX"
-                    },
-                    "dataSet": {
-                        "id": "xks3A3Z4Co1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "SoBdFmbfBw8"
-                    },
-                    "dataSet": {
-                        "id": "xks3A3Z4Co1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "EWJB78Iix88"
-                    },
-                    "dataSet": {
-                        "id": "xks3A3Z4Co1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "TPpAFFclk9U"
+                        "id": "EyJamtdhOOe"
                     },
                     "dataSet": {
                         "id": "xks3A3Z4Co1"
@@ -4989,6 +4965,14 @@
                 },
                 {
                     "dataElement": {
+                        "id": "RQH7LqBCkUX"
+                    },
+                    "dataSet": {
+                        "id": "xks3A3Z4Co1"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "xjv0oQ5URO6"
                     },
                     "dataSet": {
@@ -4997,7 +4981,15 @@
                 },
                 {
                     "dataElement": {
-                        "id": "EyJamtdhOOe"
+                        "id": "TPpAFFclk9U"
+                    },
+                    "dataSet": {
+                        "id": "xks3A3Z4Co1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "L5nUGgWn6Op"
                     },
                     "dataSet": {
                         "id": "xks3A3Z4Co1"
@@ -5013,6 +5005,14 @@
                 },
                 {
                     "dataElement": {
+                        "id": "SoBdFmbfBw8"
+                    },
+                    "dataSet": {
+                        "id": "xks3A3Z4Co1"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "x7cnyPxWbqN"
                     },
                     "dataSet": {
@@ -5021,7 +5021,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "L5nUGgWn6Op"
+                        "id": "EWJB78Iix88"
                     },
                     "dataSet": {
                         "id": "xks3A3Z4Co1"
@@ -5069,95 +5069,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "O0ECsX0fxzP"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "R6lFazQe7cS"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "vev1ZPvrtGK"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "VfhZJqrGQxJ"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "i1GGi64UNtm"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "FWLusa1TGJu"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Tbl10Dyzy53"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Sv0Aj3dUs5o"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "vIkbyMcSvMg"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "bKCHbgQd5nX"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "K5hOIPGMb1b"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "aUvIeJW6n4i"
+                        "id": "MHWAAeHhu08"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -5173,7 +5085,15 @@
                 },
                 {
                     "dataElement": {
-                        "id": "Z0sF9RqNrLD"
+                        "id": "R6lFazQe7cS"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "CqzbXPXnJok"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -5189,7 +5109,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "MHWAAeHhu08"
+                        "id": "K5hOIPGMb1b"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -5197,23 +5117,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "gKrDjIa73HI"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "EtbxvW954To"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "DkcSRmI1dZA"
+                        "id": "Sv0Aj3dUs5o"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -5229,7 +5133,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "YHSEuzAj71g"
+                        "id": "Tbl10Dyzy53"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -5237,7 +5141,55 @@
                 },
                 {
                     "dataElement": {
-                        "id": "urydTjPQykf"
+                        "id": "FWLusa1TGJu"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "vIkbyMcSvMg"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "i1GGi64UNtm"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "aUvIeJW6n4i"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "DkcSRmI1dZA"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Z0sF9RqNrLD"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "O0ECsX0fxzP"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -5261,7 +5213,55 @@
                 },
                 {
                     "dataElement": {
-                        "id": "CqzbXPXnJok"
+                        "id": "vev1ZPvrtGK"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "bKCHbgQd5nX"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "urydTjPQykf"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "EtbxvW954To"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "YHSEuzAj71g"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "gKrDjIa73HI"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "VfhZJqrGQxJ"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -10799,7 +10799,7 @@
         "DHIS2Build": "d9a77b2",
         "DHIS2Version": "2.37.8",
         "code": "NCD_SF",
-        "description": "Sensory function: Eye and Ear care (dashboard)",
+        "description": "Sensory function: Eye and Ear care",
         "lastUpdated": "20230316T144649",
         "locale": "en",
         "name": "NCD_SF_AGG_DHIS2.37.8-en",
