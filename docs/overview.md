@@ -1,4 +1,4 @@
-# Sensory function: Eye and Ear Care
+# Sensory Function: Eye and Ear Care
 
 ## Release note 
 
