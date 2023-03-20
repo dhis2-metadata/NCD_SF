@@ -4773,31 +4773,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "DSiEgJHZkyi"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "b9oN1AEZsja"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "raUjzYymz6G"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Fs3hRNqLJJB"
+                        "id": "FEz60tiNOil"
                     },
                     "dataSet": {
                         "id": "uRrzcLSWeVh"
@@ -4813,15 +4789,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "sX96WU7L4gu"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "S1UCOz5Tr1b"
+                        "id": "CSBgvy6oUOq"
                     },
                     "dataSet": {
                         "id": "uRrzcLSWeVh"
@@ -4837,7 +4805,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "LmsKM7YY2hw"
+                        "id": "raUjzYymz6G"
                     },
                     "dataSet": {
                         "id": "uRrzcLSWeVh"
@@ -4845,7 +4813,15 @@
                 },
                 {
                     "dataElement": {
-                        "id": "nX8fcn9dyia"
+                        "id": "S1UCOz5Tr1b"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "HIkTNZjeaEw"
                     },
                     "dataSet": {
                         "id": "uRrzcLSWeVh"
@@ -4869,7 +4845,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "HIkTNZjeaEw"
+                        "id": "DSiEgJHZkyi"
                     },
                     "dataSet": {
                         "id": "uRrzcLSWeVh"
@@ -4877,7 +4853,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "yqRRLQMlm2v"
+                        "id": "b9oN1AEZsja"
                     },
                     "dataSet": {
                         "id": "uRrzcLSWeVh"
@@ -4885,7 +4861,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "CSBgvy6oUOq"
+                        "id": "Fs3hRNqLJJB"
                     },
                     "dataSet": {
                         "id": "uRrzcLSWeVh"
@@ -4893,7 +4869,23 @@
                 },
                 {
                     "dataElement": {
-                        "id": "FEz60tiNOil"
+                        "id": "sX96WU7L4gu"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "nX8fcn9dyia"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "LmsKM7YY2hw"
                     },
                     "dataSet": {
                         "id": "uRrzcLSWeVh"
@@ -4902,6 +4894,14 @@
                 {
                     "dataElement": {
                         "id": "oDUJeJ4SAgO"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "yqRRLQMlm2v"
                     },
                     "dataSet": {
                         "id": "uRrzcLSWeVh"
@@ -4949,38 +4949,6 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "EyJamtdhOOe"
-                    },
-                    "dataSet": {
-                        "id": "xks3A3Z4Co1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "DvLyXY8CQB0"
-                    },
-                    "dataSet": {
-                        "id": "xks3A3Z4Co1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "RQH7LqBCkUX"
-                    },
-                    "dataSet": {
-                        "id": "xks3A3Z4Co1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "xjv0oQ5URO6"
-                    },
-                    "dataSet": {
-                        "id": "xks3A3Z4Co1"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "TPpAFFclk9U"
                     },
                     "dataSet": {
@@ -4997,7 +4965,15 @@
                 },
                 {
                     "dataElement": {
-                        "id": "jkvzTkbBsds"
+                        "id": "xjv0oQ5URO6"
+                    },
+                    "dataSet": {
+                        "id": "xks3A3Z4Co1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "EyJamtdhOOe"
                     },
                     "dataSet": {
                         "id": "xks3A3Z4Co1"
@@ -5013,7 +4989,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "x7cnyPxWbqN"
+                        "id": "DvLyXY8CQB0"
                     },
                     "dataSet": {
                         "id": "xks3A3Z4Co1"
@@ -5022,6 +4998,30 @@
                 {
                     "dataElement": {
                         "id": "EWJB78Iix88"
+                    },
+                    "dataSet": {
+                        "id": "xks3A3Z4Co1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "RQH7LqBCkUX"
+                    },
+                    "dataSet": {
+                        "id": "xks3A3Z4Co1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "x7cnyPxWbqN"
+                    },
+                    "dataSet": {
+                        "id": "xks3A3Z4Co1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "jkvzTkbBsds"
                     },
                     "dataSet": {
                         "id": "xks3A3Z4Co1"
@@ -5069,39 +5069,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "MHWAAeHhu08"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "VG6Df2fDCHc"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "R6lFazQe7cS"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "CqzbXPXnJok"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "eCrhzTQkIcu"
+                        "id": "VfhZJqrGQxJ"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -5117,71 +5085,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "Sv0Aj3dUs5o"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "VAjOP5l1ucd"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Tbl10Dyzy53"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "FWLusa1TGJu"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "vIkbyMcSvMg"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "i1GGi64UNtm"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "aUvIeJW6n4i"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "DkcSRmI1dZA"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Z0sF9RqNrLD"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -5197,7 +5101,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "PRUnh6u4MeA"
+                        "id": "eCrhzTQkIcu"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -5205,7 +5109,15 @@
                 },
                 {
                     "dataElement": {
-                        "id": "tWY1PavnH4T"
+                        "id": "R6lFazQe7cS"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Sv0Aj3dUs5o"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -5221,7 +5133,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "bKCHbgQd5nX"
+                        "id": "tWY1PavnH4T"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -5229,7 +5141,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "urydTjPQykf"
+                        "id": "i1GGi64UNtm"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -5245,6 +5157,38 @@
                 },
                 {
                     "dataElement": {
+                        "id": "Z0sF9RqNrLD"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "DkcSRmI1dZA"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Tbl10Dyzy53"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "vIkbyMcSvMg"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "YHSEuzAj71g"
                     },
                     "dataSet": {
@@ -5253,7 +5197,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "gKrDjIa73HI"
+                        "id": "VAjOP5l1ucd"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -5261,7 +5205,63 @@
                 },
                 {
                     "dataElement": {
-                        "id": "VfhZJqrGQxJ"
+                        "id": "urydTjPQykf"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "aUvIeJW6n4i"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "VG6Df2fDCHc"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "MHWAAeHhu08"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "bKCHbgQd5nX"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "PRUnh6u4MeA"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "CqzbXPXnJok"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "gKrDjIa73HI"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -10800,7 +10800,7 @@
         "DHIS2Version": "2.37.8",
         "code": "NCD_SF",
         "description": "Sensory function: Eye and Ear care",
-        "lastUpdated": "20230316T144649",
+        "lastUpdated": "20230320T160654",
         "locale": "en",
         "name": "NCD_SF_AGG_DHIS2.37.8-en",
         "type": "AGG",
@@ -12139,6 +12139,18 @@
                 {
                     "axis": 0,
                     "dimensionItem": "h3wMy4YVPcK"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "frBkqzNkBrK"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "HXhrcjSlV22"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "h3wMy4YVPcK"
                 }
             ],
             "seriesKey": {
@@ -12160,7 +12172,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "STACKED_COLUMN",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -12326,6 +12338,26 @@
                 {
                     "axis": 0,
                     "dimensionItem": "MFTfpsGcXT8"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "BQBiZYZg8rI"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "UJqaPtKAgM2"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "Q1MJ03gh6kP"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "oqHIf6uWrdT"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "MFTfpsGcXT8"
                 }
             ],
             "seriesKey": {
@@ -12347,7 +12379,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "LINE",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -12523,6 +12555,18 @@
                 {
                     "axis": 0,
                     "dimensionItem": "h3wMy4YVPcK"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "frBkqzNkBrK"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "HXhrcjSlV22"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "h3wMy4YVPcK"
                 }
             ],
             "seriesKey": {
@@ -12544,7 +12588,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "STACKED_BAR",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -12552,6 +12596,28 @@
         {
             "aggregationType": "DEFAULT",
             "axes": [
+                {
+                    "index": 0,
+                    "title": {
+                        "fontStyle": {
+                            "textColor": "#4292c6"
+                        },
+                        "text": "Cases",
+                        "textMode": "CUSTOM"
+                    },
+                    "type": "RANGE"
+                },
+                {
+                    "index": 1,
+                    "title": {
+                        "fontStyle": {
+                            "textColor": "#cb181d"
+                        },
+                        "text": "Percentage",
+                        "textMode": "CUSTOM"
+                    },
+                    "type": "RANGE"
+                },
                 {
                     "index": 0,
                     "title": {
@@ -12711,6 +12777,15 @@
                     "axis": 1,
                     "dimensionItem": "cA9K3Fmgph1",
                     "type": "LINE"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "Ep6NXmVcyvs"
+                },
+                {
+                    "axis": 1,
+                    "dimensionItem": "cA9K3Fmgph1",
+                    "type": "LINE"
                 }
             ],
             "seriesKey": {
@@ -12732,7 +12807,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "COLUMN",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -12878,6 +12953,18 @@
                 {
                     "axis": 0,
                     "dimensionItem": "pmRG72vtlJC"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "LpCPurWswke"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "Y5r7IDOgm90"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "pmRG72vtlJC"
                 }
             ],
             "seriesKey": {
@@ -12899,7 +12986,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "LINE",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -13045,6 +13132,18 @@
                 {
                     "axis": 0,
                     "dimensionItem": "NIKE7bsmxK3"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "q8lvtSdi1sH"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "ZBu28eZA0X2"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "NIKE7bsmxK3"
                 }
             ],
             "seriesKey": {
@@ -13066,7 +13165,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "LINE",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -13192,6 +13291,10 @@
                 {
                     "axis": 0,
                     "dimensionItem": "ZnCfYdxGi3T"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "ZnCfYdxGi3T"
                 }
             ],
             "seriesKey": {
@@ -13213,7 +13316,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "LINE",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -13365,6 +13468,30 @@
                 {
                     "axis": 1,
                     "dimensionItem": "oiiUf8UCqE9"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "BQBiZYZg8rI"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "UJqaPtKAgM2"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "Q1MJ03gh6kP"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "oqHIf6uWrdT"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "MFTfpsGcXT8"
+                },
+                {
+                    "axis": 1,
+                    "dimensionItem": "oiiUf8UCqE9"
                 }
             ],
             "seriesKey": {
@@ -13385,7 +13512,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "STACKED_COLUMN",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -13525,7 +13652,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "COLUMN",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -13533,6 +13660,28 @@
         {
             "aggregationType": "DEFAULT",
             "axes": [
+                {
+                    "index": 0,
+                    "title": {
+                        "fontStyle": {
+                            "textColor": "#4292c6"
+                        },
+                        "text": "Cases",
+                        "textMode": "CUSTOM"
+                    },
+                    "type": "RANGE"
+                },
+                {
+                    "index": 1,
+                    "title": {
+                        "fontStyle": {
+                            "textColor": "#cb181d"
+                        },
+                        "text": "Days",
+                        "textMode": "CUSTOM"
+                    },
+                    "type": "RANGE"
+                },
                 {
                     "index": 0,
                     "title": {
@@ -13692,6 +13841,15 @@
                     "axis": 1,
                     "dimensionItem": "GsjVeBSxMnK",
                     "type": "LINE"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "uIDjTXykuFx"
+                },
+                {
+                    "axis": 1,
+                    "dimensionItem": "GsjVeBSxMnK",
+                    "type": "LINE"
                 }
             ],
             "seriesKey": {
@@ -13713,7 +13871,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "COLUMN",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -13850,6 +14008,14 @@
                 {
                     "axis": 0,
                     "dimensionItem": "BAZ4gb5Gqbw"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "AnTjvHUANBN"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "BAZ4gb5Gqbw"
                 }
             ],
             "seriesKey": {
@@ -13871,7 +14037,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "LINE",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -14031,7 +14197,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "STACKED_COLUMN",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -14217,6 +14383,34 @@
                 {
                     "axis": 0,
                     "dimensionItem": "Zi5esmJQKcG"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "J1Z4yIYaVfE"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "umiGb83VRZd"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "VyXE3vmObtB"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "S5DWmtx08Vv"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "DiplXitirHr"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "tl69y8Ih5Kv"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "Zi5esmJQKcG"
                 }
             ],
             "seriesKey": {
@@ -14238,7 +14432,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "LINE",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -14426,6 +14620,18 @@
                 {
                     "axis": 0,
                     "dimensionItem": "h3wMy4YVPcK"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "frBkqzNkBrK"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "HXhrcjSlV22"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "h3wMy4YVPcK"
                 }
             ],
             "seriesKey": {
@@ -14447,7 +14653,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "STACKED_BAR",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -14455,6 +14661,28 @@
         {
             "aggregationType": "DEFAULT",
             "axes": [
+                {
+                    "index": 0,
+                    "title": {
+                        "fontStyle": {
+                            "textColor": "#4292c6"
+                        },
+                        "text": "Cases",
+                        "textMode": "CUSTOM"
+                    },
+                    "type": "RANGE"
+                },
+                {
+                    "index": 1,
+                    "title": {
+                        "fontStyle": {
+                            "textColor": "#cb181d"
+                        },
+                        "text": "Days",
+                        "textMode": "CUSTOM"
+                    },
+                    "type": "RANGE"
+                },
                 {
                     "index": 0,
                     "title": {
@@ -14613,6 +14841,15 @@
                     "axis": 1,
                     "dimensionItem": "zlNRjjADXHr",
                     "type": "LINE"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "SOFtBLezWRj"
+                },
+                {
+                    "axis": 1,
+                    "dimensionItem": "zlNRjjADXHr",
+                    "type": "LINE"
                 }
             ],
             "seriesKey": {
@@ -14634,7 +14871,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "COLUMN",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -14790,6 +15027,22 @@
                 {
                     "axis": 0,
                     "dimensionItem": "B3A3f8Ob4VP"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "HaOOM74kaEo"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "nyfStgOFMMm"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "lAq11A0SqZu"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "B3A3f8Ob4VP"
                 }
             ],
             "seriesKey": {
@@ -14811,7 +15064,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "LINE",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -14957,6 +15210,18 @@
                 {
                     "axis": 0,
                     "dimensionItem": "i1XFOyBwFXP"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "Oc0L0N6YhR2"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "PYQxwTm9dGs"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "i1XFOyBwFXP"
                 }
             ],
             "seriesKey": {
@@ -14978,7 +15243,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "LINE",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -14986,6 +15251,28 @@
         {
             "aggregationType": "DEFAULT",
             "axes": [
+                {
+                    "index": 0,
+                    "title": {
+                        "fontStyle": {
+                            "textColor": "#4292c6"
+                        },
+                        "text": "Cases",
+                        "textMode": "CUSTOM"
+                    },
+                    "type": "RANGE"
+                },
+                {
+                    "index": 1,
+                    "title": {
+                        "fontStyle": {
+                            "textColor": "#cb181d"
+                        },
+                        "text": "Percentage",
+                        "textMode": "CUSTOM"
+                    },
+                    "type": "RANGE"
+                },
                 {
                     "index": 0,
                     "title": {
@@ -15145,6 +15432,15 @@
                     "axis": 1,
                     "dimensionItem": "oqcii85n4hE",
                     "type": "LINE"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "OW47xH11Mlp"
+                },
+                {
+                    "axis": 1,
+                    "dimensionItem": "oqcii85n4hE",
+                    "type": "LINE"
                 }
             ],
             "seriesKey": {
@@ -15166,7 +15462,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "COLUMN",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -15174,6 +15470,30 @@
         {
             "aggregationType": "DEFAULT",
             "axes": [
+                {
+                    "index": 0,
+                    "title": {
+                        "fontStyle": {
+                            "textColor": "#4292c6"
+                        },
+                        "text": "Cases",
+                        "textMode": "CUSTOM"
+                    },
+                    "type": "RANGE"
+                },
+                {
+                    "index": 1,
+                    "maxValue": 100,
+                    "minValue": 0,
+                    "title": {
+                        "fontStyle": {
+                            "textColor": "#cb181d"
+                        },
+                        "text": "Percentage",
+                        "textMode": "CUSTOM"
+                    },
+                    "type": "RANGE"
+                },
                 {
                     "index": 0,
                     "title": {
@@ -15334,6 +15654,14 @@
                 {
                     "axis": 0,
                     "dimensionItem": "RZBYwp3jFlD"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "PtLpt62oLGF"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "RZBYwp3jFlD"
                 }
             ],
             "seriesKey": {
@@ -15355,7 +15683,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "LINE",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -15487,6 +15815,10 @@
                 {
                     "axis": 0,
                     "dimensionItem": "nIMBWkGOYJM"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "nIMBWkGOYJM"
                 }
             ],
             "seriesKey": {
@@ -15508,7 +15840,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "LINE",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -15658,6 +15990,18 @@
                 {
                     "axis": 0,
                     "dimensionItem": "h3wMy4YVPcK"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "frBkqzNkBrK"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "HXhrcjSlV22"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "h3wMy4YVPcK"
                 }
             ],
             "seriesKey": {
@@ -15679,7 +16023,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "STACKED_BAR",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -15843,6 +16187,26 @@
                 {
                     "axis": 0,
                     "dimensionItem": "MzYgTQAmhEK"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "ZjHlYoWvC8y"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "VRpImYu8QUB"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "UG676JNrMG3"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "ao7RwrUapdw"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "MzYgTQAmhEK"
                 }
             ],
             "seriesKey": {
@@ -15864,7 +16228,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "COLUMN",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -15920,7 +16284,7 @@
             "organisationUnitLevels": [],
             "organisationUnits": [
                 {
-                    "id": "<OU_ROOT_UID>"
+                    "id": "GD7TowwI46c"
                 }
             ],
             "percentStackedValues": false,
@@ -15987,6 +16351,10 @@
                 {
                     "axis": 0,
                     "dimensionItem": "Cly6Aa8MWra"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "Cly6Aa8MWra"
                 }
             ],
             "seriesKey": {
@@ -16008,7 +16376,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "SINGLE_VALUE",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -16067,7 +16435,7 @@
             "legend": {
                 "showKey": false
             },
-            "name": " SF - 3.04 – Hearing loss",
+            "name": "SF - 3.04 - Hearing loss",
             "noSpaceBetweenColumns": false,
             "numberType": "VALUE",
             "optionalAxes": [],
@@ -16158,7 +16526,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "COLUMN",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -16280,6 +16648,10 @@
                 {
                     "axis": 0,
                     "dimensionItem": "LAST_12_MONTHS"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "LAST_12_MONTHS"
                 }
             ],
             "seriesKey": {
@@ -16301,7 +16673,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "PIVOT_TABLE",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -16439,7 +16811,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "PIVOT_TABLE",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -16589,6 +16961,18 @@
                 {
                     "axis": 0,
                     "dimensionItem": "gJnBUU1wPh6"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "N0I6ooSevF9"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "iKdLqu6Q1FB"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "gJnBUU1wPh6"
                 }
             ],
             "seriesKey": {
@@ -16610,7 +16994,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "STACKED_BAR",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -16798,6 +17182,38 @@
                 {
                     "axis": 0,
                     "dimensionItem": "IOzdB32qVzw"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "dKyQzLCBJvz"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "Ch13sPZSTJ3"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "BuwGTpTj0j8"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "kaAEdKR6F7q"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "pVDmUYLmqpI"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "W74Ga7M8wPq"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "qS9UJ56f2Fe"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "IOzdB32qVzw"
                 }
             ],
             "seriesKey": {
@@ -16819,7 +17235,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "COLUMN",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -16875,7 +17291,7 @@
             "organisationUnitLevels": [],
             "organisationUnits": [
                 {
-                    "id": "<OU_ROOT_UID>"
+                    "id": "GD7TowwI46c"
                 }
             ],
             "percentStackedValues": false,
@@ -16942,6 +17358,10 @@
                 {
                     "axis": 0,
                     "dimensionItem": "g0in25hvhRj"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "g0in25hvhRj"
                 }
             ],
             "seriesKey": {
@@ -16963,7 +17383,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "SINGLE_VALUE",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -17137,7 +17557,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "COLUMN",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -17287,7 +17707,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "COLUMN",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -17408,6 +17828,10 @@
                 {
                     "axis": 0,
                     "dimensionItem": "SOFtBLezWRj"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "SOFtBLezWRj"
                 }
             ],
             "seriesKey": {
@@ -17429,7 +17853,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "PIVOT_TABLE",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -17568,7 +17992,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "PIVOT_TABLE",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -17705,7 +18129,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "PIVOT_TABLE",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -17768,7 +18192,7 @@
             "organisationUnitLevels": [],
             "organisationUnits": [
                 {
-                    "id": "<OU_ROOT_UID>"
+                    "id": "GD7TowwI46c"
                 }
             ],
             "percentStackedValues": false,
@@ -17842,6 +18266,15 @@
                     "axis": 1,
                     "dimensionItem": "Q2stXTnkhPo",
                     "type": "LINE"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "reqdUg3o7YY"
+                },
+                {
+                    "axis": 1,
+                    "dimensionItem": "Q2stXTnkhPo",
+                    "type": "LINE"
                 }
             ],
             "seriesKey": {
@@ -17863,7 +18296,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "COLUMN",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -17944,7 +18377,7 @@
             "organisationUnitLevels": [],
             "organisationUnits": [
                 {
-                    "id": "<OU_ROOT_UID>"
+                    "id": "GD7TowwI46c"
                 }
             ],
             "percentStackedValues": false,
@@ -18021,6 +18454,18 @@
                 {
                     "axis": 0,
                     "dimensionItem": "xlyU6OFu2mF"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "Ot7Ms8kbNsR"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "QiRT5GJOQXY"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "xlyU6OFu2mF"
                 }
             ],
             "seriesKey": {
@@ -18042,7 +18487,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "STACKED_COLUMN",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -18123,7 +18568,7 @@
             "organisationUnitLevels": [],
             "organisationUnits": [
                 {
-                    "id": "<OU_ROOT_UID>"
+                    "id": "GD7TowwI46c"
                 }
             ],
             "percentStackedValues": false,
@@ -18200,6 +18645,18 @@
                 {
                     "axis": 0,
                     "dimensionItem": "xlyU6OFu2mF"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "Ot7Ms8kbNsR"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "QiRT5GJOQXY"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "xlyU6OFu2mF"
                 }
             ],
             "seriesKey": {
@@ -18221,7 +18678,7 @@
             "topLimit": 0,
             "translations": [],
             "type": "LINE",
-            "userOrganisationUnit": false,
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
@@ -18346,6 +18803,15 @@
             "rowSubTotals": false,
             "rowTotals": false,
             "series": [
+                {
+                    "axis": 0,
+                    "dimensionItem": "EGQK7pFMxsq"
+                },
+                {
+                    "axis": 1,
+                    "dimensionItem": "F41G7HQhe68",
+                    "type": "LINE"
+                },
                 {
                     "axis": 0,
                     "dimensionItem": "EGQK7pFMxsq"
@@ -18521,6 +18987,10 @@
                 {
                     "axis": 0,
                     "dimensionItem": "gCsAnU89SDc"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "gCsAnU89SDc"
                 }
             ],
             "seriesKey": {
@@ -18685,6 +19155,10 @@
             "rowSubTotals": false,
             "rowTotals": false,
             "series": [
+                {
+                    "axis": 0,
+                    "dimensionItem": "gCsAnU89SDc"
+                },
                 {
                     "axis": 0,
                     "dimensionItem": "gCsAnU89SDc"
