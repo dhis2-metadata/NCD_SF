@@ -525,7 +525,18 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "--------",
-                "userGroups": {},
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "rw------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    }
+                },
                 "users": {}
             },
             "translations": []
@@ -914,7 +925,18 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "--------",
-                "userGroups": {},
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "rw------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    }
+                },
                 "users": {}
             },
             "translations": []
@@ -1250,7 +1272,18 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "--------",
-                "userGroups": {},
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "rw------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    }
+                },
                 "users": {}
             },
             "translations": []
@@ -1700,7 +1733,18 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "--------",
-                "userGroups": {},
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "rw------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    }
+                },
                 "users": {}
             },
             "translations": []
@@ -1950,7 +1994,18 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "--------",
-                "userGroups": {},
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "rw------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    }
+                },
                 "users": {}
             },
             "translations": []
@@ -2200,7 +2255,18 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "--------",
-                "userGroups": {},
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "rw------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    }
+                },
                 "users": {}
             },
             "translations": []
@@ -2218,28 +2284,16 @@
                     "id": "BuwGTpTj0j8"
                 },
                 {
-                    "id": "tl69y8Ih5Kv"
-                },
-                {
                     "id": "dKyQzLCBJvz"
                 },
                 {
                     "id": "DiplXitirHr"
                 },
                 {
-                    "id": "PtLpt62oLGF"
-                },
-                {
                     "id": "i1XFOyBwFXP"
                 },
                 {
-                    "id": "oYy2gUXeZms"
-                },
-                {
                     "id": "wcoGDKYBuId"
-                },
-                {
-                    "id": "Oc0L0N6YhR2"
                 },
                 {
                     "id": "zlNRjjADXHr"
@@ -2248,25 +2302,7 @@
                     "id": "PYQxwTm9dGs"
                 },
                 {
-                    "id": "B3A3f8Ob4VP"
-                },
-                {
-                    "id": "SOFtBLezWRj"
-                },
-                {
-                    "id": "Ch13sPZSTJ3"
-                },
-                {
-                    "id": "S5DWmtx08Vv"
-                },
-                {
                     "id": "HaOOM74kaEo"
-                },
-                {
-                    "id": "EC0XUj25xwn"
-                },
-                {
-                    "id": "OW47xH11Mlp"
                 },
                 {
                     "id": "VyXE3vmObtB"
@@ -2278,16 +2314,10 @@
                     "id": "oqcii85n4hE"
                 },
                 {
-                    "id": "Lc5BEYZsAeZ"
-                },
-                {
                     "id": "umiGb83VRZd"
                 },
                 {
                     "id": "nIMBWkGOYJM"
-                },
-                {
-                    "id": "slTvWdRDgIF"
                 },
                 {
                     "id": "wHw2WWNAeX2"
@@ -2305,12 +2335,6 @@
                     "id": "F90dvKClal3"
                 },
                 {
-                    "id": "W74Ga7M8wPq"
-                },
-                {
-                    "id": "J1Z4yIYaVfE"
-                },
-                {
                     "id": "lAq11A0SqZu"
                 },
                 {
@@ -2320,22 +2344,64 @@
                     "id": "qS9UJ56f2Fe"
                 },
                 {
-                    "id": "nyfStgOFMMm"
-                },
-                {
                     "id": "fdSIgiMHhhf"
                 },
                 {
                     "id": "gRmuEEeLwpf"
                 },
                 {
-                    "id": "g0in25hvhRj"
-                },
-                {
                     "id": "pVDmUYLmqpI"
                 },
                 {
                     "id": "YPALOA1xJro"
+                },
+                {
+                    "id": "tl69y8Ih5Kv"
+                },
+                {
+                    "id": "PtLpt62oLGF"
+                },
+                {
+                    "id": "oYy2gUXeZms"
+                },
+                {
+                    "id": "Oc0L0N6YhR2"
+                },
+                {
+                    "id": "B3A3f8Ob4VP"
+                },
+                {
+                    "id": "SOFtBLezWRj"
+                },
+                {
+                    "id": "Ch13sPZSTJ3"
+                },
+                {
+                    "id": "S5DWmtx08Vv"
+                },
+                {
+                    "id": "EC0XUj25xwn"
+                },
+                {
+                    "id": "OW47xH11Mlp"
+                },
+                {
+                    "id": "Lc5BEYZsAeZ"
+                },
+                {
+                    "id": "slTvWdRDgIF"
+                },
+                {
+                    "id": "W74Ga7M8wPq"
+                },
+                {
+                    "id": "J1Z4yIYaVfE"
+                },
+                {
+                    "id": "nyfStgOFMMm"
+                },
+                {
+                    "id": "g0in25hvhRj"
                 }
             ],
             "name": "SF - Eye care service delivery",
@@ -7892,13 +7958,62 @@
         "DHIS2Version": "2.38.2.1-SNAPSHOT",
         "code": "NCD_SF",
         "description": "Sensory function: Eye and Ear care (dashboard)",
-        "lastUpdated": "20230320T174148",
+        "lastUpdated": "20230321T090546",
         "locale": "en",
         "name": "NCD_SF_DSH_DHIS2.38.2.1-SNAPSHOT-en",
         "type": "DSH",
         "version": ""
     },
-    "userGroups": [],
+    "userGroups": [
+        {
+            "attributeValues": [],
+            "code": "NCD_SF_ACCESS",
+            "id": "Tukj8VmcPAB",
+            "managedGroups": [],
+            "name": "SF - Access",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "code": "NCD_SF_ADMIN",
+            "id": "jjxah7OuNid",
+            "managedGroups": [],
+            "name": "SF - Admin",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "code": "NCD_SF_DATA_CAPTURE",
+            "id": "mGv5ypAj0S4",
+            "managedGroups": [],
+            "name": "SF - Data capture",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [],
+            "users": []
+        }
+    ],
     "userRoles": [
         {
             "authorities": [],
