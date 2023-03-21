@@ -525,7 +525,18 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "--------",
-                "userGroups": {},
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "rw------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    }
+                },
                 "users": {}
             },
             "translations": []
@@ -914,7 +925,18 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "--------",
-                "userGroups": {},
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "rw------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    }
+                },
                 "users": {}
             },
             "translations": []
@@ -1250,7 +1272,18 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "--------",
-                "userGroups": {},
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "rw------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    }
+                },
                 "users": {}
             },
             "translations": []
@@ -1700,7 +1733,18 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "--------",
-                "userGroups": {},
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "rw------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    }
+                },
                 "users": {}
             },
             "translations": []
@@ -1950,7 +1994,18 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "--------",
-                "userGroups": {},
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "rw------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    }
+                },
                 "users": {}
             },
             "translations": []
@@ -2200,7 +2255,18 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "--------",
-                "userGroups": {},
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "rw------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    }
+                },
                 "users": {}
             },
             "translations": []
@@ -7899,14 +7965,63 @@
         "DHIS2Build": "accc6ee",
         "DHIS2Version": "2.39.1.1",
         "code": "NCD_SF",
-        "description": "Sensory function: Eye and Ear care (dashbaord)",
-        "lastUpdated": "20230320T174148",
+        "description": "Sensory function: Eye and Ear care (dashboard)",
+        "lastUpdated": "20230321T090632",
         "locale": "en",
         "name": "NCD_SF_DSH_DHIS2.39.1.1-en",
         "type": "DSH",
         "version": ""
     },
-    "userGroups": [],
+    "userGroups": [
+        {
+            "attributeValues": [],
+            "code": "NCD_SF_ACCESS",
+            "id": "Tukj8VmcPAB",
+            "managedGroups": [],
+            "name": "SF - Access",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "code": "NCD_SF_ADMIN",
+            "id": "jjxah7OuNid",
+            "managedGroups": [],
+            "name": "SF - Admin",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "code": "NCD_SF_DATA_CAPTURE",
+            "id": "mGv5ypAj0S4",
+            "managedGroups": [],
+            "name": "SF - Data capture",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [],
+            "users": []
+        }
+    ],
     "userRoles": [
         {
             "authorities": [],
