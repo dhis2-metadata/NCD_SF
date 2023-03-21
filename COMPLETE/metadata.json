@@ -196,7 +196,23 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Hearing loss type",
@@ -224,7 +240,23 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Hearing age group",
@@ -249,7 +281,23 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Vision status",
@@ -370,7 +418,23 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "skipTotal": false,
@@ -393,7 +457,23 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "skipTotal": false,
@@ -413,7 +493,23 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "skipTotal": false,
@@ -1668,7 +1764,18 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "--------",
-                "userGroups": {},
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "rw------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    }
+                },
                 "users": {}
             },
             "translations": []
@@ -2057,7 +2164,18 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "--------",
-                "userGroups": {},
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "rw------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    }
+                },
                 "users": {}
             },
             "translations": []
@@ -2393,7 +2511,18 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "--------",
-                "userGroups": {},
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "rw------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    }
+                },
                 "users": {}
             },
             "translations": []
@@ -2843,7 +2972,18 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "--------",
-                "userGroups": {},
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "rw------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    }
+                },
                 "users": {}
             },
             "translations": []
@@ -3093,7 +3233,18 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "--------",
-                "userGroups": {},
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "rw------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    }
+                },
                 "users": {}
             },
             "translations": []
@@ -3343,7 +3494,18 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "--------",
-                "userGroups": {},
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "rw------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    }
+                },
                 "users": {}
             },
             "translations": []
@@ -4986,7 +5148,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "DSiEgJHZkyi"
+                        "id": "S1UCOz5Tr1b"
                     },
                     "dataSet": {
                         "id": "uRrzcLSWeVh"
@@ -4994,7 +5156,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "raUjzYymz6G"
+                        "id": "qt8s8kyrk6c"
                     },
                     "dataSet": {
                         "id": "uRrzcLSWeVh"
@@ -5010,7 +5172,31 @@
                 },
                 {
                     "dataElement": {
-                        "id": "CSBgvy6oUOq"
+                        "id": "yqRRLQMlm2v"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "kyoEYR44UmP"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "DSiEgJHZkyi"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "nX8fcn9dyia"
                     },
                     "dataSet": {
                         "id": "uRrzcLSWeVh"
@@ -5019,6 +5205,54 @@
                 {
                     "dataElement": {
                         "id": "aCiyRsb3CWI"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "LmsKM7YY2hw"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "FEz60tiNOil"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Fs3hRNqLJJB"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "b9oN1AEZsja"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "CSBgvy6oUOq"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "raUjzYymz6G"
                     },
                     "dataSet": {
                         "id": "uRrzcLSWeVh"
@@ -5042,79 +5276,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "S1UCOz5Tr1b"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "qt8s8kyrk6c"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "sX96WU7L4gu"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "FEz60tiNOil"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "yqRRLQMlm2v"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "LmsKM7YY2hw"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "kyoEYR44UmP"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "nX8fcn9dyia"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "b9oN1AEZsja"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Fs3hRNqLJJB"
                     },
                     "dataSet": {
                         "id": "uRrzcLSWeVh"
@@ -5139,7 +5301,23 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-r-----",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-rw----",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Ear care service delivery",
@@ -5162,63 +5340,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "DvLyXY8CQB0"
-                    },
-                    "dataSet": {
-                        "id": "xks3A3Z4Co1"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "SoBdFmbfBw8"
-                    },
-                    "dataSet": {
-                        "id": "xks3A3Z4Co1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "RQH7LqBCkUX"
-                    },
-                    "dataSet": {
-                        "id": "xks3A3Z4Co1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "EWJB78Iix88"
-                    },
-                    "dataSet": {
-                        "id": "xks3A3Z4Co1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "L5nUGgWn6Op"
-                    },
-                    "dataSet": {
-                        "id": "xks3A3Z4Co1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "TPpAFFclk9U"
-                    },
-                    "dataSet": {
-                        "id": "xks3A3Z4Co1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "x7cnyPxWbqN"
-                    },
-                    "dataSet": {
-                        "id": "xks3A3Z4Co1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "EyJamtdhOOe"
                     },
                     "dataSet": {
                         "id": "xks3A3Z4Co1"
@@ -5234,7 +5356,63 @@
                 },
                 {
                     "dataElement": {
+                        "id": "DvLyXY8CQB0"
+                    },
+                    "dataSet": {
+                        "id": "xks3A3Z4Co1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "L5nUGgWn6Op"
+                    },
+                    "dataSet": {
+                        "id": "xks3A3Z4Co1"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "xjv0oQ5URO6"
+                    },
+                    "dataSet": {
+                        "id": "xks3A3Z4Co1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "TPpAFFclk9U"
+                    },
+                    "dataSet": {
+                        "id": "xks3A3Z4Co1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "RQH7LqBCkUX"
+                    },
+                    "dataSet": {
+                        "id": "xks3A3Z4Co1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "EyJamtdhOOe"
+                    },
+                    "dataSet": {
+                        "id": "xks3A3Z4Co1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "EWJB78Iix88"
+                    },
+                    "dataSet": {
+                        "id": "xks3A3Z4Co1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "x7cnyPxWbqN"
                     },
                     "dataSet": {
                         "id": "xks3A3Z4Co1"
@@ -5259,7 +5437,23 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-r-----",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-rw----",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Eye care/Ear care workforce",
@@ -5282,6 +5476,38 @@
             "dataSetElements": [
                 {
                     "dataElement": {
+                        "id": "gKrDjIa73HI"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "VAjOP5l1ucd"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "CqzbXPXnJok"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "PRUnh6u4MeA"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "DkcSRmI1dZA"
                     },
                     "dataSet": {
@@ -5290,7 +5516,79 @@
                 },
                 {
                     "dataElement": {
+                        "id": "i1GGi64UNtm"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "R6lFazQe7cS"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "K5hOIPGMb1b"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Z0sF9RqNrLD"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "FWLusa1TGJu"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "VG6Df2fDCHc"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "O0ECsX0fxzP"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "eCrhzTQkIcu"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "VfhZJqrGQxJ"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "vIkbyMcSvMg"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -5314,7 +5612,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "Z0sF9RqNrLD"
+                        "id": "MHWAAeHhu08"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -5322,31 +5620,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "O0ECsX0fxzP"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "gKrDjIa73HI"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "i1GGi64UNtm"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "tWY1PavnH4T"
+                        "id": "aUvIeJW6n4i"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -5370,30 +5644,6 @@
                 },
                 {
                     "dataElement": {
-                        "id": "urydTjPQykf"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "aUvIeJW6n4i"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "VfhZJqrGQxJ"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "YHSEuzAj71g"
                     },
                     "dataSet": {
@@ -5402,7 +5652,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "VAjOP5l1ucd"
+                        "id": "tWY1PavnH4T"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -5418,63 +5668,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "eCrhzTQkIcu"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "CqzbXPXnJok"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "K5hOIPGMb1b"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "MHWAAeHhu08"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "VG6Df2fDCHc"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "R6lFazQe7cS"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "PRUnh6u4MeA"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "vIkbyMcSvMg"
+                        "id": "urydTjPQykf"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -5499,7 +5693,23 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-r-----",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-rw----",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Eye care service delivery",
@@ -5523,16 +5733,28 @@
                     "id": "BuwGTpTj0j8"
                 },
                 {
+                    "id": "tl69y8Ih5Kv"
+                },
+                {
                     "id": "dKyQzLCBJvz"
                 },
                 {
                     "id": "DiplXitirHr"
                 },
                 {
+                    "id": "PtLpt62oLGF"
+                },
+                {
                     "id": "i1XFOyBwFXP"
                 },
                 {
+                    "id": "oYy2gUXeZms"
+                },
+                {
                     "id": "wcoGDKYBuId"
+                },
+                {
+                    "id": "Oc0L0N6YhR2"
                 },
                 {
                     "id": "zlNRjjADXHr"
@@ -5541,7 +5763,25 @@
                     "id": "PYQxwTm9dGs"
                 },
                 {
+                    "id": "B3A3f8Ob4VP"
+                },
+                {
+                    "id": "SOFtBLezWRj"
+                },
+                {
+                    "id": "Ch13sPZSTJ3"
+                },
+                {
+                    "id": "S5DWmtx08Vv"
+                },
+                {
                     "id": "HaOOM74kaEo"
+                },
+                {
+                    "id": "EC0XUj25xwn"
+                },
+                {
+                    "id": "OW47xH11Mlp"
                 },
                 {
                     "id": "VyXE3vmObtB"
@@ -5553,10 +5793,16 @@
                     "id": "oqcii85n4hE"
                 },
                 {
+                    "id": "Lc5BEYZsAeZ"
+                },
+                {
                     "id": "umiGb83VRZd"
                 },
                 {
                     "id": "nIMBWkGOYJM"
+                },
+                {
+                    "id": "slTvWdRDgIF"
                 },
                 {
                     "id": "wHw2WWNAeX2"
@@ -5574,6 +5820,12 @@
                     "id": "F90dvKClal3"
                 },
                 {
+                    "id": "W74Ga7M8wPq"
+                },
+                {
+                    "id": "J1Z4yIYaVfE"
+                },
+                {
                     "id": "lAq11A0SqZu"
                 },
                 {
@@ -5583,64 +5835,22 @@
                     "id": "qS9UJ56f2Fe"
                 },
                 {
+                    "id": "nyfStgOFMMm"
+                },
+                {
                     "id": "fdSIgiMHhhf"
                 },
                 {
                     "id": "gRmuEEeLwpf"
                 },
                 {
+                    "id": "g0in25hvhRj"
+                },
+                {
                     "id": "pVDmUYLmqpI"
                 },
                 {
                     "id": "YPALOA1xJro"
-                },
-                {
-                    "id": "tl69y8Ih5Kv"
-                },
-                {
-                    "id": "PtLpt62oLGF"
-                },
-                {
-                    "id": "oYy2gUXeZms"
-                },
-                {
-                    "id": "Oc0L0N6YhR2"
-                },
-                {
-                    "id": "B3A3f8Ob4VP"
-                },
-                {
-                    "id": "SOFtBLezWRj"
-                },
-                {
-                    "id": "Ch13sPZSTJ3"
-                },
-                {
-                    "id": "S5DWmtx08Vv"
-                },
-                {
-                    "id": "EC0XUj25xwn"
-                },
-                {
-                    "id": "OW47xH11Mlp"
-                },
-                {
-                    "id": "Lc5BEYZsAeZ"
-                },
-                {
-                    "id": "slTvWdRDgIF"
-                },
-                {
-                    "id": "W74Ga7M8wPq"
-                },
-                {
-                    "id": "J1Z4yIYaVfE"
-                },
-                {
-                    "id": "nyfStgOFMMm"
-                },
-                {
-                    "id": "g0in25hvhRj"
                 }
             ],
             "name": "SF - Eye care service delivery",
@@ -11201,7 +11411,7 @@
         "DHIS2Version": "2.38.2.1-SNAPSHOT",
         "code": "NCD_SF",
         "description": "Sensory function: Eye and Ear care",
-        "lastUpdated": "20230321T001252",
+        "lastUpdated": "20230321T090546",
         "locale": "en",
         "name": "NCD_SF_AGG_DHIS2.38.2.1-SNAPSHOT-en",
         "type": "AGG",
@@ -11641,7 +11851,56 @@
         }
     ],
     "sqlViews": [],
-    "userGroups": [],
+    "userGroups": [
+        {
+            "attributeValues": [],
+            "code": "NCD_SF_ACCESS",
+            "id": "Tukj8VmcPAB",
+            "managedGroups": [],
+            "name": "SF - Access",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "code": "NCD_SF_ADMIN",
+            "id": "jjxah7OuNid",
+            "managedGroups": [],
+            "name": "SF - Admin",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "code": "NCD_SF_DATA_CAPTURE",
+            "id": "mGv5ypAj0S4",
+            "managedGroups": [],
+            "name": "SF - Data capture",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [],
+            "users": []
+        }
+    ],
     "userRoles": [
         {
             "authorities": [],
