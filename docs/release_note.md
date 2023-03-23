@@ -1,4 +1,4 @@
-# Release Note { #ncd_sf-release-note }
+# Release Note { #ncd-sf-release-note }
 
 ## 1.0.0
 
