@@ -270,7 +270,36 @@ Number of people with diabetes referred for diabetic retinopathy screening in th
 
 ## Analytics and indicators
 
-The full list of indicators and indicator groups is available in the [SF Metadata Reference File](add link here). These indicators facilitate analysis of vision and eye care and ear and hearing care services.
+Hereunder you can find the core indicators with their DHIS2 counterpart and disaggregation used on the conceptualization of the toolkit
+
+### Eye care services
+
+|Core indicators|DHIS2 Indicators|Disaggregation|
+| --------------|----------------|--------------|
+|Ratio of eye care workforce per 10,000 in population by professions|SF - Eye care workforce<br>SF - Eye care workforce (/10000 pop)|Profession|
+|Proportion of population utilizing Eye Care services by selected eye condition categories (ICD code or equivalent) in the facility|SF - Refractive Error (%)<br>SF - Cataract (%)<br>SF - Vitreoretinal Disorders (%)<br>SF - Glaucoma (%)<br>SF - Disorders of the Ocular Surface, Eyelid Lacrimal System (%)<br>SF - Ocular Trauma (%)<br>SF - Other eye conditions (%)|Vision impairment<br>Age|
+|Average waiting time for cataract surgery from first registration for the surgery to the surgery itself in the facility|SF - Average waiting time for cataract surgery||
+|Proportion of preoperative visual acuity among persons with cataract by visual acuity categories|SF - Normal vision (%)<br>SF - Mild VI (%)<br>SF - Moderate VI (%)<br>SF - Severe VI or blindness (%)||
+|Proportion of cataract surgical outcomes (visual acuity) among persons who were operated by visual acuity categories|SF - Good (%)<br>SF - Suboptimal (%)<br>SF - Poor (%)||
+|Coverage of periodic eye screening among persons with diabetes in the facility|SF - Diabetic retinopathy screening (%)||
+|Coverage of newborn screening for congenital and neonatal eye conditions in the facility|SF - Newborns screened for congenital and neonatal eye condition (%)|Output|
+|Coverage of retinopathy of prematurity (ROP) screening among eligible infants admitted to neonatal intensive care according to national guidelines|SF - Newborns screend for retinopathy of prematurity (ROP) (%)|Output|
+
+### Ear and hearing care service
+
+|Core indicators|DHIS2 Indicators|Disaggregation|
+| --------------|----------------|--------------|
+|Ratio of ear and hearing care workforce per 10,000 in population by professions|SF - Ear and hearing care workforce<br>SF - Ear and hearing care workforce (/10000 pop)|Profession|
+|Coverage of newborn screening for hearing loss|SF - Newborns screened for hearing loss (%)|Output|
+|Proportion of population utilizing Ear and Hearing Care services by selected ear condition categories (or ICD codes) in the facility (ICD or equivalent)|SF - Acute otitis media (%)<br>SF - Chronic nonsuppurative otitis media (%)<br>SF - Chronic suppurative otitis media (excluding cholesteatoma) (%)<br>SF - Cholesteatoma of middle ear (%)<br>SF - Other ear condition (%)||
+|Proportion of diagnosed hearing loss among persons accessing Ear and Hearing Care services by hearing loss categories|SF - Hearing loss cases (%)<br>SF - Sensorineural hearing loss type (%)<br>SF - Conductive hearing loss type (%)<br>SF - Mixed hearing loss type (%)|Degree of hearing loss<br>Age|
+|Average waiting time for mastoid surgery for middle ear cholesteatoma from first registration for the surgery to the surgery itself|SF - Average waiting days for mastoid surgery for middle ear cholesteatoma||
+|Proportion of persons with diagnosed hearing loss who use hearing technologies|SF - Hearing technologies fitting (%)|Technologies|
+|Proportion of persons who came for follow-up sessions after being fitted with hearing technology|SF - Timely follow-up visit of hearing aid & implant technologies fitting||
+
+Addition indicators no listed on the above tables have been included on the dashboards to improve the analysis of vision and eye care and ear and hearing care services.
+
+The full list of indicators and indicator groups is available in the [SF Metadata Reference File](add link here).
 
 There are two data elements used as denominators of some indicators that have been 'borrowed' from other programs and are not present on the SF data model, as:
 
