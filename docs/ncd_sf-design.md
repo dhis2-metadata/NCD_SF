@@ -272,17 +272,12 @@ Number of people with diabetes referred for diabetic retinopathy screening in th
 
 The full list of indicators and indicator groups is available in the [SF Metadata Reference File](add link here). These indicators facilitate analysis of vision and eye care and ear and hearing care services.
 
-There are two data elements used as denominators of some indicators that have been 'borrowed' from other programs and are not present on the SVH data model, as:
+There are two data elements used as denominators of some indicators that have been 'borrowed' from other programs and are not present on the SF data model, as:
 
 - **GEN - Population**: used on the indicators for both hearing and eye care service accessibility by disease
 - **RMNCAH - Live births in facility**: used on the indicators for coverage of both screening of hearing loss and congenital / neonatal eye conditions
 
 ## Validation rules
-
-The validation rules for SVH are divided across two groups:
-
-- **Eye care service delivery**
-- **Hear care service delivery**
 
 The full list of validation rules that have been set-up to ensure the quality of data are available in the [SF Metadata Reference File](add link here).
 
