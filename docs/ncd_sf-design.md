@@ -308,6 +308,13 @@ There are two data elements used as denominators of some indicators that have be
 
 ## Validation rules
 
+To ensure the quality of data collected, a series of validation rules have been set up on the *Eye care - Service delivery* data set comparing and crossing values of differents data elements as:
+
+- The amount of newborns screened for ROP has to be the same or lower than the number of newborns screened for congenital and neonatal conditions (normally all the newborns should be screened for congenital conditions)
+- The amount of newborns screened for ROP has to be the same or lower than newborns eligible for ROP screening
+- The amount of cataract performed has be the same as the total of preoperative visual acuity evaluation and the total of the surgery otucome
+- The amount of patients screened for diabetic retinopathy has to be the same or lower than the amount of patients referred for diabetic retinopathy screening
+
 The full list of validation rules that have been set-up to ensure the quality of data are available in the [SF Metadata Reference File](add link here).
 
 ## Dashboards
