@@ -20,8 +20,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "SF - Vision and Hearing age group",
@@ -38,8 +54,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "0-17 y",
@@ -54,8 +86,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "18-49 y",
@@ -70,8 +118,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "50+ y",
@@ -527,7 +591,7 @@
                 "public": "--------",
                 "userGroups": {
                     "Tukj8VmcPAB": {
-                        "access": "rw------",
+                        "access": "r-------",
                         "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
@@ -927,7 +991,7 @@
                 "public": "--------",
                 "userGroups": {
                     "Tukj8VmcPAB": {
-                        "access": "rw------",
+                        "access": "r-------",
                         "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
@@ -1274,7 +1338,7 @@
                 "public": "--------",
                 "userGroups": {
                     "Tukj8VmcPAB": {
-                        "access": "rw------",
+                        "access": "r-------",
                         "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
@@ -1735,7 +1799,7 @@
                 "public": "--------",
                 "userGroups": {
                     "Tukj8VmcPAB": {
-                        "access": "rw------",
+                        "access": "r-------",
                         "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
@@ -1996,7 +2060,7 @@
                 "public": "--------",
                 "userGroups": {
                     "Tukj8VmcPAB": {
-                        "access": "rw------",
+                        "access": "r-------",
                         "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
@@ -2257,7 +2321,7 @@
                 "public": "--------",
                 "userGroups": {
                     "Tukj8VmcPAB": {
-                        "access": "rw------",
+                        "access": "r-------",
                         "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
@@ -2284,16 +2348,28 @@
                     "id": "BuwGTpTj0j8"
                 },
                 {
+                    "id": "tl69y8Ih5Kv"
+                },
+                {
                     "id": "dKyQzLCBJvz"
                 },
                 {
                     "id": "DiplXitirHr"
                 },
                 {
+                    "id": "PtLpt62oLGF"
+                },
+                {
                     "id": "i1XFOyBwFXP"
                 },
                 {
+                    "id": "oYy2gUXeZms"
+                },
+                {
                     "id": "wcoGDKYBuId"
+                },
+                {
+                    "id": "Oc0L0N6YhR2"
                 },
                 {
                     "id": "zlNRjjADXHr"
@@ -2302,7 +2378,25 @@
                     "id": "PYQxwTm9dGs"
                 },
                 {
+                    "id": "B3A3f8Ob4VP"
+                },
+                {
+                    "id": "SOFtBLezWRj"
+                },
+                {
+                    "id": "Ch13sPZSTJ3"
+                },
+                {
+                    "id": "S5DWmtx08Vv"
+                },
+                {
                     "id": "HaOOM74kaEo"
+                },
+                {
+                    "id": "EC0XUj25xwn"
+                },
+                {
+                    "id": "OW47xH11Mlp"
                 },
                 {
                     "id": "VyXE3vmObtB"
@@ -2314,10 +2408,16 @@
                     "id": "oqcii85n4hE"
                 },
                 {
+                    "id": "Lc5BEYZsAeZ"
+                },
+                {
                     "id": "umiGb83VRZd"
                 },
                 {
                     "id": "nIMBWkGOYJM"
+                },
+                {
+                    "id": "slTvWdRDgIF"
                 },
                 {
                     "id": "wHw2WWNAeX2"
@@ -2335,6 +2435,12 @@
                     "id": "F90dvKClal3"
                 },
                 {
+                    "id": "W74Ga7M8wPq"
+                },
+                {
+                    "id": "J1Z4yIYaVfE"
+                },
+                {
                     "id": "lAq11A0SqZu"
                 },
                 {
@@ -2344,72 +2450,46 @@
                     "id": "qS9UJ56f2Fe"
                 },
                 {
+                    "id": "nyfStgOFMMm"
+                },
+                {
                     "id": "fdSIgiMHhhf"
                 },
                 {
                     "id": "gRmuEEeLwpf"
                 },
                 {
+                    "id": "g0in25hvhRj"
+                },
+                {
                     "id": "pVDmUYLmqpI"
                 },
                 {
                     "id": "YPALOA1xJro"
-                },
-                {
-                    "id": "tl69y8Ih5Kv"
-                },
-                {
-                    "id": "PtLpt62oLGF"
-                },
-                {
-                    "id": "oYy2gUXeZms"
-                },
-                {
-                    "id": "Oc0L0N6YhR2"
-                },
-                {
-                    "id": "B3A3f8Ob4VP"
-                },
-                {
-                    "id": "SOFtBLezWRj"
-                },
-                {
-                    "id": "Ch13sPZSTJ3"
-                },
-                {
-                    "id": "S5DWmtx08Vv"
-                },
-                {
-                    "id": "EC0XUj25xwn"
-                },
-                {
-                    "id": "OW47xH11Mlp"
-                },
-                {
-                    "id": "Lc5BEYZsAeZ"
-                },
-                {
-                    "id": "slTvWdRDgIF"
-                },
-                {
-                    "id": "W74Ga7M8wPq"
-                },
-                {
-                    "id": "J1Z4yIYaVfE"
-                },
-                {
-                    "id": "nyfStgOFMMm"
-                },
-                {
-                    "id": "g0in25hvhRj"
                 }
             ],
             "name": "SF - Eye care service delivery",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "translations": []
@@ -2466,8 +2546,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "translations": []
@@ -2575,8 +2671,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "translations": []
@@ -2633,8 +2745,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "translations": []
@@ -2927,8 +3055,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Acute otitis media",
@@ -2952,8 +3096,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Avg eye caseload per Ophthalmologist & Optometrist",
@@ -2977,8 +3137,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Average eye care caseload per staff",
@@ -3002,8 +3178,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Av wait days, mastoid, mid ear chole.,",
@@ -3031,8 +3223,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Average waiting time for cataract surgery",
@@ -3056,8 +3264,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Cataract",
@@ -3081,8 +3305,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Cataract (%)",
@@ -3106,8 +3346,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Cataract surgery performed",
@@ -3131,8 +3387,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Cataract - Vision impairment (%)",
@@ -3156,8 +3428,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Chronic nonsuppurative otitis media (%)",
@@ -3181,8 +3469,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Chronic suppurative otitis media services",
@@ -3206,8 +3510,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Chronic suppurative otitis media (%)",
@@ -3231,8 +3551,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Conductive hearing loss type (%)",
@@ -3256,8 +3592,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Diabetic retinopathy screening (%)",
@@ -3281,8 +3633,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Disorders Ocular Surface, Eyelid, Lacrimal",
@@ -3306,8 +3674,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Disorders Ocular Surf, Eyelid Lacrimal, Trauma (%)",
@@ -3331,8 +3715,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Dis Ocular Surf, Eyelid, Trauma-Vision impairment ",
@@ -3356,8 +3756,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Eye care service - Total visit",
@@ -3381,8 +3797,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Eye care workforce",
@@ -3406,8 +3838,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Eye care workforce (/10000 pop)",
@@ -3431,8 +3879,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Eye condition with vision impairment - 0-17 (%)",
@@ -3456,8 +3920,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Eye condition with vision impairment - 18-49 (%)",
@@ -3481,8 +3961,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Eye condition with vision impairment - 50+ (%)",
@@ -3506,8 +4002,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Glaucoma",
@@ -3531,8 +4043,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Glaucoma (%)",
@@ -3556,8 +4084,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Glaucoma - Vision impairment (%)",
@@ -3581,8 +4125,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Good (%)",
@@ -3606,8 +4166,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Hearing technologies fitting",
@@ -3631,8 +4207,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Implant technologies fitting ",
@@ -3656,8 +4248,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Hearing loss (/10000 population)",
@@ -3681,8 +4289,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Hearing loss cases",
@@ -3706,8 +4330,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Hearing loss cases - 50+ (%)",
@@ -3731,8 +4371,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Hearing technologies fitting (%)",
@@ -3756,8 +4412,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Mastoid surgery for middle ear cholesteatoma",
@@ -3781,8 +4453,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Mild degree of hearing loss (%)",
@@ -3806,8 +4494,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Mild VI (%)",
@@ -3831,8 +4535,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Mixed hearing loss type (%)",
@@ -3856,8 +4576,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Moderate-moderately severe degree hearing loss (%)",
@@ -3881,8 +4617,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Moderate VI (%)",
@@ -3906,8 +4658,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Newborns diagnosed with ROP (%)",
@@ -3931,8 +4699,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Retinopathy of prematurity (ROP) screening",
@@ -3956,8 +4740,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Newborns screened eye condition",
@@ -3981,8 +4781,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Newborns screened for eye conditions - failed (%)",
@@ -4006,8 +4822,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Newborns hearing screening results - failed (%)",
@@ -4031,8 +4863,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Normal vision (%)",
@@ -4056,8 +4904,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Ocular Trauma",
@@ -4081,8 +4945,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Ocular Trauma (%)",
@@ -4106,8 +4986,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Ocular Trauma - Vision impairment (%)",
@@ -4131,8 +5027,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Ophtamologists",
@@ -4156,8 +5068,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Ophtamologists (/10000 pop)",
@@ -4181,8 +5109,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Ophthalmic nurses",
@@ -4206,8 +5150,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Ophthalmic nurses (/10000 pop)",
@@ -4231,8 +5191,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Optometrists",
@@ -4256,8 +5232,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Optometrists (/10000 pop)",
@@ -4281,8 +5273,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Orthoptists",
@@ -4306,8 +5314,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Orthoptists (/10000 pop)",
@@ -4331,8 +5355,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Other allied Ophtalmic Personnel",
@@ -4356,8 +5396,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Other allied Ophtalmic Personnel (/10000 pop)",
@@ -4381,8 +5437,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Other ear condition (%)",
@@ -4406,8 +5478,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Other",
@@ -4431,8 +5519,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Other eye conditions (%)",
@@ -4456,8 +5560,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Other eye conditions - Vision impairment (%)",
@@ -4481,8 +5601,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "People with diabetes screened for retinopathy",
@@ -4506,8 +5642,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Poor (%)",
@@ -4531,8 +5683,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Refractive Error",
@@ -4556,8 +5724,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Refractive Error (%)",
@@ -4581,8 +5765,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Refractive Error - Vision impairment (%)",
@@ -4606,8 +5806,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Sensorineural hearing loss type (%)",
@@ -4631,8 +5847,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Severe VI or blindness (%)",
@@ -4656,8 +5888,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Suboptimal (%)",
@@ -4681,8 +5929,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "FU visit six months hearing aid & implant fitting",
@@ -4706,8 +5970,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Vision impairment (/10000 population)",
@@ -4731,8 +6011,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Vitreoretinal Disorders",
@@ -4756,8 +6052,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Vitreoretinal Disorders (%)",
@@ -4781,8 +6093,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Vitreoretinal Disorders - Vision impairment (%)",
@@ -4806,8 +6134,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Acute otitis media (%)",
@@ -4831,8 +6175,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Audiologist workforce (/10000 pop)",
@@ -4856,8 +6216,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Audiologists",
@@ -4881,8 +6257,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Audiology Technicians",
@@ -4906,8 +6298,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Audiology Technicians workforce (/10000 pop)",
@@ -4931,8 +6339,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Avg eye care caseload per ENT spec & Audiologists",
@@ -4956,8 +6380,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Average ear and hearing care caseload per staff",
@@ -4981,8 +6421,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Cholesteatoma of middle ear",
@@ -5006,8 +6462,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Cholesteatoma of middle ear (%)",
@@ -5031,8 +6503,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Chronic nonsuppurative otitis media",
@@ -5056,8 +6544,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Ear and hearing workforce",
@@ -5081,8 +6585,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Ear and hearing workforce (/10000 pop)",
@@ -5106,8 +6626,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "ENT specialist workforce (/10000 pop)",
@@ -5131,8 +6667,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "ENT Specialists",
@@ -5156,8 +6708,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Hearing loss cases (%)",
@@ -5181,8 +6749,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Hearing loss cases - 0-17 (%)",
@@ -5206,8 +6790,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Hearing loss cases - 18-49 (%)",
@@ -5231,8 +6831,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Hearing service - Total visit",
@@ -5256,8 +6872,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Newborns screened for hearing loss (%)",
@@ -5281,8 +6913,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Other Ear and Hearing workforce (/10000 pop)",
@@ -5306,8 +6954,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Other Ear and Hearing Workforce",
@@ -5331,8 +6995,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Other ear condition",
@@ -5356,8 +7036,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Severe or higher degree of hearing loss (%)",
@@ -5381,8 +7077,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Speech therapist workforce (/10000 pop)",
@@ -5406,8 +7118,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Speech Therapists",
@@ -5482,8 +7210,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "translations": []
@@ -5668,8 +7412,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -5853,8 +7613,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -6038,8 +7814,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -6226,8 +8018,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -6411,8 +8219,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -6601,8 +8425,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -6791,8 +8631,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -6985,8 +8841,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -7179,8 +9051,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -7373,8 +9261,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -7563,8 +9467,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -7757,8 +9677,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -7951,8 +9887,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -7965,8 +9917,8 @@
         "DHIS2Build": "accc6ee",
         "DHIS2Version": "2.39.1.1",
         "code": "NCD_SF",
-        "description": "Sensory function: Eye and Ear care (dashboard)",
-        "lastUpdated": "20230321T090632",
+        "description": "Sensory function: Eye and Ear care",
+        "lastUpdated": "20230323T161720",
         "locale": "en",
         "name": "NCD_SF_DSH_DHIS2.39.1.1-en",
         "type": "DSH",
@@ -7982,8 +9934,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "translations": [],
@@ -7998,8 +9966,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "translations": [],
@@ -8014,8 +9998,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "translations": [],
@@ -8594,8 +10594,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -9399,8 +11415,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -9966,8 +11998,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -11113,8 +13161,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -11458,8 +13522,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -11803,8 +13883,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -12008,8 +14104,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -12539,8 +14651,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -12676,8 +14804,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -13823,8 +15967,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -14227,8 +16387,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -14385,8 +16561,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -15458,8 +17650,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -16037,8 +18245,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -17183,8 +19407,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -17854,8 +20094,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -18391,8 +20647,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -19538,8 +21810,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -20717,8 +23005,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -20992,8 +23296,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -21537,8 +23857,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -22344,8 +24680,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -22610,8 +24962,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -22762,8 +25130,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -23031,8 +25415,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -23171,8 +25571,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -23716,8 +26132,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -23892,8 +26324,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -24157,8 +26605,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -24333,8 +26797,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -24485,8 +26965,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -24753,8 +27249,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -24894,8 +27406,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -25033,8 +27561,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -25468,8 +28012,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -26017,8 +28577,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -26566,8 +29142,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -27001,8 +29593,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -27294,8 +29902,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -27587,8 +30211,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "displayName": "SF - Access",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "displayName": "SF - Admin",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "displayName": "SF - Data capture",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
