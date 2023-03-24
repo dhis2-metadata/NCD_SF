@@ -35,13 +35,9 @@ In order to install the module, an administrator user account on DHIS2 is requir
 
 Great care should be taken to ensure that the server itself and the DHIS2 application are well secured, access rights to collected data should be defined. Details on securing a DHIS2 system is outside the scope of this document, and we refer to the [DHIS2 documentation](https://docs.dhis2.org/).
 
-## Metadata files
-
-While not always necessary, it can often be advantageous to make certain modifications to the metadata file before importing it into DHIS2.
-
 ## Preparing the metadata file
 
-It is required to apply some changes to the metadata file before it can be imported. The scope of work may vary from package to package.
+While not always necessary, it can often be advantageous to make certain modifications to the metadata file before importing it into DHIS2.
 
 ### Default data dimension
 
@@ -68,7 +64,10 @@ Indicator type is another type of object that can create import conflict because
 
 |Object                  | UID           | API endpoint                                                          |
 |------------------------|---------------|-----------------------------------------------------------------------|
-| Numerator only (number)| `CqNPn5KzksS` | `../api/indicatorTypes.json?filter=number:eq:true&filter=factor:eq:1` |
+| Numerator only (number)| `kHy61PbChXr` | `../api/indicatorTypes.json?filter=number:eq:true&filter=factor:eq:1` |
+| Rate (factor=1)        | `k4RGC3sMTzO` | `../api/indicatorTypes.json?filter=number:eq:true&filter=factor:eq:1` |
+| Percentage             | `hmSnCXmLYwt` | `../api/indicatorTypes.json?filter=number:eq:true&filter=factor:eq:100` |
+| Per 10 000             | `FWTvArgP0jt` | `../api/indicatorTypes.json?filter=number:eq:true&filter=factor:eq:10000` |
 
 ### Visualizations using Root Organisation Unit UID
 
@@ -124,19 +123,14 @@ Three core user groups are included in the packages:
 | Name | UID | Access rights |
 |-----|------|---------------|
 | SF access | `Tukj8VmcPAB` | View metadata, view data |
-| SF admin  | `jjxah7OuNid` | Edit and view metadata, view data |
+| SF admin  | `jjxah7OuNid` | Edit and view metadata, no data access |
 | SF data capture | `mGv5ypAj0S4` | View metadata, capture and view data |
 
 The users are assigned to the appropriate user group based on their role within the system. Sharing for other objects in the package may be adjusted depending on the set up. Refer to the [DHIS2 Documentation on sharing](#sharing) for more information.
 
 ### User Roles
 
-Users will need specific user roles in order to engage with the various applications within DHIS2. The following minimum roles are recommended:
-
-1. Tracker data analysis: Can see event analytics and access dashboards, event reports, event visualizer, data visualizer, pivot tables, reports and maps.
-2. Tracker data capture: Can add data values, update tracked entities, search tracked entities across org units and access tracker capture
-
-Refer to the [DHIS2 Documentation](https://docs.dhis2.org/) for more information on configuring user roles.
+Users will need specific user roles in order to engage with the various applications within DHIS2. Refer to the [DHIS2 Documentation](https://docs.dhis2.org/) for more information on configuring user roles.
 
 ### Organisation unit assignment
 
