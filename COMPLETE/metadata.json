@@ -1950,11 +1950,6 @@
                         "access": "rw------",
                         "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
-                    },
-                    "mGv5ypAj0S4": {
-                        "access": "r-------",
-                        "displayName": "SF - Data capture",
-                        "id": "mGv5ypAj0S4"
                     }
                 },
                 "users": {}
@@ -2355,11 +2350,6 @@
                         "access": "rw------",
                         "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
-                    },
-                    "mGv5ypAj0S4": {
-                        "access": "r-------",
-                        "displayName": "SF - Data capture",
-                        "id": "mGv5ypAj0S4"
                     }
                 },
                 "users": {}
@@ -2707,11 +2697,6 @@
                         "access": "rw------",
                         "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
-                    },
-                    "mGv5ypAj0S4": {
-                        "access": "r-------",
-                        "displayName": "SF - Data capture",
-                        "id": "mGv5ypAj0S4"
                     }
                 },
                 "users": {}
@@ -3173,11 +3158,6 @@
                         "access": "rw------",
                         "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
-                    },
-                    "mGv5ypAj0S4": {
-                        "access": "r-------",
-                        "displayName": "SF - Data capture",
-                        "id": "mGv5ypAj0S4"
                     }
                 },
                 "users": {}
@@ -3439,11 +3419,6 @@
                         "access": "rw------",
                         "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
-                    },
-                    "mGv5ypAj0S4": {
-                        "access": "r-------",
-                        "displayName": "SF - Data capture",
-                        "id": "mGv5ypAj0S4"
                     }
                 },
                 "users": {}
@@ -3705,11 +3680,6 @@
                         "access": "rw------",
                         "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
-                    },
-                    "mGv5ypAj0S4": {
-                        "access": "r-------",
-                        "displayName": "SF - Data capture",
-                        "id": "mGv5ypAj0S4"
                     }
                 },
                 "users": {}
@@ -6250,7 +6220,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "FEz60tiNOil"
+                        "id": "lT6d197gDRv"
                     },
                     "dataSet": {
                         "id": "uRrzcLSWeVh"
@@ -6258,7 +6228,63 @@
                 },
                 {
                     "dataElement": {
-                        "id": "Fs3hRNqLJJB"
+                        "id": "LmsKM7YY2hw"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "b9oN1AEZsja"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "HIkTNZjeaEw"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "CSBgvy6oUOq"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "raUjzYymz6G"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "nX8fcn9dyia"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "oDUJeJ4SAgO"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "FEz60tiNOil"
                     },
                     "dataSet": {
                         "id": "uRrzcLSWeVh"
@@ -6282,87 +6308,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "S1UCOz5Tr1b"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "HIkTNZjeaEw"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "qt8s8kyrk6c"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "b9oN1AEZsja"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "sX96WU7L4gu"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "kyoEYR44UmP"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "CSBgvy6oUOq"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "oDUJeJ4SAgO"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "lT6d197gDRv"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "nX8fcn9dyia"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "LmsKM7YY2hw"
                     },
                     "dataSet": {
                         "id": "uRrzcLSWeVh"
@@ -6378,7 +6324,31 @@
                 },
                 {
                     "dataElement": {
-                        "id": "raUjzYymz6G"
+                        "id": "Fs3hRNqLJJB"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "sX96WU7L4gu"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "S1UCOz5Tr1b"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "qt8s8kyrk6c"
                     },
                     "dataSet": {
                         "id": "uRrzcLSWeVh"
@@ -6402,7 +6372,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "r-------",
+                "public": "r-r-----",
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-r-----",
@@ -6442,7 +6412,63 @@
             "dataSetElements": [
                 {
                     "dataElement": {
+                        "id": "jkvzTkbBsds"
+                    },
+                    "dataSet": {
+                        "id": "xks3A3Z4Co1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "RQH7LqBCkUX"
+                    },
+                    "dataSet": {
+                        "id": "xks3A3Z4Co1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "x7cnyPxWbqN"
+                    },
+                    "dataSet": {
+                        "id": "xks3A3Z4Co1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "DvLyXY8CQB0"
+                    },
+                    "dataSet": {
+                        "id": "xks3A3Z4Co1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "TPpAFFclk9U"
+                    },
+                    "dataSet": {
+                        "id": "xks3A3Z4Co1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "SoBdFmbfBw8"
+                    },
+                    "dataSet": {
+                        "id": "xks3A3Z4Co1"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "xjv0oQ5URO6"
+                    },
+                    "dataSet": {
+                        "id": "xks3A3Z4Co1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "EyJamtdhOOe"
                     },
                     "dataSet": {
                         "id": "xks3A3Z4Co1"
@@ -6459,62 +6485,6 @@
                 {
                     "dataElement": {
                         "id": "L5nUGgWn6Op"
-                    },
-                    "dataSet": {
-                        "id": "xks3A3Z4Co1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "RQH7LqBCkUX"
-                    },
-                    "dataSet": {
-                        "id": "xks3A3Z4Co1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "DvLyXY8CQB0"
-                    },
-                    "dataSet": {
-                        "id": "xks3A3Z4Co1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "x7cnyPxWbqN"
-                    },
-                    "dataSet": {
-                        "id": "xks3A3Z4Co1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "SoBdFmbfBw8"
-                    },
-                    "dataSet": {
-                        "id": "xks3A3Z4Co1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "TPpAFFclk9U"
-                    },
-                    "dataSet": {
-                        "id": "xks3A3Z4Co1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "EyJamtdhOOe"
-                    },
-                    "dataSet": {
-                        "id": "xks3A3Z4Co1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "jkvzTkbBsds"
                     },
                     "dataSet": {
                         "id": "xks3A3Z4Co1"
@@ -6538,7 +6508,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "r-------",
+                "public": "r-r-----",
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-r-----",
@@ -6578,23 +6548,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "Z0sF9RqNrLD"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "VfhZJqrGQxJ"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "i1GGi64UNtm"
+                        "id": "MHWAAeHhu08"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -6610,7 +6564,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "CqzbXPXnJok"
+                        "id": "VG6Df2fDCHc"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -6618,7 +6572,47 @@
                 },
                 {
                     "dataElement": {
-                        "id": "eCrhzTQkIcu"
+                        "id": "DkcSRmI1dZA"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "i1GGi64UNtm"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "bKCHbgQd5nX"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Tbl10Dyzy53"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "gKrDjIa73HI"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "VAjOP5l1ucd"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -6642,23 +6636,23 @@
                 },
                 {
                     "dataElement": {
-                        "id": "VAjOP5l1ucd"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "gKrDjIa73HI"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "tWY1PavnH4T"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Z0sF9RqNrLD"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "EtbxvW954To"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -6674,31 +6668,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "urydTjPQykf"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "bKCHbgQd5nX"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "vIkbyMcSvMg"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "VG6Df2fDCHc"
+                        "id": "aUvIeJW6n4i"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -6714,14 +6684,6 @@
                 },
                 {
                     "dataElement": {
-                        "id": "vev1ZPvrtGK"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "Sv0Aj3dUs5o"
                     },
                     "dataSet": {
@@ -6730,7 +6692,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "aUvIeJW6n4i"
+                        "id": "vIkbyMcSvMg"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -6738,7 +6700,31 @@
                 },
                 {
                     "dataElement": {
-                        "id": "MHWAAeHhu08"
+                        "id": "eCrhzTQkIcu"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "urydTjPQykf"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "VfhZJqrGQxJ"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "CqzbXPXnJok"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -6754,23 +6740,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "DkcSRmI1dZA"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Tbl10Dyzy53"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "EtbxvW954To"
+                        "id": "vev1ZPvrtGK"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -6794,7 +6764,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "r-------",
+                "public": "r-r-----",
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-r-----",
@@ -14397,13 +14367,13 @@
     "organisationUnitGroupSets": [],
     "organisationUnitGroups": [],
     "package": {
-        "DHIS2Build": "e590bdc",
-        "DHIS2Version": "2.38.2.1-SNAPSHOT",
+        "DHIS2Build": "77616f5",
+        "DHIS2Version": "2.38.3",
         "code": "NCD_SF",
         "description": "Sensory function: Eye and Ear care",
-        "lastUpdated": "20230322T135258",
+        "lastUpdated": "20230324T163852",
         "locale": "en",
-        "name": "NCD_SF_AGG_DHIS2.38.2.1-SNAPSHOT-en",
+        "name": "NCD_SF_AGG_DHIS2.38.3-en",
         "type": "AGG",
         "version": ""
     },
@@ -14990,74 +14960,6 @@
     "validationRuleGroups": [
         {
             "attributeValues": [],
-            "code": "NCD_SF_HCSD_VR",
-            "id": "zor5Fl80Yp2",
-            "name": "SF - Ear care service delivery",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Tukj8VmcPAB": {
-                        "access": "r-------",
-                        "displayName": "SF - Access",
-                        "id": "Tukj8VmcPAB"
-                    },
-                    "jjxah7OuNid": {
-                        "access": "rw------",
-                        "displayName": "SF - Admin",
-                        "id": "jjxah7OuNid"
-                    },
-                    "mGv5ypAj0S4": {
-                        "access": "r-------",
-                        "displayName": "SF - Data capture",
-                        "id": "mGv5ypAj0S4"
-                    }
-                },
-                "users": {}
-            },
-            "translations": [],
-            "validationRules": [
-                {
-                    "id": "IMBn8cDcZle"
-                },
-                {
-                    "id": "TTYSiauO0v5"
-                },
-                {
-                    "id": "OqAzrVctXOK"
-                },
-                {
-                    "id": "q7iK06qPskS"
-                },
-                {
-                    "id": "RWqZZhkdXpo"
-                },
-                {
-                    "id": "zVtA0KgSfxB"
-                },
-                {
-                    "id": "Ty9LfeMwTBH"
-                },
-                {
-                    "id": "fGb5TWfcEFX"
-                },
-                {
-                    "id": "D8b8oiMs0la"
-                },
-                {
-                    "id": "s4MRkNXKdQg"
-                },
-                {
-                    "id": "P2PvvnXRnlq"
-                },
-                {
-                    "id": "rBfSBDo4Evb"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
             "code": "NCD_SF_ECSD_VR",
             "id": "fumX9e2zR94",
             "name": "SF - Eye care service delivery",
@@ -15211,162 +15113,6 @@
         },
         {
             "attributeValues": [],
-            "code": "NCD_SF_VR_0-17_HLC_HT_HEARING",
-            "id": "IMBn8cDcZle",
-            "importance": "MEDIUM",
-            "instruction": "Number of conductive hearing loss of patients aged 0-17 years old has to be higher or equal than the total amount of hearing technologies fitting in patients aged 0-17 years old",
-            "leftSide": {
-                "description": "Total conductive hearing loss 0-17 years",
-                "displayDescription": "Total conductive hearing loss 0-17 years",
-                "expression": "#{sX96WU7L4gu.DuZSbHzRz8z}+\r\n#{CSBgvy6oUOq.DuZSbHzRz8z}+\r\n#{DSiEgJHZkyi.DuZSbHzRz8z}",
-                "missingValueStrategy": "NEVER_SKIP",
-                "slidingWindow": false,
-                "translations": []
-            },
-            "name": "SF - Conductive hearing loss 0-17 years VS conductive hearing technologies 0-17 years - Hearing",
-            "operator": "greater_than_or_equal_to",
-            "organisationUnitLevels": [],
-            "periodType": "Monthly",
-            "rightSide": {
-                "description": "Total hearing technologies fitting 0-17 years",
-                "displayDescription": "Total hearing technologies fitting 0-17 years",
-                "expression": "#{LmsKM7YY2hw.DuZSbHzRz8z}+\r\n#{b9oN1AEZsja.DuZSbHzRz8z}",
-                "missingValueStrategy": "NEVER_SKIP",
-                "slidingWindow": false,
-                "translations": []
-            },
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Tukj8VmcPAB": {
-                        "access": "r-------",
-                        "displayName": "SF - Access",
-                        "id": "Tukj8VmcPAB"
-                    },
-                    "jjxah7OuNid": {
-                        "access": "rw------",
-                        "displayName": "SF - Admin",
-                        "id": "jjxah7OuNid"
-                    },
-                    "mGv5ypAj0S4": {
-                        "access": "r-------",
-                        "displayName": "SF - Data capture",
-                        "id": "mGv5ypAj0S4"
-                    }
-                },
-                "users": {}
-            },
-            "skipFormValidation": false,
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "code": "NCD_SF_VR_18-49_HLC_HT_HEARING",
-            "id": "OqAzrVctXOK",
-            "importance": "MEDIUM",
-            "instruction": "Number of conductive hearing loss of patients aged 18-49 years old has to be higher or equal than the total amount of hearing technologies fitting in patients aged 18-49 years old",
-            "leftSide": {
-                "description": "Total conductive hearing loss 18-49 years",
-                "displayDescription": "Total conductive hearing loss 18-49 years",
-                "expression": "#{sX96WU7L4gu.sILt0qVVs7U}+\r\n#{CSBgvy6oUOq.sILt0qVVs7U}+\r\n#{DSiEgJHZkyi.sILt0qVVs7U}",
-                "missingValueStrategy": "NEVER_SKIP",
-                "slidingWindow": false,
-                "translations": []
-            },
-            "name": "SF - Conductive hearing loss 18-49 years VS conductive hearing technologies 18-49 years - Hearing",
-            "operator": "greater_than_or_equal_to",
-            "organisationUnitLevels": [],
-            "periodType": "Monthly",
-            "rightSide": {
-                "description": "Total hearing technologies fitting 18-49 years",
-                "displayDescription": "Total hearing technologies fitting 18-49 years",
-                "expression": "#{LmsKM7YY2hw.sILt0qVVs7U}+\r\n#{b9oN1AEZsja.sILt0qVVs7U}",
-                "missingValueStrategy": "NEVER_SKIP",
-                "slidingWindow": false,
-                "translations": []
-            },
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Tukj8VmcPAB": {
-                        "access": "r-------",
-                        "displayName": "SF - Access",
-                        "id": "Tukj8VmcPAB"
-                    },
-                    "jjxah7OuNid": {
-                        "access": "rw------",
-                        "displayName": "SF - Admin",
-                        "id": "jjxah7OuNid"
-                    },
-                    "mGv5ypAj0S4": {
-                        "access": "r-------",
-                        "displayName": "SF - Data capture",
-                        "id": "mGv5ypAj0S4"
-                    }
-                },
-                "users": {}
-            },
-            "skipFormValidation": false,
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "code": "NCD_SF_VR_MR50_HLC_HT_HEARING",
-            "id": "zVtA0KgSfxB",
-            "importance": "MEDIUM",
-            "instruction": "Number of conductive hearing loss of patients aged 50+ years old has to be higher or equal than the total amount of hearing technologies fitting in patients aged 50+ years old",
-            "leftSide": {
-                "description": "Total conductive hearing loss 50+ years",
-                "displayDescription": "Total conductive hearing loss 50+ years",
-                "expression": "#{sX96WU7L4gu.oZoCDJYgKOg}+\r\n#{CSBgvy6oUOq.oZoCDJYgKOg}+\r\n#{DSiEgJHZkyi.oZoCDJYgKOg}",
-                "missingValueStrategy": "NEVER_SKIP",
-                "slidingWindow": false,
-                "translations": []
-            },
-            "name": "SF - Conductive hearing loss 50+ years VS conductive hearing technologies 50+ years - Hearing",
-            "operator": "greater_than_or_equal_to",
-            "organisationUnitLevels": [],
-            "periodType": "Monthly",
-            "rightSide": {
-                "description": "Total hearing technologies fitting 50+ years",
-                "displayDescription": "Total hearing technologies fitting 50+ years",
-                "expression": "#{LmsKM7YY2hw.oZoCDJYgKOg}+\r\n#{b9oN1AEZsja.oZoCDJYgKOg}",
-                "missingValueStrategy": "NEVER_SKIP",
-                "slidingWindow": false,
-                "translations": []
-            },
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Tukj8VmcPAB": {
-                        "access": "r-------",
-                        "displayName": "SF - Access",
-                        "id": "Tukj8VmcPAB"
-                    },
-                    "jjxah7OuNid": {
-                        "access": "rw------",
-                        "displayName": "SF - Admin",
-                        "id": "jjxah7OuNid"
-                    },
-                    "mGv5ypAj0S4": {
-                        "access": "r-------",
-                        "displayName": "SF - Data capture",
-                        "id": "mGv5ypAj0S4"
-                    }
-                },
-                "users": {}
-            },
-            "skipFormValidation": false,
-            "translations": []
-        },
-        {
-            "attributeValues": [],
             "code": "NCD_SF_RETHINOPATHY_SCREENING",
             "id": "zJZB98jziue",
             "importance": "MEDIUM",
@@ -15387,318 +15133,6 @@
                 "description": "Diabetic patients screened for retinopathy",
                 "displayDescription": "Diabetic patients screened for retinopathy",
                 "expression": "#{R6lFazQe7cS}",
-                "missingValueStrategy": "NEVER_SKIP",
-                "slidingWindow": false,
-                "translations": []
-            },
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Tukj8VmcPAB": {
-                        "access": "r-------",
-                        "displayName": "SF - Access",
-                        "id": "Tukj8VmcPAB"
-                    },
-                    "jjxah7OuNid": {
-                        "access": "rw------",
-                        "displayName": "SF - Admin",
-                        "id": "jjxah7OuNid"
-                    },
-                    "mGv5ypAj0S4": {
-                        "access": "r-------",
-                        "displayName": "SF - Data capture",
-                        "id": "mGv5ypAj0S4"
-                    }
-                },
-                "users": {}
-            },
-            "skipFormValidation": false,
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "code": "NCD_SF_VR_0-17_HL_FV_HEARING",
-            "id": "rBfSBDo4Evb",
-            "importance": "MEDIUM",
-            "instruction": "Number of first visit of patients aged 0-17 years old has to be higher or equal than the total amount of hearing loss in patients aged 0-17 years old",
-            "leftSide": {
-                "description": "Number of 0-17 yeras first visit",
-                "displayDescription": "Number of 0-17 yeras first visit",
-                "expression": "#{kyoEYR44UmP.gIaKFdjcoIG}",
-                "missingValueStrategy": "NEVER_SKIP",
-                "slidingWindow": false,
-                "translations": []
-            },
-            "name": "SF - First visit 0-17 years VS hearing loss 0-17 years - Hearing",
-            "operator": "greater_than_or_equal_to",
-            "organisationUnitLevels": [],
-            "periodType": "Monthly",
-            "rightSide": {
-                "description": "Total hearing loss 0-17 years",
-                "displayDescription": "Total hearing loss 0-17 years",
-                "expression": "#{sX96WU7L4gu.DuZSbHzRz8z}+\n#{CSBgvy6oUOq.DuZSbHzRz8z}+\n#{DSiEgJHZkyi.DuZSbHzRz8z}+\n#{sX96WU7L4gu.tfzby5d8mtm}+\n#{CSBgvy6oUOq.tfzby5d8mtm}+\n#{DSiEgJHZkyi.tfzby5d8mtm}+\n#{sX96WU7L4gu.TnIeZJTJOT2}+\n#{CSBgvy6oUOq.TnIeZJTJOT2}+\n#{DSiEgJHZkyi.TnIeZJTJOT2}",
-                "missingValueStrategy": "NEVER_SKIP",
-                "slidingWindow": false,
-                "translations": []
-            },
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Tukj8VmcPAB": {
-                        "access": "r-------",
-                        "displayName": "SF - Access",
-                        "id": "Tukj8VmcPAB"
-                    },
-                    "jjxah7OuNid": {
-                        "access": "rw------",
-                        "displayName": "SF - Admin",
-                        "id": "jjxah7OuNid"
-                    },
-                    "mGv5ypAj0S4": {
-                        "access": "r-------",
-                        "displayName": "SF - Data capture",
-                        "id": "mGv5ypAj0S4"
-                    }
-                },
-                "users": {}
-            },
-            "skipFormValidation": false,
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "code": "NCD_SF_VR_18-49_HL_FV_HEARING",
-            "id": "TTYSiauO0v5",
-            "importance": "MEDIUM",
-            "instruction": "Number of first visit of patients aged 18-49 years old has to be higher or equal than the total amount of hearing loss in patients aged 18-49 years old",
-            "leftSide": {
-                "description": "Number of 18-49 yeras first visit",
-                "displayDescription": "Number of 18-49 yeras first visit",
-                "expression": "#{kyoEYR44UmP.pqspRvweA3T}",
-                "missingValueStrategy": "NEVER_SKIP",
-                "slidingWindow": false,
-                "translations": []
-            },
-            "name": "SF - First visit 18-49 years VS hearing loss 18-49 years - Hearing",
-            "operator": "greater_than_or_equal_to",
-            "organisationUnitLevels": [],
-            "periodType": "Monthly",
-            "rightSide": {
-                "description": "Total hearing loss 18-49 years",
-                "displayDescription": "Total hearing loss 18-49 years",
-                "expression": "#{sX96WU7L4gu.sILt0qVVs7U}+\n#{CSBgvy6oUOq.sILt0qVVs7U}+\n#{DSiEgJHZkyi.sILt0qVVs7U}+\n#{sX96WU7L4gu.PfeoneCECAm}+\n#{CSBgvy6oUOq.PfeoneCECAm}+\n#{DSiEgJHZkyi.PfeoneCECAm}+\n#{sX96WU7L4gu.AthuEvWYA8F}+\n#{CSBgvy6oUOq.AthuEvWYA8F}+\n#{DSiEgJHZkyi.AthuEvWYA8F}",
-                "missingValueStrategy": "NEVER_SKIP",
-                "slidingWindow": false,
-                "translations": []
-            },
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Tukj8VmcPAB": {
-                        "access": "r-------",
-                        "displayName": "SF - Access",
-                        "id": "Tukj8VmcPAB"
-                    },
-                    "jjxah7OuNid": {
-                        "access": "rw------",
-                        "displayName": "SF - Admin",
-                        "id": "jjxah7OuNid"
-                    },
-                    "mGv5ypAj0S4": {
-                        "access": "r-------",
-                        "displayName": "SF - Data capture",
-                        "id": "mGv5ypAj0S4"
-                    }
-                },
-                "users": {}
-            },
-            "skipFormValidation": false,
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "code": "NCD_SF_VR_MR50_HL_FV_HEARING",
-            "id": "P2PvvnXRnlq",
-            "importance": "MEDIUM",
-            "instruction": "Number of first visit of patients aged 50+ years old has to be higher or equal than the total amount of hearing loss in patients aged 50+ years old",
-            "leftSide": {
-                "description": "Number of 50+ yeras first visit",
-                "displayDescription": "Number of 50+ yeras first visit",
-                "expression": "#{kyoEYR44UmP.lWrZjDnsaft}",
-                "missingValueStrategy": "NEVER_SKIP",
-                "slidingWindow": false,
-                "translations": []
-            },
-            "name": "SF - First visit 50+ years VS hearing loss 50+ years - Hearing",
-            "operator": "greater_than_or_equal_to",
-            "organisationUnitLevels": [],
-            "periodType": "Monthly",
-            "rightSide": {
-                "description": "Total hearing loss 50+ years",
-                "displayDescription": "Total hearing loss 50+ years",
-                "expression": "#{sX96WU7L4gu.oZoCDJYgKOg}+\n#{CSBgvy6oUOq.oZoCDJYgKOg}+\n#{DSiEgJHZkyi.oZoCDJYgKOg}+\n#{sX96WU7L4gu.loloaNR74kY}+\n#{CSBgvy6oUOq.loloaNR74kY}+\n#{DSiEgJHZkyi.loloaNR74kY}+\n#{sX96WU7L4gu.ITvEmyEv00I}+\n#{CSBgvy6oUOq.ITvEmyEv00I}+\n#{DSiEgJHZkyi.ITvEmyEv00I}",
-                "missingValueStrategy": "NEVER_SKIP",
-                "slidingWindow": false,
-                "translations": []
-            },
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Tukj8VmcPAB": {
-                        "access": "r-------",
-                        "displayName": "SF - Access",
-                        "id": "Tukj8VmcPAB"
-                    },
-                    "jjxah7OuNid": {
-                        "access": "rw------",
-                        "displayName": "SF - Admin",
-                        "id": "jjxah7OuNid"
-                    },
-                    "mGv5ypAj0S4": {
-                        "access": "r-------",
-                        "displayName": "SF - Data capture",
-                        "id": "mGv5ypAj0S4"
-                    }
-                },
-                "users": {}
-            },
-            "skipFormValidation": false,
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "code": "NCD_SF_VR_0-17_HLM_HT_HEARING",
-            "id": "q7iK06qPskS",
-            "importance": "MEDIUM",
-            "instruction": "Number of mixed hearing loss of patients aged 0-17 years old has to be higher or equal than the total amount of hearing technologies fitting in patients aged 0-17 years old",
-            "leftSide": {
-                "description": "Total mixed hearing loss 0-17 years",
-                "displayDescription": "Total mixed hearing loss 0-17 years",
-                "expression": "#{sX96WU7L4gu.tfzby5d8mtm}+\r\n#{CSBgvy6oUOq.tfzby5d8mtm}+\r\n#{DSiEgJHZkyi.tfzby5d8mtm}",
-                "missingValueStrategy": "NEVER_SKIP",
-                "slidingWindow": false,
-                "translations": []
-            },
-            "name": "SF - Mixed hearing loss 0-17 years VS mixed hearing technologies 0-17 years - Hearing",
-            "operator": "greater_than_or_equal_to",
-            "organisationUnitLevels": [],
-            "periodType": "Monthly",
-            "rightSide": {
-                "description": "Total hearing technologies fitting 0-17 years",
-                "displayDescription": "Total hearing technologies fitting 0-17 years",
-                "expression": "#{LmsKM7YY2hw.tfzby5d8mtm}+\r\n#{b9oN1AEZsja.tfzby5d8mtm}",
-                "missingValueStrategy": "NEVER_SKIP",
-                "slidingWindow": false,
-                "translations": []
-            },
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Tukj8VmcPAB": {
-                        "access": "r-------",
-                        "displayName": "SF - Access",
-                        "id": "Tukj8VmcPAB"
-                    },
-                    "jjxah7OuNid": {
-                        "access": "rw------",
-                        "displayName": "SF - Admin",
-                        "id": "jjxah7OuNid"
-                    },
-                    "mGv5ypAj0S4": {
-                        "access": "r-------",
-                        "displayName": "SF - Data capture",
-                        "id": "mGv5ypAj0S4"
-                    }
-                },
-                "users": {}
-            },
-            "skipFormValidation": false,
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "code": "NCD_SF_VR_18-49_HLM_HT_HEARING",
-            "id": "RWqZZhkdXpo",
-            "importance": "MEDIUM",
-            "instruction": "Number of mixed hearing loss of patients aged 18-49 years old has to be higher or equal than the total amount of hearing technologies fitting in patients aged 18-49 years old",
-            "leftSide": {
-                "description": "Total mixed hearing loss 18-49 years",
-                "displayDescription": "Total mixed hearing loss 18-49 years",
-                "expression": "#{sX96WU7L4gu.PfeoneCECAm}+\r\n#{CSBgvy6oUOq.PfeoneCECAm}+\r\n#{DSiEgJHZkyi.PfeoneCECAm}",
-                "missingValueStrategy": "NEVER_SKIP",
-                "slidingWindow": false,
-                "translations": []
-            },
-            "name": "SF - Mixed hearing loss 18-49 years VS mixed hearing technologies 18-49 years - Hearing",
-            "operator": "greater_than_or_equal_to",
-            "organisationUnitLevels": [],
-            "periodType": "Monthly",
-            "rightSide": {
-                "description": "Total hearing technologies fitting 18-49 years",
-                "displayDescription": "Total hearing technologies fitting 18-49 years",
-                "expression": "#{LmsKM7YY2hw.PfeoneCECAm}+\r\n#{b9oN1AEZsja.PfeoneCECAm}",
-                "missingValueStrategy": "NEVER_SKIP",
-                "slidingWindow": false,
-                "translations": []
-            },
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Tukj8VmcPAB": {
-                        "access": "r-------",
-                        "displayName": "SF - Access",
-                        "id": "Tukj8VmcPAB"
-                    },
-                    "jjxah7OuNid": {
-                        "access": "rw------",
-                        "displayName": "SF - Admin",
-                        "id": "jjxah7OuNid"
-                    },
-                    "mGv5ypAj0S4": {
-                        "access": "r-------",
-                        "displayName": "SF - Data capture",
-                        "id": "mGv5ypAj0S4"
-                    }
-                },
-                "users": {}
-            },
-            "skipFormValidation": false,
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "code": "NCD_SF_VR_MR50_HLM_HT_HEARING",
-            "id": "s4MRkNXKdQg",
-            "importance": "MEDIUM",
-            "instruction": "Number of mixed hearing loss of patients aged 50+ years old has to be higher or equal than the total amount of hearing technologies fitting in patients aged 50+ years old",
-            "leftSide": {
-                "description": "Total mixed hearing loss 50+ years",
-                "displayDescription": "Total mixed hearing loss 50+ years",
-                "expression": "#{sX96WU7L4gu.loloaNR74kY}+\r\n#{CSBgvy6oUOq.loloaNR74kY}+\r\n#{DSiEgJHZkyi.loloaNR74kY}",
-                "missingValueStrategy": "NEVER_SKIP",
-                "slidingWindow": false,
-                "translations": []
-            },
-            "name": "SF - Mixed hearing loss 50+ years VS mixed hearing technologies 50+ years - Hearing",
-            "operator": "greater_than_or_equal_to",
-            "organisationUnitLevels": [],
-            "periodType": "Monthly",
-            "rightSide": {
-                "description": "Total hearing technologies fitting 50+ years",
-                "displayDescription": "Total hearing technologies fitting 50+ years",
-                "expression": "#{LmsKM7YY2hw.loloaNR74kY}+\r\n#{b9oN1AEZsja.loloaNR74kY}",
                 "missingValueStrategy": "NEVER_SKIP",
                 "slidingWindow": false,
                 "translations": []
@@ -15803,162 +15237,6 @@
                 "description": "Newborns eligible for Retinopathy of prematurity (ROP) screening",
                 "displayDescription": "Newborns eligible for Retinopathy of prematurity (ROP) screening",
                 "expression": "#{vIkbyMcSvMg}",
-                "missingValueStrategy": "NEVER_SKIP",
-                "slidingWindow": false,
-                "translations": []
-            },
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Tukj8VmcPAB": {
-                        "access": "r-------",
-                        "displayName": "SF - Access",
-                        "id": "Tukj8VmcPAB"
-                    },
-                    "jjxah7OuNid": {
-                        "access": "rw------",
-                        "displayName": "SF - Admin",
-                        "id": "jjxah7OuNid"
-                    },
-                    "mGv5ypAj0S4": {
-                        "access": "r-------",
-                        "displayName": "SF - Data capture",
-                        "id": "mGv5ypAj0S4"
-                    }
-                },
-                "users": {}
-            },
-            "skipFormValidation": false,
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "code": "NCD_SF_VR_0-17_HLS_HT_HEARING",
-            "id": "Ty9LfeMwTBH",
-            "importance": "MEDIUM",
-            "instruction": "Number of sensorineural hearing loss of patients aged 0-17 years old has to be higher or equal than the total amount of hearing technologies fitting in patients aged 0-17 years old",
-            "leftSide": {
-                "description": "Total sensorineural hearing loss 0-17 years",
-                "displayDescription": "Total sensorineural hearing loss 0-17 years",
-                "expression": "#{sX96WU7L4gu.TnIeZJTJOT2}+\r\n#{CSBgvy6oUOq.TnIeZJTJOT2}+\r\n#{DSiEgJHZkyi.TnIeZJTJOT2}",
-                "missingValueStrategy": "NEVER_SKIP",
-                "slidingWindow": false,
-                "translations": []
-            },
-            "name": "SF - Sensorineural hearing loss 0-17 years VS Sensorineural hearing technologies 0-17 years - Hearing",
-            "operator": "greater_than_or_equal_to",
-            "organisationUnitLevels": [],
-            "periodType": "Monthly",
-            "rightSide": {
-                "description": "Total hearing technologies fitting 0-17 years",
-                "displayDescription": "Total hearing technologies fitting 0-17 years",
-                "expression": "#{LmsKM7YY2hw.TnIeZJTJOT2}+\r\n#{b9oN1AEZsja.TnIeZJTJOT2}",
-                "missingValueStrategy": "NEVER_SKIP",
-                "slidingWindow": false,
-                "translations": []
-            },
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Tukj8VmcPAB": {
-                        "access": "r-------",
-                        "displayName": "SF - Access",
-                        "id": "Tukj8VmcPAB"
-                    },
-                    "jjxah7OuNid": {
-                        "access": "rw------",
-                        "displayName": "SF - Admin",
-                        "id": "jjxah7OuNid"
-                    },
-                    "mGv5ypAj0S4": {
-                        "access": "r-------",
-                        "displayName": "SF - Data capture",
-                        "id": "mGv5ypAj0S4"
-                    }
-                },
-                "users": {}
-            },
-            "skipFormValidation": false,
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "code": "NCD_SF_VR_18-49_HLS_HT_HEARING",
-            "id": "D8b8oiMs0la",
-            "importance": "MEDIUM",
-            "instruction": "Number of sensorineural hearing loss of patients aged 18-49 years old has to be higher or equal than the total amount of hearing technologies fitting in patients aged 18-49 years old",
-            "leftSide": {
-                "description": "Total sensorineural hearing loss 18-49 years",
-                "displayDescription": "Total sensorineural hearing loss 18-49 years",
-                "expression": "#{sX96WU7L4gu.AthuEvWYA8F}+\r\n#{CSBgvy6oUOq.AthuEvWYA8F}+\r\n#{DSiEgJHZkyi.AthuEvWYA8F}",
-                "missingValueStrategy": "NEVER_SKIP",
-                "slidingWindow": false,
-                "translations": []
-            },
-            "name": "SF - Sensorineural hearing loss 18-49 years VS Sensorineural hearing technologies 18-49 years - Hearing",
-            "operator": "greater_than_or_equal_to",
-            "organisationUnitLevels": [],
-            "periodType": "Monthly",
-            "rightSide": {
-                "description": "Total hearing technologies fitting 18-49 years",
-                "displayDescription": "Total hearing technologies fitting 18-49 years",
-                "expression": "#{LmsKM7YY2hw.AthuEvWYA8F}+\r\n#{b9oN1AEZsja.AthuEvWYA8F}",
-                "missingValueStrategy": "NEVER_SKIP",
-                "slidingWindow": false,
-                "translations": []
-            },
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Tukj8VmcPAB": {
-                        "access": "r-------",
-                        "displayName": "SF - Access",
-                        "id": "Tukj8VmcPAB"
-                    },
-                    "jjxah7OuNid": {
-                        "access": "rw------",
-                        "displayName": "SF - Admin",
-                        "id": "jjxah7OuNid"
-                    },
-                    "mGv5ypAj0S4": {
-                        "access": "r-------",
-                        "displayName": "SF - Data capture",
-                        "id": "mGv5ypAj0S4"
-                    }
-                },
-                "users": {}
-            },
-            "skipFormValidation": false,
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "code": "NCD_SF_VR_MR50_HLS_HT_HEARING",
-            "id": "fGb5TWfcEFX",
-            "importance": "MEDIUM",
-            "instruction": "Number of sensorineural hearing loss of patients aged 50+ years old has to be higher or equal than the total amount of hearing technologies fitting in patients aged 50+ years old",
-            "leftSide": {
-                "description": "Total sensorineural hearing loss 50+ years",
-                "displayDescription": "Total sensorineural hearing loss 50+ years",
-                "expression": "#{sX96WU7L4gu.ITvEmyEv00I}+\r\n#{CSBgvy6oUOq.ITvEmyEv00I}+\r\n#{DSiEgJHZkyi.ITvEmyEv00I}",
-                "missingValueStrategy": "NEVER_SKIP",
-                "slidingWindow": false,
-                "translations": []
-            },
-            "name": "SF - Sensorineural hearing loss 50+ years VS Sensorineural hearing technologies 50+ years - Hearing",
-            "operator": "greater_than_or_equal_to",
-            "organisationUnitLevels": [],
-            "periodType": "Monthly",
-            "rightSide": {
-                "description": "Total hearing technologies fitting 50+ years",
-                "displayDescription": "Total hearing technologies fitting 50+ years",
-                "expression": "#{LmsKM7YY2hw.ITvEmyEv00I}+\r\n#{b9oN1AEZsja.ITvEmyEv00I}",
                 "missingValueStrategy": "NEVER_SKIP",
                 "slidingWindow": false,
                 "translations": []
@@ -27783,8 +27061,8 @@
                 },
                 {
                     "index": 1,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "title": {
                         "fontStyle": {
                             "textColor": "#cb181d"
@@ -27807,8 +27085,8 @@
                 },
                 {
                     "index": 1,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "title": {
                         "fontStyle": {
                             "textColor": "#cb181d"
@@ -27831,8 +27109,8 @@
                 },
                 {
                     "index": 1,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "title": {
                         "fontStyle": {
                             "textColor": "#cb181d"
@@ -27855,8 +27133,8 @@
                 },
                 {
                     "index": 1,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "title": {
                         "fontStyle": {
                             "textColor": "#cb181d"
@@ -27879,8 +27157,8 @@
                 },
                 {
                     "index": 1,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "title": {
                         "fontStyle": {
                             "textColor": "#cb181d"
@@ -27903,8 +27181,8 @@
                 },
                 {
                     "index": 1,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "title": {
                         "fontStyle": {
                             "textColor": "#cb181d"
@@ -27927,8 +27205,8 @@
                 },
                 {
                     "index": 1,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "title": {
                         "fontStyle": {
                             "textColor": "#cb181d"
@@ -27951,8 +27229,8 @@
                 },
                 {
                     "index": 1,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "title": {
                         "fontStyle": {
                             "textColor": "#cb181d"
@@ -27975,8 +27253,8 @@
                 },
                 {
                     "index": 1,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "title": {
                         "fontStyle": {
                             "textColor": "#cb181d"
@@ -27999,8 +27277,8 @@
                 },
                 {
                     "index": 1,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "title": {
                         "fontStyle": {
                             "textColor": "#cb181d"
@@ -28023,8 +27301,8 @@
                 },
                 {
                     "index": 1,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "title": {
                         "fontStyle": {
                             "textColor": "#cb181d"
@@ -28047,8 +27325,8 @@
                 },
                 {
                     "index": 1,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "title": {
                         "fontStyle": {
                             "textColor": "#cb181d"
@@ -28071,8 +27349,8 @@
                 },
                 {
                     "index": 1,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "title": {
                         "fontStyle": {
                             "textColor": "#cb181d"
@@ -28095,8 +27373,8 @@
                 },
                 {
                     "index": 1,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "title": {
                         "fontStyle": {
                             "textColor": "#cb181d"
@@ -28119,8 +27397,8 @@
                 },
                 {
                     "index": 1,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "title": {
                         "fontStyle": {
                             "textColor": "#cb181d"
@@ -28143,8 +27421,8 @@
                 },
                 {
                     "index": 1,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "title": {
                         "fontStyle": {
                             "textColor": "#cb181d"
@@ -28167,8 +27445,8 @@
                 },
                 {
                     "index": 1,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "title": {
                         "fontStyle": {
                             "textColor": "#cb181d"
@@ -28191,8 +27469,8 @@
                 },
                 {
                     "index": 1,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "title": {
                         "fontStyle": {
                             "textColor": "#cb181d"
@@ -28215,8 +27493,8 @@
                 },
                 {
                     "index": 1,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "title": {
                         "fontStyle": {
                             "textColor": "#cb181d"
@@ -28239,8 +27517,8 @@
                 },
                 {
                     "index": 1,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "title": {
                         "fontStyle": {
                             "textColor": "#cb181d"
@@ -28263,8 +27541,8 @@
                 },
                 {
                     "index": 1,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "title": {
                         "fontStyle": {
                             "textColor": "#cb181d"
@@ -28287,8 +27565,8 @@
                 },
                 {
                     "index": 1,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "title": {
                         "fontStyle": {
                             "textColor": "#cb181d"
@@ -28311,8 +27589,8 @@
                 },
                 {
                     "index": 1,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "title": {
                         "fontStyle": {
                             "textColor": "#cb181d"
@@ -28335,8 +27613,8 @@
                 },
                 {
                     "index": 1,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "title": {
                         "fontStyle": {
                             "textColor": "#cb181d"
@@ -28359,8 +27637,8 @@
                 },
                 {
                     "index": 1,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "title": {
                         "fontStyle": {
                             "textColor": "#cb181d"
@@ -28383,8 +27661,8 @@
                 },
                 {
                     "index": 1,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "title": {
                         "fontStyle": {
                             "textColor": "#cb181d"
@@ -28407,8 +27685,8 @@
                 },
                 {
                     "index": 1,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "title": {
                         "fontStyle": {
                             "textColor": "#cb181d"
@@ -28431,8 +27709,8 @@
                 },
                 {
                     "index": 1,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "title": {
                         "fontStyle": {
                             "textColor": "#cb181d"
@@ -28455,8 +27733,8 @@
                 },
                 {
                     "index": 1,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "title": {
                         "fontStyle": {
                             "textColor": "#cb181d"
@@ -28479,8 +27757,8 @@
                 },
                 {
                     "index": 1,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "title": {
                         "fontStyle": {
                             "textColor": "#cb181d"
@@ -28503,8 +27781,8 @@
                 },
                 {
                     "index": 1,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "title": {
                         "fontStyle": {
                             "textColor": "#cb181d"
@@ -28527,8 +27805,8 @@
                 },
                 {
                     "index": 1,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "title": {
                         "fontStyle": {
                             "textColor": "#cb181d"
