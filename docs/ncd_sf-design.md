@@ -343,7 +343,7 @@ A national and subnational level dashboard that illustrates the availability of 
 
 [### SF - 06 - Ear and hearing workforce](add link here)
 
-A national and subnational level dashboard that illustrates the availability of eye care workforce. Charts are used to provide the absolute numbers and ratio of the eye care workforce and the disaggregation according to the profiles. Maps are used to show the distribution of the workforce and the average caseload.
+A national and subnational level dashboard that illustrates the availability of eye care workforce. Charts are used to provide the absolute numbers and ratio of the ear and hearing care workforce and the disaggregation according to the profiles. Maps are used to show the distribution of the workforce and the average caseload.
 
 ## User groups
 
