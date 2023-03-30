@@ -266,13 +266,26 @@ The information on the '*Newborns eligible for retinopathy of prematurity (ROP) 
 
 ![Section of Diabetic retinopathy screening](resources/images/sf_016.png)
 
-Number of people with diabetes referred for diabetic retinopathy screening in the facility and from those the ones that have been clinically screened for diabetic retinopathy in the facility.0
+Number of people with diabetes referred for diabetic retinopathy screening in the facility and from those the ones that have been clinically screened for diabetic retinopathy in the facility.
 
-## Analytics and indicators
+## Validation rules
+
+To ensure the quality of data collected, a series of validation rules have been set up on the *Eye care - Service delivery* data set comparing and crossing values of differents data elements as:
+
+- The amount of newborns screened for ROP has to be the same or lower than the number of newborns screened for congenital and neonatal conditions (normally all the newborns should be screened for congenital conditions)
+- The amount of newborns screened for ROP has to be the same or lower than newborns eligible for ROP screening
+- The amount of cataract performed has be the same as the total of preoperative visual acuity evaluation and the total of the surgery otucome
+- The amount of patients screened for diabetic retinopathy has to be the same or lower than the amount of patients referred for diabetic retinopathy screening
+
+The full list of validation rules that have been set-up to ensure the quality of data are available in the [SF Metadata Reference File](add link here).
+
+## Dashboards and indicators
+
+### Indicators
 
 Hereunder you can find the core indicators with their DHIS2 counterpart and disaggregation used on the conceptualization of the toolkit
 
-### Eye care services
+#### Eye care services
 
 |Core indicators|DHIS2 Indicators|Disaggregation|
 | --------------|----------------|--------------|
@@ -285,7 +298,7 @@ Hereunder you can find the core indicators with their DHIS2 counterpart and disa
 |Coverage of newborn screening for congenital and neonatal eye conditions in the facility|SF - Newborns screened for congenital and neonatal eye condition (%)|Output|
 |Coverage of retinopathy of prematurity (ROP) screening among eligible infants admitted to neonatal intensive care according to national guidelines|SF - Newborns screend for retinopathy of prematurity (ROP) (%)|Output|
 
-### Ear and hearing care service
+#### Ear and hearing care service
 
 |Core indicators|DHIS2 Indicators|Disaggregation|
 | --------------|----------------|--------------|
@@ -306,18 +319,7 @@ There are two data elements used as denominators of some indicators that have be
 - **GEN - Population**: used on the indicators for both hearing and eye care service accessibility by disease
 - **RMNCAH - Live births in facility**: used on the indicators for coverage of both screening of hearing loss and congenital / neonatal eye conditions
 
-## Validation rules
-
-To ensure the quality of data collected, a series of validation rules have been set up on the *Eye care - Service delivery* data set comparing and crossing values of differents data elements as:
-
-- The amount of newborns screened for ROP has to be the same or lower than the number of newborns screened for congenital and neonatal conditions (normally all the newborns should be screened for congenital conditions)
-- The amount of newborns screened for ROP has to be the same or lower than newborns eligible for ROP screening
-- The amount of cataract performed has be the same as the total of preoperative visual acuity evaluation and the total of the surgery otucome
-- The amount of patients screened for diabetic retinopathy has to be the same or lower than the amount of patients referred for diabetic retinopathy screening
-
-The full list of validation rules that have been set-up to ensure the quality of data are available in the [SF Metadata Reference File](add link here).
-
-## Dashboards
+### Dashboards
 
 The dashboards and their items (charts, maps and tables) has been designed for national, subnational (district) and health facility level analysis according to the intended use and users.
 
