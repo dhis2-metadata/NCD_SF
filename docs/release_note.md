@@ -6,3 +6,16 @@ Initital release of the **Sensory Function: Eye and Ear Care** toolkit. The sens
 * Distribution, availability and coverage of eye and ear care services and workforce to inform national planning and decision-making in health policy, management, and clinical care
 * Morbidity patterns
 * Service utilization estimates
+
+## 1.0.1
+
+Amends on metadata nomencalture
+
+|Metadata|UID|Old Name|New name|
+|--------|---|--------|--------|
+|Data Element|TPpAFFclk9U|Ophtalmologists|Ophthalmologists|
+|Indicator|Ot7Ms8kbNsR|Ophthamologists|Ophthalmologists|
+|Indicator|xlyU6OFu2mF|Other allied Ophtalmic Personnel|Other allied Ophthalmic Personnel|
+|Indicator|kUg56s19ywx|Ophthamologists (/10000 pop)|Ophthalmologists (/10000 pop)|
+|Indicator|EbzW2uAfEaj|Other allied Ophtalmic Personnel (/10000 pop)|Other allied Ophthalmic Personnel (/10000 pop)|
+|Indicator|Lc5BEYZsAeZ|Newborns diagnosed with rethinopathy of prematutiry (%)|Newborns diagnosed with rethinopathy of prematurity (%)|
