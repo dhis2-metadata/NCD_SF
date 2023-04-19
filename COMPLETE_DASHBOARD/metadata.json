@@ -24,17 +24,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -58,17 +55,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -90,17 +84,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -122,17 +113,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -592,13 +580,15 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "id": "mGv5ypAj0S4"
                     }
                 },
                 "users": {}
@@ -992,13 +982,15 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "id": "mGv5ypAj0S4"
                     }
                 },
                 "users": {}
@@ -1339,13 +1331,15 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "id": "mGv5ypAj0S4"
                     }
                 },
                 "users": {}
@@ -1800,13 +1794,15 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "id": "mGv5ypAj0S4"
                     }
                 },
                 "users": {}
@@ -2061,13 +2057,15 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "id": "mGv5ypAj0S4"
                     }
                 },
                 "users": {}
@@ -2322,13 +2320,15 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "id": "mGv5ypAj0S4"
                     }
                 },
                 "users": {}
@@ -2378,6 +2378,9 @@
                     "id": "oqcii85n4hE"
                 },
                 {
+                    "id": "Lc5BEYZsAeZ"
+                },
+                {
                     "id": "umiGb83VRZd"
                 },
                 {
@@ -2423,6 +2426,9 @@
                     "id": "tl69y8Ih5Kv"
                 },
                 {
+                    "id": "g0in25hvhRj"
+                },
+                {
                     "id": "PtLpt62oLGF"
                 },
                 {
@@ -2450,9 +2456,6 @@
                     "id": "EC0XUj25xwn"
                 },
                 {
-                    "id": "Lc5BEYZsAeZ"
-                },
-                {
                     "id": "slTvWdRDgIF"
                 },
                 {
@@ -2463,9 +2466,6 @@
                 },
                 {
                     "id": "nyfStgOFMMm"
-                },
-                {
-                    "id": "g0in25hvhRj"
                 }
             ],
             "name": "SF - Eye care service delivery",
@@ -2476,17 +2476,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -2500,13 +2497,16 @@
             "id": "odjCafRLzgB",
             "indicators": [
                 {
-                    "id": "t8aMv5oTiAl"
+                    "id": "kUg56s19ywx"
+                },
+                {
+                    "id": "EbzW2uAfEaj"
                 },
                 {
                     "id": "xlyU6OFu2mF"
                 },
                 {
-                    "id": "b6Q6JujKbOB"
+                    "id": "uEx4vBrJgOe"
                 },
                 {
                     "id": "reqdUg3o7YY"
@@ -2518,13 +2518,7 @@
                     "id": "QiRT5GJOQXY"
                 },
                 {
-                    "id": "kUg56s19ywx"
-                },
-                {
-                    "id": "Ot7Ms8kbNsR"
-                },
-                {
-                    "id": "Q2stXTnkhPo"
+                    "id": "t8aMv5oTiAl"
                 },
                 {
                     "id": "Dg2tGF2MLgb"
@@ -2533,13 +2527,16 @@
                     "id": "FAp46GG8mKq"
                 },
                 {
-                    "id": "EbzW2uAfEaj"
+                    "id": "Q2stXTnkhPo"
+                },
+                {
+                    "id": "b6Q6JujKbOB"
+                },
+                {
+                    "id": "Ot7Ms8kbNsR"
                 },
                 {
                     "id": "YXuWRjBsgjL"
-                },
-                {
-                    "id": "uEx4vBrJgOe"
                 }
             ],
             "name": "SF - Eye care workforce",
@@ -2550,17 +2547,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -2610,9 +2604,6 @@
                     "id": "Ep6NXmVcyvs"
                 },
                 {
-                    "id": "Cly6Aa8MWra"
-                },
-                {
                     "id": "muEtXfE2xnm"
                 },
                 {
@@ -2635,6 +2626,9 @@
                 },
                 {
                     "id": "AnTjvHUANBN"
+                },
+                {
+                    "id": "Cly6Aa8MWra"
                 },
                 {
                     "id": "cA9K3Fmgph1"
@@ -2675,17 +2669,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -2749,17 +2740,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -3059,17 +3047,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -3100,17 +3085,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -3141,17 +3123,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -3182,17 +3161,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -3227,17 +3203,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -3268,17 +3241,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -3309,17 +3279,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -3350,17 +3317,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -3391,17 +3355,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -3432,17 +3393,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -3473,17 +3431,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -3514,17 +3469,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -3555,17 +3507,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -3596,17 +3545,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -3637,17 +3583,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -3678,17 +3621,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -3719,17 +3659,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -3760,17 +3697,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -3801,17 +3735,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -3826,7 +3757,7 @@
             "code": "NCD_SF_EC_WORKFORCE_RATIO_10000",
             "denominator": -1,
             "denominatorDescription": "Population",
-            "description": "Proportion of all eye care workforce out of 10000 population",
+            "description": "Ratio of all eye care workforce out of 10000 population",
             "id": "Q2stXTnkhPo",
             "indicatorType": {
                 "id": "FWTvArgP0jt"
@@ -3842,17 +3773,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -3883,17 +3811,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -3924,17 +3849,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -3965,17 +3887,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -4006,17 +3925,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -4047,17 +3963,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -4088,17 +4001,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -4129,17 +4039,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -4170,17 +4077,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -4211,64 +4115,20 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
                 "users": {}
             },
             "shortName": "Implant technologies fitting ",
-            "translations": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "NCD_SF_HEARING_LOSS_PREVALENCE",
-            "denominator": -1,
-            "denominatorDescription": "GEN annual population",
-            "description": "Proportion of hearing loss cases out of all the population (/10000)",
-            "id": "Cly6Aa8MWra",
-            "indicatorType": {
-                "id": "FWTvArgP0jt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] SF - Hearing loss (/10000 population)",
-            "numerator": -1,
-            "numeratorDescription": "Total number of hearing loss diagnoses",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Tukj8VmcPAB": {
-                        "access": "r-------",
-                        "displayName": "SF - Access",
-                        "id": "Tukj8VmcPAB"
-                    },
-                    "jjxah7OuNid": {
-                        "access": "rw------",
-                        "displayName": "SF - Admin",
-                        "id": "jjxah7OuNid"
-                    },
-                    "mGv5ypAj0S4": {
-                        "access": "r-------",
-                        "displayName": "SF - Data capture",
-                        "id": "mGv5ypAj0S4"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Hearing loss (/10000 population)",
             "translations": []
         },
         {
@@ -4293,17 +4153,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -4334,17 +4191,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -4375,17 +4229,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -4416,17 +4267,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -4457,17 +4305,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -4498,17 +4343,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -4539,17 +4381,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -4580,17 +4419,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -4621,17 +4457,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -4652,7 +4485,7 @@
                 "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "[CONFIG] SF - Newborns diagnosed with rethinopathy of prematutiry (%)",
+            "name": "[CONFIG] SF - Newborns diagnosed with rethinopathy of prematurity (%)",
             "numerator": -1,
             "numeratorDescription": "SF - Newborns diagnosed with retinopathy of prematurity (ROP)",
             "sharing": {
@@ -4662,17 +4495,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -4703,17 +4533,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -4744,17 +4571,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -4785,23 +4609,58 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
                 "users": {}
             },
             "shortName": "Newborns screened for eye conditions - failed (%)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "NCD_SF_HSD_NB_SCREENING_ALL_PROP",
+            "denominator": -1,
+            "denominatorDescription": "RMNCAH - Live births in facility",
+            "description": "Proportion of newborns screened for hearing loss out of all live births",
+            "id": "AnTjvHUANBN",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] SF - Newborns screened for hearing loss (%)",
+            "numerator": -1,
+            "numeratorDescription": "Total newborn screend for hearing loss",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Newborns screened for hearing loss (%)",
             "translations": []
         },
         {
@@ -4826,17 +4685,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -4867,17 +4723,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -4908,17 +4761,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -4949,17 +4799,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -4990,105 +4837,20 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
                 "users": {}
             },
             "shortName": "Ocular Trauma - Vision impairment (%)",
-            "translations": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "NCD_SF_OPHTAMOLOGISTS",
-            "denominator": -1,
-            "denominatorDescription": "1",
-            "description": "Specialist medical practitioners that diagnose, treat, and perform non-surgical and/or surgical procedures on people with vision disorders and eye conditions; and rehabilitative care of people with permanent visual impairment.",
-            "id": "Ot7Ms8kbNsR",
-            "indicatorType": {
-                "id": "kHy61PbChXr"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] SF - Ophtamologists",
-            "numerator": -1,
-            "numeratorDescription": "Ophtamologists",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Tukj8VmcPAB": {
-                        "access": "r-------",
-                        "displayName": "SF - Access",
-                        "id": "Tukj8VmcPAB"
-                    },
-                    "jjxah7OuNid": {
-                        "access": "rw------",
-                        "displayName": "SF - Admin",
-                        "id": "jjxah7OuNid"
-                    },
-                    "mGv5ypAj0S4": {
-                        "access": "r-------",
-                        "displayName": "SF - Data capture",
-                        "id": "mGv5ypAj0S4"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Ophtamologists",
-            "translations": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "NCD_SF_OPHTAMOLOGISTS_RATIO_10000",
-            "denominator": -1,
-            "denominatorDescription": "Population",
-            "description": "Proportion of ophthalmologists out of 10000 population",
-            "id": "kUg56s19ywx",
-            "indicatorType": {
-                "id": "FWTvArgP0jt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] SF - Ophtamologists (/10000 pop)",
-            "numerator": -1,
-            "numeratorDescription": "Ophtamologists",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Tukj8VmcPAB": {
-                        "access": "r-------",
-                        "displayName": "SF - Access",
-                        "id": "Tukj8VmcPAB"
-                    },
-                    "jjxah7OuNid": {
-                        "access": "rw------",
-                        "displayName": "SF - Admin",
-                        "id": "jjxah7OuNid"
-                    },
-                    "mGv5ypAj0S4": {
-                        "access": "r-------",
-                        "displayName": "SF - Data capture",
-                        "id": "mGv5ypAj0S4"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Ophtamologists (/10000 pop)",
             "translations": []
         },
         {
@@ -5113,17 +4875,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -5138,7 +4897,7 @@
             "code": "NCD_SF_OPHTHALMIC_NURSES_RATIO_10000",
             "denominator": -1,
             "denominatorDescription": "Population",
-            "description": "Proportion of ophthalmic nurses out of 10000 population",
+            "description": "Ratio of ophthalmic nurses out of 10000 population",
             "id": "uEx4vBrJgOe",
             "indicatorType": {
                 "id": "FWTvArgP0jt"
@@ -5154,23 +4913,96 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
                 "users": {}
             },
             "shortName": "Ophthalmic nurses (/10000 pop)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "NCD_SF_OPHTALMOLOGISTS",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "description": "Specialist medical practitioners that diagnose, treat, and perform non-surgical and/or surgical procedures on people with vision disorders and eye conditions; and rehabilitative care of people with permanent visual impairment.",
+            "id": "Ot7Ms8kbNsR",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] SF - Ophthalmologists",
+            "numerator": -1,
+            "numeratorDescription": "Ophtamologists",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Ophtalmologists",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "NCD_SF_OPHTAMOLOGISTS_RATIO_10000",
+            "denominator": -1,
+            "denominatorDescription": "Population",
+            "description": "Ratio of ophthalmologists out of 10000 population",
+            "id": "kUg56s19ywx",
+            "indicatorType": {
+                "id": "FWTvArgP0jt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] SF - Ophthalmologists (/10000 pop)",
+            "numerator": -1,
+            "numeratorDescription": "Ophthalmologists",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Ophtamologists (/10000 pop)",
             "translations": []
         },
         {
@@ -5195,17 +5027,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -5220,7 +5049,7 @@
             "code": "NCD_SF_OPTOMETRISTS_RATIO_10000",
             "denominator": -1,
             "denominatorDescription": "Population",
-            "description": "Proportion of optometrists out of 10000 population",
+            "description": "Ratio of optometrists out of 10000 population",
             "id": "t8aMv5oTiAl",
             "indicatorType": {
                 "id": "FWTvArgP0jt"
@@ -5236,17 +5065,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -5277,17 +5103,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -5302,7 +5125,7 @@
             "code": "NCD_SF_ORTHOPTISTS_RATIO_10000",
             "denominator": -1,
             "denominatorDescription": "Population",
-            "description": "Proportion of orthoptists out of 10000 population",
+            "description": "Ratio of orthoptists out of 10000 population",
             "id": "b6Q6JujKbOB",
             "indicatorType": {
                 "id": "FWTvArgP0jt"
@@ -5318,17 +5141,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -5349,9 +5169,9 @@
                 "id": "kHy61PbChXr"
             },
             "legendSets": [],
-            "name": "[CONFIG] SF - Other allied Ophtalmic Personnel",
+            "name": "[CONFIG] SF - Other allied Ophthalmic Personnel",
             "numerator": -1,
-            "numeratorDescription": "Allied Ophtalmic Personnel",
+            "numeratorDescription": "Allied Ophthalmic Personnel",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -5359,17 +5179,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -5384,15 +5201,15 @@
             "code": "NCD_SF_AOP_RATIO_10000",
             "denominator": -1,
             "denominatorDescription": "Population",
-            "description": "Proportion of other allied ophthalmic personnel out of 10000 population",
+            "description": "Ratio of other allied ophthalmic personnel out of 10000 population",
             "id": "EbzW2uAfEaj",
             "indicatorType": {
                 "id": "FWTvArgP0jt"
             },
             "legendSets": [],
-            "name": "[CONFIG] SF - Other allied Ophtalmic Personnel (/10000 pop)",
+            "name": "[CONFIG] SF - Other allied Ophthalmic Personnel (/10000 pop)",
             "numerator": -1,
-            "numeratorDescription": "Allied Ophtalmic Personnel",
+            "numeratorDescription": "Allied Ophthalmic Personnel",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -5400,17 +5217,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -5441,17 +5255,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -5482,17 +5293,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -5523,17 +5331,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -5564,17 +5369,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -5605,17 +5407,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -5646,17 +5445,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -5687,17 +5483,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -5728,17 +5521,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -5769,17 +5559,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -5810,17 +5597,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -5851,17 +5635,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -5892,17 +5673,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -5933,17 +5711,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -5958,7 +5733,7 @@
             "code": "NCD_SF_IMPAIRMENT_PREVALENCE",
             "denominator": -1,
             "denominatorDescription": "GEN annual population",
-            "description": "Proportion of eye conditions with vision impairment out of all the population (/10000)",
+            "description": "Ratio of eye conditions with vision impairment out of all the population (/10000)",
             "id": "g0in25hvhRj",
             "indicatorType": {
                 "id": "FWTvArgP0jt"
@@ -5974,17 +5749,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -6015,17 +5787,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -6056,17 +5825,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -6097,17 +5863,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -6138,17 +5901,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -6179,17 +5939,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -6220,17 +5977,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -6261,17 +6015,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -6302,17 +6053,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -6343,17 +6091,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -6384,17 +6129,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -6425,17 +6167,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -6466,17 +6205,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -6507,17 +6243,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -6548,17 +6281,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -6589,17 +6319,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -6630,17 +6357,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -6671,23 +6395,58 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
                 "users": {}
             },
             "shortName": "ENT Specialists",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "NCD_SF_HEARING_LOSS_PREVALENCE",
+            "denominator": -1,
+            "denominatorDescription": "GEN annual population",
+            "description": "Ratio of hearing loss cases out of all the population (/10000)",
+            "id": "Cly6Aa8MWra",
+            "indicatorType": {
+                "id": "FWTvArgP0jt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] SF - Hearing loss (/10000 population)",
+            "numerator": -1,
+            "numeratorDescription": "Total number of hearing loss diagnoses",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Hearing loss (/10000 population)",
             "translations": []
         },
         {
@@ -6712,17 +6471,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -6753,17 +6509,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -6794,17 +6547,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -6835,64 +6585,20 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
                 "users": {}
             },
             "shortName": "Hearing service - Total visit",
-            "translations": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "NCD_SF_HSD_NB_SCREENING_ALL_PROP",
-            "denominator": -1,
-            "denominatorDescription": "RMNCAH - Live births in facility",
-            "description": "Proportion of newborns screened for hearing loss out of all live births",
-            "id": "AnTjvHUANBN",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] SF - Newborns screened for hearing loss (%)",
-            "numerator": -1,
-            "numeratorDescription": "Total newborn screend for hearing loss",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Tukj8VmcPAB": {
-                        "access": "r-------",
-                        "displayName": "SF - Access",
-                        "id": "Tukj8VmcPAB"
-                    },
-                    "jjxah7OuNid": {
-                        "access": "rw------",
-                        "displayName": "SF - Admin",
-                        "id": "jjxah7OuNid"
-                    },
-                    "mGv5ypAj0S4": {
-                        "access": "r-------",
-                        "displayName": "SF - Data capture",
-                        "id": "mGv5ypAj0S4"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Newborns screened for hearing loss (%)",
             "translations": []
         },
         {
@@ -6917,17 +6623,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -6958,17 +6661,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -6999,17 +6699,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -7040,17 +6737,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -7081,17 +6775,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -7122,17 +6813,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -7214,17 +6902,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -7416,17 +7101,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -7617,17 +7299,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -7818,17 +7497,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -8022,17 +7698,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -8223,17 +7896,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -8428,17 +8098,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -8633,17 +8300,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -8842,17 +8506,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -9051,17 +8712,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -9260,17 +8918,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -9465,17 +9120,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -9674,17 +9326,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -9883,17 +9532,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -9910,7 +9556,7 @@
         "DHIS2Version": "2.38.3",
         "code": "NCD_SF",
         "description": "Sensory function: Eye and Ear care (dashboard)",
-        "lastUpdated": "20230323T161720",
+        "lastUpdated": "20230418T120411",
         "locale": "en",
         "name": "NCD_SF_DSH_DHIS2.38.3-en",
         "type": "DSH",
@@ -9930,17 +9576,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -9962,17 +9605,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -9994,17 +9634,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -10022,8 +9659,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
                 "users": {}
             },
             "translations": [
@@ -10590,17 +10240,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -11411,17 +11058,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -11994,17 +11638,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -13157,17 +12798,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -13518,17 +13156,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -13879,17 +13514,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -14100,17 +13732,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -14647,17 +14276,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -14800,17 +14426,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -15963,17 +15586,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -16383,17 +16003,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -16557,17 +16174,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -17646,17 +17260,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -18241,17 +17852,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -19403,17 +19011,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -20090,17 +19695,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -20643,17 +20245,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -21806,17 +21405,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -23001,17 +22597,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -23292,17 +22885,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -23853,17 +23443,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -24676,17 +24263,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -24958,17 +24542,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -25126,17 +24707,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -25411,17 +24989,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -25567,17 +25142,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -26128,17 +25700,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -26320,17 +25889,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -26601,17 +26167,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -26793,17 +26356,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -26961,17 +26521,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -27245,17 +26802,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -27402,17 +26956,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -27557,17 +27108,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -28008,17 +27556,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -28573,17 +28118,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -29138,17 +28680,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -29589,17 +29128,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -29898,17 +29434,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
@@ -30207,17 +29740,14 @@
                 "userGroups": {
                     "Tukj8VmcPAB": {
                         "access": "r-------",
-                        "displayName": "SF - Access",
                         "id": "Tukj8VmcPAB"
                     },
                     "jjxah7OuNid": {
                         "access": "rw------",
-                        "displayName": "SF - Admin",
                         "id": "jjxah7OuNid"
                     },
                     "mGv5ypAj0S4": {
                         "access": "r-------",
-                        "displayName": "SF - Data capture",
                         "id": "mGv5ypAj0S4"
                     }
                 },
