@@ -7938,11 +7938,11 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "KPKPZ7RB7K3",
+                    "id": "hUKS87NAS7Y",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "orgUnit",
-                    "name": "KPKPZ7RB7K3",
+                    "name": "hUKS87NAS7Y",
                     "opacity": 1.0,
                     "organisationUnitGroupSetDimensions": [],
                     "organisationUnitLevels": [
@@ -8003,7 +8003,7 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "XncCbAI1Cox",
+                    "id": "hh4riHtjHAu",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
@@ -8018,11 +8018,7 @@
                     "organisationUnits": [],
                     "parentGraphMap": {},
                     "parentLevel": 0,
-                    "periods": [
-                        {
-                            "id": "2021"
-                        }
-                    ],
+                    "periods": [],
                     "programIndicatorDimensions": [],
                     "relativePeriods": {
                         "biMonthsThisYear": false,
@@ -8054,7 +8050,7 @@
                         "lastQuarter": false,
                         "lastSixMonth": false,
                         "lastWeek": false,
-                        "lastYear": false,
+                        "lastYear": true,
                         "monthsLastYear": false,
                         "monthsThisYear": false,
                         "quartersLastYear": false,
@@ -8140,11 +8136,11 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "CM9Fc4pUiWX",
+                    "id": "Zu2lYCyuwUp",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "orgUnit",
-                    "name": "CM9Fc4pUiWX",
+                    "name": "Zu2lYCyuwUp",
                     "opacity": 1.0,
                     "organisationUnitGroupSetDimensions": [],
                     "organisationUnitLevels": [
@@ -8205,7 +8201,7 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "hOOC8m6ljN0",
+                    "id": "rh4QBDOimsN",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
@@ -8220,11 +8216,7 @@
                     "organisationUnits": [],
                     "parentGraphMap": {},
                     "parentLevel": 0,
-                    "periods": [
-                        {
-                            "id": "2021"
-                        }
-                    ],
+                    "periods": [],
                     "programIndicatorDimensions": [],
                     "relativePeriods": {
                         "biMonthsThisYear": false,
@@ -8256,7 +8248,7 @@
                         "lastQuarter": false,
                         "lastSixMonth": false,
                         "lastWeek": false,
-                        "lastYear": false,
+                        "lastYear": true,
                         "monthsLastYear": false,
                         "monthsThisYear": false,
                         "quartersLastYear": false,
@@ -8342,11 +8334,11 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "YxTATtS1qYo",
+                    "id": "KSvNYi7juX8",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "orgUnit",
-                    "name": "YxTATtS1qYo",
+                    "name": "KSvNYi7juX8",
                     "opacity": 1.0,
                     "organisationUnitGroupSetDimensions": [],
                     "organisationUnitLevels": [
@@ -8407,7 +8399,7 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "m08A1fY7T3q",
+                    "id": "VBWeshmo2tq",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
@@ -8426,11 +8418,7 @@
                     ],
                     "parentGraphMap": {},
                     "parentLevel": 0,
-                    "periods": [
-                        {
-                            "id": "2021"
-                        }
-                    ],
+                    "periods": [],
                     "programIndicatorDimensions": [],
                     "relativePeriods": {
                         "biMonthsThisYear": false,
@@ -8462,7 +8450,7 @@
                         "lastQuarter": false,
                         "lastSixMonth": false,
                         "lastWeek": false,
-                        "lastYear": false,
+                        "lastYear": true,
                         "monthsLastYear": false,
                         "monthsThisYear": false,
                         "quartersLastYear": false,
@@ -8548,11 +8536,11 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "oEsk31ljh49",
+                    "id": "uxnhk1k9uUR",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "orgUnit",
-                    "name": "oEsk31ljh49",
+                    "name": "uxnhk1k9uUR",
                     "opacity": 1.0,
                     "organisationUnitGroupSetDimensions": [],
                     "organisationUnitLevels": [
@@ -8613,7 +8601,7 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "K2NLpe79JIZ",
+                    "id": "er9pb5mi8QZ",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
@@ -8632,11 +8620,7 @@
                     ],
                     "parentGraphMap": {},
                     "parentLevel": 0,
-                    "periods": [
-                        {
-                            "id": "2021"
-                        }
-                    ],
+                    "periods": [],
                     "programIndicatorDimensions": [],
                     "relativePeriods": {
                         "biMonthsThisYear": false,
@@ -8668,7 +8652,7 @@
                         "lastQuarter": false,
                         "lastSixMonth": false,
                         "lastWeek": false,
-                        "lastYear": false,
+                        "lastYear": true,
                         "monthsLastYear": false,
                         "monthsThisYear": false,
                         "quartersLastYear": false,
@@ -8754,11 +8738,11 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "Y52Inemnj9X",
+                    "id": "Ft5rNZOzjjg",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "orgUnit",
-                    "name": "Y52Inemnj9X",
+                    "name": "Ft5rNZOzjjg",
                     "opacity": 1.0,
                     "organisationUnitGroupSetDimensions": [],
                     "organisationUnitLevels": [
@@ -8819,7 +8803,7 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "ZokbOjR4k06",
+                    "id": "ywvils35u5J",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
@@ -8838,11 +8822,7 @@
                     ],
                     "parentGraphMap": {},
                     "parentLevel": 0,
-                    "periods": [
-                        {
-                            "id": "2021"
-                        }
-                    ],
+                    "periods": [],
                     "programIndicatorDimensions": [],
                     "relativePeriods": {
                         "biMonthsThisYear": false,
@@ -8874,7 +8854,7 @@
                         "lastQuarter": false,
                         "lastSixMonth": false,
                         "lastWeek": false,
-                        "lastYear": false,
+                        "lastYear": true,
                         "monthsLastYear": false,
                         "monthsThisYear": false,
                         "quartersLastYear": false,
@@ -8960,11 +8940,11 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "GpbxrVDaakF",
+                    "id": "GvkSpZRiV8l",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "orgUnit",
-                    "name": "GpbxrVDaakF",
+                    "name": "GvkSpZRiV8l",
                     "opacity": 1.0,
                     "organisationUnitGroupSetDimensions": [],
                     "organisationUnitLevels": [
@@ -9025,7 +9005,7 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "GlJrS0s3H2S",
+                    "id": "lfwqSnhJ9Ta",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
@@ -9040,11 +9020,7 @@
                     "organisationUnits": [],
                     "parentGraphMap": {},
                     "parentLevel": 0,
-                    "periods": [
-                        {
-                            "id": "2021"
-                        }
-                    ],
+                    "periods": [],
                     "programIndicatorDimensions": [],
                     "relativePeriods": {
                         "biMonthsThisYear": false,
@@ -9076,7 +9052,7 @@
                         "lastQuarter": false,
                         "lastSixMonth": false,
                         "lastWeek": false,
-                        "lastYear": false,
+                        "lastYear": true,
                         "monthsLastYear": false,
                         "monthsThisYear": false,
                         "quartersLastYear": false,
@@ -9162,11 +9138,11 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "NBcDtXaa2Ah",
+                    "id": "xwdvOkXIqpU",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "orgUnit",
-                    "name": "NBcDtXaa2Ah",
+                    "name": "xwdvOkXIqpU",
                     "opacity": 1.0,
                     "organisationUnitGroupSetDimensions": [],
                     "organisationUnitLevels": [
@@ -9227,7 +9203,7 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "kXRGgHnG3HH",
+                    "id": "SzBDnggRfdl",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
@@ -9246,11 +9222,7 @@
                     ],
                     "parentGraphMap": {},
                     "parentLevel": 0,
-                    "periods": [
-                        {
-                            "id": "2021"
-                        }
-                    ],
+                    "periods": [],
                     "programIndicatorDimensions": [],
                     "relativePeriods": {
                         "biMonthsThisYear": false,
@@ -9282,7 +9254,7 @@
                         "lastQuarter": false,
                         "lastSixMonth": false,
                         "lastWeek": false,
-                        "lastYear": false,
+                        "lastYear": true,
                         "monthsLastYear": false,
                         "monthsThisYear": false,
                         "quartersLastYear": false,
@@ -9368,11 +9340,11 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "DDmFoatMuhq",
+                    "id": "fJD3S4dC8Sg",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "orgUnit",
-                    "name": "DDmFoatMuhq",
+                    "name": "fJD3S4dC8Sg",
                     "opacity": 1.0,
                     "organisationUnitGroupSetDimensions": [],
                     "organisationUnitLevels": [
@@ -9433,7 +9405,7 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "HNlxGaJrR0f",
+                    "id": "eRs2MK4ucvj",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
@@ -9452,11 +9424,7 @@
                     ],
                     "parentGraphMap": {},
                     "parentLevel": 0,
-                    "periods": [
-                        {
-                            "id": "2021"
-                        }
-                    ],
+                    "periods": [],
                     "programIndicatorDimensions": [],
                     "relativePeriods": {
                         "biMonthsThisYear": false,
@@ -9488,7 +9456,7 @@
                         "lastQuarter": false,
                         "lastSixMonth": false,
                         "lastWeek": false,
-                        "lastYear": false,
+                        "lastYear": true,
                         "monthsLastYear": false,
                         "monthsThisYear": false,
                         "quartersLastYear": false,
@@ -9556,7 +9524,7 @@
         "DHIS2Version": "2.38.3",
         "code": "NCD_SF",
         "description": "Sensory function: Eye and Ear care (dashboard)",
-        "lastUpdated": "20230418T120411",
+        "lastUpdated": "20230420T091606",
         "locale": "en",
         "name": "NCD_SF_DSH_DHIS2.38.3-en",
         "type": "DSH",
@@ -14293,7 +14261,7 @@
             "showDimensionLabels": false,
             "showHierarchy": false,
             "skipRounding": false,
-            "sortOrder": -1,
+            "sortOrder": 0,
             "subscribers": [],
             "topLimit": 0,
             "translations": [],
@@ -15603,7 +15571,7 @@
             "showDimensionLabels": false,
             "showHierarchy": false,
             "skipRounding": false,
-            "sortOrder": -1,
+            "sortOrder": 0,
             "subscribers": [],
             "title": "Mastoid surgery for middle ear cholesteatoma and waiting time",
             "topLimit": 0,
