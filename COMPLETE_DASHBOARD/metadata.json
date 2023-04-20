@@ -2348,16 +2348,31 @@
                     "id": "BuwGTpTj0j8"
                 },
                 {
+                    "id": "tl69y8Ih5Kv"
+                },
+                {
                     "id": "dKyQzLCBJvz"
                 },
                 {
                     "id": "DiplXitirHr"
                 },
                 {
+                    "id": "g0in25hvhRj"
+                },
+                {
+                    "id": "PtLpt62oLGF"
+                },
+                {
                     "id": "i1XFOyBwFXP"
                 },
                 {
+                    "id": "oYy2gUXeZms"
+                },
+                {
                     "id": "wcoGDKYBuId"
+                },
+                {
+                    "id": "Oc0L0N6YhR2"
                 },
                 {
                     "id": "zlNRjjADXHr"
@@ -2366,7 +2381,25 @@
                     "id": "PYQxwTm9dGs"
                 },
                 {
+                    "id": "B3A3f8Ob4VP"
+                },
+                {
+                    "id": "SOFtBLezWRj"
+                },
+                {
+                    "id": "Ch13sPZSTJ3"
+                },
+                {
+                    "id": "S5DWmtx08Vv"
+                },
+                {
                     "id": "HaOOM74kaEo"
+                },
+                {
+                    "id": "EC0XUj25xwn"
+                },
+                {
+                    "id": "OW47xH11Mlp"
                 },
                 {
                     "id": "VyXE3vmObtB"
@@ -2387,6 +2420,9 @@
                     "id": "nIMBWkGOYJM"
                 },
                 {
+                    "id": "slTvWdRDgIF"
+                },
+                {
                     "id": "wHw2WWNAeX2"
                 },
                 {
@@ -2402,6 +2438,12 @@
                     "id": "F90dvKClal3"
                 },
                 {
+                    "id": "W74Ga7M8wPq"
+                },
+                {
+                    "id": "J1Z4yIYaVfE"
+                },
+                {
                     "id": "lAq11A0SqZu"
                 },
                 {
@@ -2409,6 +2451,9 @@
                 },
                 {
                     "id": "qS9UJ56f2Fe"
+                },
+                {
+                    "id": "nyfStgOFMMm"
                 },
                 {
                     "id": "fdSIgiMHhhf"
@@ -2421,51 +2466,6 @@
                 },
                 {
                     "id": "YPALOA1xJro"
-                },
-                {
-                    "id": "tl69y8Ih5Kv"
-                },
-                {
-                    "id": "g0in25hvhRj"
-                },
-                {
-                    "id": "PtLpt62oLGF"
-                },
-                {
-                    "id": "oYy2gUXeZms"
-                },
-                {
-                    "id": "Oc0L0N6YhR2"
-                },
-                {
-                    "id": "B3A3f8Ob4VP"
-                },
-                {
-                    "id": "SOFtBLezWRj"
-                },
-                {
-                    "id": "Ch13sPZSTJ3"
-                },
-                {
-                    "id": "S5DWmtx08Vv"
-                },
-                {
-                    "id": "EC0XUj25xwn"
-                },
-                {
-                    "id": "OW47xH11Mlp"
-                },
-                {
-                    "id": "slTvWdRDgIF"
-                },
-                {
-                    "id": "W74Ga7M8wPq"
-                },
-                {
-                    "id": "J1Z4yIYaVfE"
-                },
-                {
-                    "id": "nyfStgOFMMm"
                 }
             ],
             "name": "SF - Eye care service delivery",
@@ -7938,11 +7938,11 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "KPKPZ7RB7K3",
+                    "id": "rckEmu1N47T",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "orgUnit",
-                    "name": "KPKPZ7RB7K3",
+                    "name": "rckEmu1N47T",
                     "opacity": 1.0,
                     "organisationUnitGroupSetDimensions": [],
                     "organisationUnitLevels": [
@@ -8003,7 +8003,7 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "XncCbAI1Cox",
+                    "id": "BvJthM6G3wX",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
@@ -8018,12 +8018,7 @@
                     "organisationUnits": [],
                     "parentGraphMap": {},
                     "parentLevel": 0,
-                    "periods": [
-                        {
-                            "id": "2021",
-                            "name": "2021"
-                        }
-                    ],
+                    "periods": [],
                     "programIndicatorDimensions": [],
                     "relativePeriods": {
                         "biMonthsThisYear": false,
@@ -8055,7 +8050,7 @@
                         "lastQuarter": false,
                         "lastSixMonth": false,
                         "lastWeek": false,
-                        "lastYear": false,
+                        "lastYear": true,
                         "monthsLastYear": false,
                         "monthsThisYear": false,
                         "quartersLastYear": false,
@@ -8141,11 +8136,11 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "CM9Fc4pUiWX",
+                    "id": "uXW65HUbA9O",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "orgUnit",
-                    "name": "CM9Fc4pUiWX",
+                    "name": "uXW65HUbA9O",
                     "opacity": 1.0,
                     "organisationUnitGroupSetDimensions": [],
                     "organisationUnitLevels": [
@@ -8206,7 +8201,7 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "hOOC8m6ljN0",
+                    "id": "nAYrxRp0w9U",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
@@ -8221,12 +8216,7 @@
                     "organisationUnits": [],
                     "parentGraphMap": {},
                     "parentLevel": 0,
-                    "periods": [
-                        {
-                            "id": "2021",
-                            "name": "2021"
-                        }
-                    ],
+                    "periods": [],
                     "programIndicatorDimensions": [],
                     "relativePeriods": {
                         "biMonthsThisYear": false,
@@ -8258,7 +8248,7 @@
                         "lastQuarter": false,
                         "lastSixMonth": false,
                         "lastWeek": false,
-                        "lastYear": false,
+                        "lastYear": true,
                         "monthsLastYear": false,
                         "monthsThisYear": false,
                         "quartersLastYear": false,
@@ -8344,11 +8334,11 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "YxTATtS1qYo",
+                    "id": "jQWfaNV6qt1",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "orgUnit",
-                    "name": "YxTATtS1qYo",
+                    "name": "jQWfaNV6qt1",
                     "opacity": 1.0,
                     "organisationUnitGroupSetDimensions": [],
                     "organisationUnitLevels": [
@@ -8409,7 +8399,7 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "m08A1fY7T3q",
+                    "id": "vdmtjqRbPEA",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
@@ -8428,12 +8418,7 @@
                     ],
                     "parentGraphMap": {},
                     "parentLevel": 0,
-                    "periods": [
-                        {
-                            "id": "2021",
-                            "name": "2021"
-                        }
-                    ],
+                    "periods": [],
                     "programIndicatorDimensions": [],
                     "relativePeriods": {
                         "biMonthsThisYear": false,
@@ -8465,7 +8450,7 @@
                         "lastQuarter": false,
                         "lastSixMonth": false,
                         "lastWeek": false,
-                        "lastYear": false,
+                        "lastYear": true,
                         "monthsLastYear": false,
                         "monthsThisYear": false,
                         "quartersLastYear": false,
@@ -8551,11 +8536,11 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "oEsk31ljh49",
+                    "id": "S9pkYuhv442",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "orgUnit",
-                    "name": "oEsk31ljh49",
+                    "name": "S9pkYuhv442",
                     "opacity": 1.0,
                     "organisationUnitGroupSetDimensions": [],
                     "organisationUnitLevels": [
@@ -8616,7 +8601,7 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "K2NLpe79JIZ",
+                    "id": "Io9OvTF91Nr",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
@@ -8635,12 +8620,7 @@
                     ],
                     "parentGraphMap": {},
                     "parentLevel": 0,
-                    "periods": [
-                        {
-                            "id": "2021",
-                            "name": "2021"
-                        }
-                    ],
+                    "periods": [],
                     "programIndicatorDimensions": [],
                     "relativePeriods": {
                         "biMonthsThisYear": false,
@@ -8672,7 +8652,7 @@
                         "lastQuarter": false,
                         "lastSixMonth": false,
                         "lastWeek": false,
-                        "lastYear": false,
+                        "lastYear": true,
                         "monthsLastYear": false,
                         "monthsThisYear": false,
                         "quartersLastYear": false,
@@ -8758,11 +8738,11 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "Y52Inemnj9X",
+                    "id": "i8mwTMrbaxB",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "orgUnit",
-                    "name": "Y52Inemnj9X",
+                    "name": "i8mwTMrbaxB",
                     "opacity": 1.0,
                     "organisationUnitGroupSetDimensions": [],
                     "organisationUnitLevels": [
@@ -8823,7 +8803,7 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "ZokbOjR4k06",
+                    "id": "lqvquMBGBQl",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
@@ -8842,12 +8822,7 @@
                     ],
                     "parentGraphMap": {},
                     "parentLevel": 0,
-                    "periods": [
-                        {
-                            "id": "2021",
-                            "name": "2021"
-                        }
-                    ],
+                    "periods": [],
                     "programIndicatorDimensions": [],
                     "relativePeriods": {
                         "biMonthsThisYear": false,
@@ -8879,7 +8854,7 @@
                         "lastQuarter": false,
                         "lastSixMonth": false,
                         "lastWeek": false,
-                        "lastYear": false,
+                        "lastYear": true,
                         "monthsLastYear": false,
                         "monthsThisYear": false,
                         "quartersLastYear": false,
@@ -8965,11 +8940,11 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "GpbxrVDaakF",
+                    "id": "DyprlgB34Id",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "orgUnit",
-                    "name": "GpbxrVDaakF",
+                    "name": "DyprlgB34Id",
                     "opacity": 1.0,
                     "organisationUnitGroupSetDimensions": [],
                     "organisationUnitLevels": [
@@ -9030,7 +9005,7 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "GlJrS0s3H2S",
+                    "id": "qJZ98FxnkfF",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
@@ -9045,12 +9020,7 @@
                     "organisationUnits": [],
                     "parentGraphMap": {},
                     "parentLevel": 0,
-                    "periods": [
-                        {
-                            "id": "2021",
-                            "name": "2021"
-                        }
-                    ],
+                    "periods": [],
                     "programIndicatorDimensions": [],
                     "relativePeriods": {
                         "biMonthsThisYear": false,
@@ -9082,7 +9052,7 @@
                         "lastQuarter": false,
                         "lastSixMonth": false,
                         "lastWeek": false,
-                        "lastYear": false,
+                        "lastYear": true,
                         "monthsLastYear": false,
                         "monthsThisYear": false,
                         "quartersLastYear": false,
@@ -9168,11 +9138,11 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "NBcDtXaa2Ah",
+                    "id": "pn9li3TjIuK",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "orgUnit",
-                    "name": "NBcDtXaa2Ah",
+                    "name": "pn9li3TjIuK",
                     "opacity": 1.0,
                     "organisationUnitGroupSetDimensions": [],
                     "organisationUnitLevels": [
@@ -9233,7 +9203,7 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "kXRGgHnG3HH",
+                    "id": "UI1mnC5SQoY",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
@@ -9252,12 +9222,7 @@
                     ],
                     "parentGraphMap": {},
                     "parentLevel": 0,
-                    "periods": [
-                        {
-                            "id": "2021",
-                            "name": "2021"
-                        }
-                    ],
+                    "periods": [],
                     "programIndicatorDimensions": [],
                     "relativePeriods": {
                         "biMonthsThisYear": false,
@@ -9289,7 +9254,7 @@
                         "lastQuarter": false,
                         "lastSixMonth": false,
                         "lastWeek": false,
-                        "lastYear": false,
+                        "lastYear": true,
                         "monthsLastYear": false,
                         "monthsThisYear": false,
                         "quartersLastYear": false,
@@ -9375,11 +9340,11 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "DDmFoatMuhq",
+                    "id": "luxZv0ojJIO",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "orgUnit",
-                    "name": "DDmFoatMuhq",
+                    "name": "luxZv0ojJIO",
                     "opacity": 1.0,
                     "organisationUnitGroupSetDimensions": [],
                     "organisationUnitLevels": [
@@ -9440,7 +9405,7 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "HNlxGaJrR0f",
+                    "id": "apfqP8d40pw",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
@@ -9459,12 +9424,7 @@
                     ],
                     "parentGraphMap": {},
                     "parentLevel": 0,
-                    "periods": [
-                        {
-                            "id": "2021",
-                            "name": "2021"
-                        }
-                    ],
+                    "periods": [],
                     "programIndicatorDimensions": [],
                     "relativePeriods": {
                         "biMonthsThisYear": false,
@@ -9496,7 +9456,7 @@
                         "lastQuarter": false,
                         "lastSixMonth": false,
                         "lastWeek": false,
-                        "lastYear": false,
+                        "lastYear": true,
                         "monthsLastYear": false,
                         "monthsThisYear": false,
                         "quartersLastYear": false,
@@ -9564,7 +9524,7 @@
         "DHIS2Version": "2.39.1.1",
         "code": "NCD_SF",
         "description": "Sensory function: Eye and Ear care (dashboard)",
-        "lastUpdated": "20230418T120411",
+        "lastUpdated": "20230420T075642",
         "locale": "en",
         "name": "NCD_SF_DSH_DHIS2.39.1.1-en",
         "type": "DSH",
@@ -14301,7 +14261,7 @@
             "showDimensionLabels": false,
             "showHierarchy": false,
             "skipRounding": false,
-            "sortOrder": -1,
+            "sortOrder": 0,
             "subscribers": [],
             "topLimit": 0,
             "translations": [],
@@ -15611,7 +15571,7 @@
             "showDimensionLabels": false,
             "showHierarchy": false,
             "skipRounding": false,
-            "sortOrder": -1,
+            "sortOrder": 0,
             "subscribers": [],
             "title": "Mastoid surgery for middle ear cholesteatoma and waiting time",
             "topLimit": 0,
