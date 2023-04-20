@@ -9,7 +9,9 @@ Initital release of the **Sensory Function: Eye and Ear Care** toolkit. The sens
 
 ## 1.0.1
 
-Amends on metadata nomencalture
+Amends on metadata nomencalture and visualisations period type
+
+### Metadata nomenclature
 
 |Metadata|UID|Old Name|New name|
 |--------|---|--------|--------|
@@ -19,3 +21,16 @@ Amends on metadata nomencalture
 |Indicator|kUg56s19ywx|Ophthamologists (/10000 pop)|Ophthalmologists (/10000 pop)|
 |Indicator|EbzW2uAfEaj|Other allied Ophtalmic Personnel (/10000 pop)|Other allied Ophthalmic Personnel (/10000 pop)|
 |Indicator|Lc5BEYZsAeZ|Newborns diagnosed with rethinopathy of prematutiry (%)|Newborns diagnosed with rethinopathy of prematurity (%)|
+
+### Visualisations
+
+|Visualisations|New period type|
+|--------------|---------------|
+|SF - 5.04 - Eye care workforce|Relative - Last year|
+|SF - 5.05 - Eye care workforce (/10000)|Relative - Last year|
+|SF - 5.06 - Average eye care caseload per staff|Relative - Last year|
+|SF - 5.07 - Average eye care caseload per Ophthalmologist & Optometrist|Relative - Last year|
+|SF - 6.04 - Ear and hearing care workforce|Relative - Last year|
+|SF - 6.05 - Ear and hearing care workforce (/10000)|Relative - Last year|
+|SF - 6.06 - Average ear and hearing care caseload per staff|Relative - Last year|
+|SF - 6.07 - Average ear and hearing care caseload per ENT specialists & Audiologists|Relative - Last year|
