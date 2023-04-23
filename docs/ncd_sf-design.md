@@ -323,29 +323,41 @@ There are two data elements used as denominators of some indicators that have be
 
 The dashboards and their items (charts, maps and tables) has been designed for national, subnational (district) and health facility level analysis according to the intended use and users.
 
-[### SF - 01 - Ear care service delivery - Health facility](add link here)
+### [SF - 01 - Ear care service delivery - Health facility](https://demos.dhis2.org/hmis/dhis-web-dashboard/index.html#/m1DwSBCtkcy)
 
 A health facility level dashboard using charts to present the data on ear and hearing care service utilisation (volume of consultations, conditions and hearing loss cases), delivery of hearing technologies to persons with hearing loss, mastoid surgery for middle ear cholesteatoma waiting times and proportion of newborns screened for hearing loss.
 
-[### SF - 02 - Eye care service delivery - Health facility](add link here)
+![*Ear care service delivery - Health facility* snapshot](resources/images/sf_017.png)
+
+### [SF - 02 - Eye care service delivery - Health facility](https://demos.dhis2.org/hmis/dhis-web-dashboard/index.html#/s6REcAKQavg)
 
 A health facility level dashboard using charts to present the data on eye care service utilisation (volume of consultations and conditions), cataract surgery waiting times, preoperative visual acuity, and visual outcome, proportion of diabetic retinopathy screening, proportion of newborns screened for congenital and neonatal eye conditions and proportion of retinopathy of prematurity screening and diagnosis.
 
-[### SF - 03 - Ear care service delivery - Subnational](add link here)
+![*Eye care service delivery - Health facility* snapshot](resources/images/sf_018.png)
+
+### [SF - 03 - Ear care service delivery - Subnational](https://demos.dhis2.org/hmis/dhis-web-dashboard/index.html#/JsxTsa8nhJ1)
 
 A subnational level dashboard that uses charts, pivot tables and maps to illustrate subnationally the ear and hearing care service utilisation (volume of consultations, conditions and hearing loss), provision and distribution of mastoid surgery for middle ear cholesteatoma, and proportion of newborns screened for hearing loss and the distribution of these services at subnational level.
 
-[### SF - 04 - Eye care service delivery - Subnational](add link here)
+![*Ear care service delivery - Subnational* snapshot](resources/images/sf_019.png)
+
+### [SF - 04 - Eye care service delivery - Subnational](https://demos.dhis2.org/hmis/dhis-web-dashboard/index.html#/nOs5oWtwDQd)
 
 A subnational level dashboard that uses charts, pivot tables and maps to illustrate subnationally the eye care service utilisation (volume of consultations, conditions and vision impairment/blindness), provision, distribution and waiting times for cataract surgery services, and proportion of newborns screened for congenital and neonatal eye conditions and the distribution of these services at subnational level.
 
-[### SF - 05 - Eye care workforce](add link here)
+![*Eye care service delivery - Subnational* snapshot](resources/images/sf_020.png)
+
+### [SF - 05 - Eye care workforce](https://demos.dhis2.org/hmis/dhis-web-dashboard/index.html#/Evbmz331wpP)
 
 A national and subnational level dashboard that illustrates the availability of eye care workforce. Charts are used to provide the absolute numbers and ratio of the eye care workforce and the disaggregation according to the profiles. Maps are used to show the distribution of the workforce and the average caseload.
 
-[### SF - 06 - Ear and hearing workforce](add link here)
+![*Eye care service workforce* snapshot](resources/images/sf_021.png)
+
+### [SF - 06 - Ear and hearing workforce](https://demos.dhis2.org/hmis/dhis-web-dashboard/index.html#/iSG6UbVDQWG)
 
 A national and subnational level dashboard that illustrates the availability of eye care workforce. Charts are used to provide the absolute numbers and ratio of the ear and hearing care workforce and the disaggregation according to the profiles. Maps are used to show the distribution of the workforce and the average caseload.
+
+![*Ear and hearing care service workforce* snapshot](resources/images/sf_022.png)
 
 ## User groups
 
