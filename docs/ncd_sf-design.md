@@ -110,7 +110,7 @@ The total of first and follow-up visits should provide a real overall volume of 
 ![Section of ear conditions](resources/images/sf_004.png)
 
 Only the new cases should be recorded enabling the prevalence calculation of the ear conditions among visits and population.
-The description of each ear condition, with the associated ICD-11 code and category, can be found on the [SF Metadata Reference File](add link here), as below:
+The description of each ear condition, with the associated ICD-11 code and category, can be found on the [SF Metadata Reference File](https://docs.dhis2.org/en/topics/metadata/non-communicable-diseases/sensory-function-eye-and-ear-care/overview.html), as below:
 
 |Ear conditions | Brief definition | ICD-11 codes|
 |---------------|------------------|-------------|
@@ -128,7 +128,7 @@ The information collected are the number of hearing loss cases by degree (mild, 
 
 A combined age/hearing loss type category (sensorineural, conductive, mixed) reduces the number of data elements enhancing the possibility of more comprehensive analysis.
 
-A brief definition of the types and grades of hearing loss and hearing technologies can be found on the [SF Metadata Reference File](add link here), as below:
+A brief definition of the types and grades of hearing loss and hearing technologies can be found on the [SF Metadata Reference File](https://docs.dhis2.org/en/topics/metadata/non-communicable-diseases/sensory-function-eye-and-ear-care/overview.html), as below:
 
 |Hearing loss|Brief definition|
 |------------|----------------|
@@ -144,7 +144,7 @@ This section is divided in two units:
 - Total cases of people fitted with hearing technologies who came to the facility for follow-up sessions within six months of fitting in the reporting period by age category
 - Number of hearing technologies fitting, as aid technologies or implants, disaggregated by age category and type of hearing loss (sensorineural, conductive, or mixed).
 
-A brief definition of the hearing technologies can be found on the [SF Metadata Reference File](add link here), as below (for the type of hearing loss definition, please refer to the previous table):
+A brief definition of the hearing technologies can be found on the [SF Metadata Reference File](https://docs.dhis2.org/en/topics/metadata/non-communicable-diseases/sensory-function-eye-and-ear-care/overview.html), as below (for the type of hearing loss definition, please refer to the previous table):
 
 |Hearing technologies|Brief description|
 |--------------------|-----------------|
@@ -199,7 +199,7 @@ For this purpose, the threshold for defining vision impairment is:
 - Normal vision: visual acuity better or equal than 6/12 in one or both eyes
 - Vision impairment or blindness: visual acuity worse than 6/12 in one or both eyes
 
-The description of each eye condition, with the associated ICD-11 code and category, can be found on the [SF Metadata Reference File](add link here), as below:
+The description of each eye condition, with the associated ICD-11 code and category, can be found on the [SF Metadata Reference File](https://docs.dhis2.org/en/topics/metadata/non-communicable-diseases/sensory-function-eye-and-ear-care/overview.html), as below:
 
 |Eye condition|Brief definition|ICD-11 codes|
 |-------------|----------------|------------|
@@ -277,7 +277,7 @@ To ensure the quality of data collected, a series of validation rules have been 
 - The amount of cataract performed has be the same as the total of preoperative visual acuity evaluation and the total of the surgery otucome
 - The amount of patients screened for diabetic retinopathy has to be the same or lower than the amount of patients referred for diabetic retinopathy screening
 
-The full list of validation rules that have been set-up to ensure the quality of data are available in the [SF Metadata Reference File](add link here).
+The full list of validation rules that have been set-up to ensure the quality of data are available in the [SF Metadata Reference File](https://docs.dhis2.org/en/topics/metadata/non-communicable-diseases/sensory-function-eye-and-ear-care/overview.html).
 
 ## Dashboards and indicators
 
@@ -312,7 +312,7 @@ Hereunder you can find the core indicators with their DHIS2 counterpart and disa
 
 Addition indicators no listed on the above tables have been included on the dashboards to improve the analysis of vision and eye care and ear and hearing care services.
 
-The full list of indicators and indicator groups is available in the [SF Metadata Reference File](add link here).
+The full list of indicators and indicator groups is available in the [SF Metadata Reference File](https://docs.dhis2.org/en/topics/metadata/non-communicable-diseases/sensory-function-eye-and-ear-care/overview.html).
 
 There are two data elements used as denominators of some indicators that have been 'borrowed' from other programs and are not present on the SF data model, as:
 
@@ -323,37 +323,37 @@ There are two data elements used as denominators of some indicators that have be
 
 The dashboards and their items (charts, maps and tables) has been designed for national, subnational (district) and health facility level analysis according to the intended use and users.
 
-### [SF - 01 - Ear care service delivery - Health facility](https://demos.dhis2.org/hmis/dhis-web-dashboard/index.html#/m1DwSBCtkcy)
+#### [SF - 01 - Ear care service delivery - Health facility](https://demos.dhis2.org/hmis/dhis-web-dashboard/index.html#/m1DwSBCtkcy)
 
 A health facility level dashboard using charts to present the data on ear and hearing care service utilisation (volume of consultations, conditions and hearing loss cases), delivery of hearing technologies to persons with hearing loss, mastoid surgery for middle ear cholesteatoma waiting times and proportion of newborns screened for hearing loss.
 
 ![*Ear care service delivery - Health facility* snapshot](resources/images/sf_017.png)
 
-### [SF - 02 - Eye care service delivery - Health facility](https://demos.dhis2.org/hmis/dhis-web-dashboard/index.html#/s6REcAKQavg)
+#### [SF - 02 - Eye care service delivery - Health facility](https://demos.dhis2.org/hmis/dhis-web-dashboard/index.html#/s6REcAKQavg)
 
 A health facility level dashboard using charts to present the data on eye care service utilisation (volume of consultations and conditions), cataract surgery waiting times, preoperative visual acuity, and visual outcome, proportion of diabetic retinopathy screening, proportion of newborns screened for congenital and neonatal eye conditions and proportion of retinopathy of prematurity screening and diagnosis.
 
 ![*Eye care service delivery - Health facility* snapshot](resources/images/sf_018.png)
 
-### [SF - 03 - Ear care service delivery - Subnational](https://demos.dhis2.org/hmis/dhis-web-dashboard/index.html#/JsxTsa8nhJ1)
+#### [SF - 03 - Ear care service delivery - Subnational](https://demos.dhis2.org/hmis/dhis-web-dashboard/index.html#/JsxTsa8nhJ1)
 
 A subnational level dashboard that uses charts, pivot tables and maps to illustrate subnationally the ear and hearing care service utilisation (volume of consultations, conditions and hearing loss), provision and distribution of mastoid surgery for middle ear cholesteatoma, and proportion of newborns screened for hearing loss and the distribution of these services at subnational level.
 
 ![*Ear care service delivery - Subnational* snapshot](resources/images/sf_019.png)
 
-### [SF - 04 - Eye care service delivery - Subnational](https://demos.dhis2.org/hmis/dhis-web-dashboard/index.html#/nOs5oWtwDQd)
+#### [SF - 04 - Eye care service delivery - Subnational](https://demos.dhis2.org/hmis/dhis-web-dashboard/index.html#/nOs5oWtwDQd)
 
 A subnational level dashboard that uses charts, pivot tables and maps to illustrate subnationally the eye care service utilisation (volume of consultations, conditions and vision impairment/blindness), provision, distribution and waiting times for cataract surgery services, and proportion of newborns screened for congenital and neonatal eye conditions and the distribution of these services at subnational level.
 
 ![*Eye care service delivery - Subnational* snapshot](resources/images/sf_020.png)
 
-### [SF - 05 - Eye care workforce](https://demos.dhis2.org/hmis/dhis-web-dashboard/index.html#/Evbmz331wpP)
+#### [SF - 05 - Eye care workforce](https://demos.dhis2.org/hmis/dhis-web-dashboard/index.html#/Evbmz331wpP)
 
 A national and subnational level dashboard that illustrates the availability of eye care workforce. Charts are used to provide the absolute numbers and ratio of the eye care workforce and the disaggregation according to the profiles. Maps are used to show the distribution of the workforce and the average caseload.
 
 ![*Eye care service workforce* snapshot](resources/images/sf_021.png)
 
-### [SF - 06 - Ear and hearing workforce](https://demos.dhis2.org/hmis/dhis-web-dashboard/index.html#/iSG6UbVDQWG)
+#### [SF - 06 - Ear and hearing workforce](https://demos.dhis2.org/hmis/dhis-web-dashboard/index.html#/iSG6UbVDQWG)
 
 A national and subnational level dashboard that illustrates the availability of eye care workforce. Charts are used to provide the absolute numbers and ratio of the ear and hearing care workforce and the disaggregation according to the profiles. Maps are used to show the distribution of the workforce and the average caseload.
 
