@@ -182,9 +182,8 @@ The eye care service delivery data set is splitted in eight sections:
 
 ![Section of volume of eye care consultations](resources/images/sf_009.png)
 
-Total cases of first and total cases of follow-up visits for hearing and ear care consultations, disaggregated by age category. The total of first and follow-up visits should provide a real overall volume of patients attending the service.
-
-The age category (0-17, 18-49, 50 years) is common throughout the dataset and reduces the number of data elements to be reported.
+The age category (0-17, 18-49, 50 years) is common throughout the data set and reduces the number of data elements to be reported.
+The total of first and follow-up visits should provide a real overall volume of patients attending the service.
 
 #### Eye conditions
 
