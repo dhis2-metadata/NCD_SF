@@ -9,7 +9,7 @@ Initital release of the **Sensory Function: Eye and Ear Care** toolkit. The sens
 
 ## 1.0.1
 
-Amends on metadata nomencalture and visualisations period type
+Minor updates to naming/nomenclature of metadata and relative period type for the visualizations listed below. 
 
 ### Metadata nomenclature
 
