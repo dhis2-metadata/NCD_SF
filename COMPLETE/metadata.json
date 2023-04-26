@@ -6039,7 +6039,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "raUjzYymz6G"
+                        "id": "kyoEYR44UmP"
                     },
                     "dataSet": {
                         "id": "uRrzcLSWeVh"
@@ -6047,7 +6047,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "oDUJeJ4SAgO"
+                        "id": "raUjzYymz6G"
                     },
                     "dataSet": {
                         "id": "uRrzcLSWeVh"
@@ -6063,87 +6063,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "DSiEgJHZkyi"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "aCiyRsb3CWI"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "qt8s8kyrk6c"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "LmsKM7YY2hw"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "lT6d197gDRv"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "nX8fcn9dyia"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "FEz60tiNOil"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "S1UCOz5Tr1b"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "kyoEYR44UmP"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "CSBgvy6oUOq"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "yqRRLQMlm2v"
                     },
                     "dataSet": {
                         "id": "uRrzcLSWeVh"
@@ -6159,6 +6079,30 @@
                 },
                 {
                     "dataElement": {
+                        "id": "oDUJeJ4SAgO"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "nX8fcn9dyia"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "qt8s8kyrk6c"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "HIkTNZjeaEw"
                     },
                     "dataSet": {
@@ -6167,7 +6111,63 @@
                 },
                 {
                     "dataElement": {
+                        "id": "aCiyRsb3CWI"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "DSiEgJHZkyi"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "FEz60tiNOil"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "yqRRLQMlm2v"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "LmsKM7YY2hw"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "Fs3hRNqLJJB"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "lT6d197gDRv"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "CSBgvy6oUOq"
                     },
                     "dataSet": {
                         "id": "uRrzcLSWeVh"
@@ -6228,14 +6228,6 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "TPpAFFclk9U"
-                    },
-                    "dataSet": {
-                        "id": "xks3A3Z4Co1"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "DvLyXY8CQB0"
                     },
                     "dataSet": {
@@ -6244,7 +6236,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "jkvzTkbBsds"
+                        "id": "x7cnyPxWbqN"
                     },
                     "dataSet": {
                         "id": "xks3A3Z4Co1"
@@ -6252,15 +6244,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "L5nUGgWn6Op"
-                    },
-                    "dataSet": {
-                        "id": "xks3A3Z4Co1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "EyJamtdhOOe"
+                        "id": "SoBdFmbfBw8"
                     },
                     "dataSet": {
                         "id": "xks3A3Z4Co1"
@@ -6269,6 +6253,14 @@
                 {
                     "dataElement": {
                         "id": "xjv0oQ5URO6"
+                    },
+                    "dataSet": {
+                        "id": "xks3A3Z4Co1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "L5nUGgWn6Op"
                     },
                     "dataSet": {
                         "id": "xks3A3Z4Co1"
@@ -6292,7 +6284,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "x7cnyPxWbqN"
+                        "id": "TPpAFFclk9U"
                     },
                     "dataSet": {
                         "id": "xks3A3Z4Co1"
@@ -6300,7 +6292,15 @@
                 },
                 {
                     "dataElement": {
-                        "id": "SoBdFmbfBw8"
+                        "id": "EyJamtdhOOe"
+                    },
+                    "dataSet": {
+                        "id": "xks3A3Z4Co1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "jkvzTkbBsds"
                     },
                     "dataSet": {
                         "id": "xks3A3Z4Co1"
@@ -6361,142 +6361,6 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "vIkbyMcSvMg"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Sv0Aj3dUs5o"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Z0sF9RqNrLD"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "MHWAAeHhu08"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "VfhZJqrGQxJ"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "O0ECsX0fxzP"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "VG6Df2fDCHc"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "EtbxvW954To"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "PRUnh6u4MeA"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "vev1ZPvrtGK"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "FWLusa1TGJu"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "tWY1PavnH4T"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "i1GGi64UNtm"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "gKrDjIa73HI"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "R6lFazQe7cS"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "eCrhzTQkIcu"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "aUvIeJW6n4i"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "DkcSRmI1dZA"
                     },
                     "dataSet": {
@@ -6513,7 +6377,23 @@
                 },
                 {
                     "dataElement": {
-                        "id": "CqzbXPXnJok"
+                        "id": "R6lFazQe7cS"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "tWY1PavnH4T"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "VfhZJqrGQxJ"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -6529,6 +6409,22 @@
                 },
                 {
                     "dataElement": {
+                        "id": "CqzbXPXnJok"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "O0ECsX0fxzP"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "bKCHbgQd5nX"
                     },
                     "dataSet": {
@@ -6537,7 +6433,31 @@
                 },
                 {
                     "dataElement": {
-                        "id": "Tbl10Dyzy53"
+                        "id": "eCrhzTQkIcu"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Z0sF9RqNrLD"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "vIkbyMcSvMg"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "urydTjPQykf"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -6553,7 +6473,87 @@
                 },
                 {
                     "dataElement": {
-                        "id": "urydTjPQykf"
+                        "id": "PRUnh6u4MeA"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "EtbxvW954To"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Tbl10Dyzy53"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "gKrDjIa73HI"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "i1GGi64UNtm"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "aUvIeJW6n4i"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "vev1ZPvrtGK"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "VG6Df2fDCHc"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Sv0Aj3dUs5o"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "FWLusa1TGJu"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "MHWAAeHhu08"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -6615,16 +6615,31 @@
                     "id": "BuwGTpTj0j8"
                 },
                 {
+                    "id": "tl69y8Ih5Kv"
+                },
+                {
                     "id": "dKyQzLCBJvz"
                 },
                 {
                     "id": "DiplXitirHr"
                 },
                 {
+                    "id": "g0in25hvhRj"
+                },
+                {
+                    "id": "PtLpt62oLGF"
+                },
+                {
                     "id": "i1XFOyBwFXP"
                 },
                 {
+                    "id": "oYy2gUXeZms"
+                },
+                {
                     "id": "wcoGDKYBuId"
+                },
+                {
+                    "id": "Oc0L0N6YhR2"
                 },
                 {
                     "id": "zlNRjjADXHr"
@@ -6633,7 +6648,25 @@
                     "id": "PYQxwTm9dGs"
                 },
                 {
+                    "id": "B3A3f8Ob4VP"
+                },
+                {
+                    "id": "SOFtBLezWRj"
+                },
+                {
+                    "id": "Ch13sPZSTJ3"
+                },
+                {
+                    "id": "S5DWmtx08Vv"
+                },
+                {
                     "id": "HaOOM74kaEo"
+                },
+                {
+                    "id": "EC0XUj25xwn"
+                },
+                {
+                    "id": "OW47xH11Mlp"
                 },
                 {
                     "id": "VyXE3vmObtB"
@@ -6654,6 +6687,9 @@
                     "id": "nIMBWkGOYJM"
                 },
                 {
+                    "id": "slTvWdRDgIF"
+                },
+                {
                     "id": "wHw2WWNAeX2"
                 },
                 {
@@ -6669,6 +6705,12 @@
                     "id": "F90dvKClal3"
                 },
                 {
+                    "id": "W74Ga7M8wPq"
+                },
+                {
+                    "id": "J1Z4yIYaVfE"
+                },
+                {
                     "id": "lAq11A0SqZu"
                 },
                 {
@@ -6676,6 +6718,9 @@
                 },
                 {
                     "id": "qS9UJ56f2Fe"
+                },
+                {
+                    "id": "nyfStgOFMMm"
                 },
                 {
                     "id": "fdSIgiMHhhf"
@@ -6688,51 +6733,6 @@
                 },
                 {
                     "id": "YPALOA1xJro"
-                },
-                {
-                    "id": "tl69y8Ih5Kv"
-                },
-                {
-                    "id": "g0in25hvhRj"
-                },
-                {
-                    "id": "PtLpt62oLGF"
-                },
-                {
-                    "id": "oYy2gUXeZms"
-                },
-                {
-                    "id": "Oc0L0N6YhR2"
-                },
-                {
-                    "id": "B3A3f8Ob4VP"
-                },
-                {
-                    "id": "SOFtBLezWRj"
-                },
-                {
-                    "id": "Ch13sPZSTJ3"
-                },
-                {
-                    "id": "S5DWmtx08Vv"
-                },
-                {
-                    "id": "EC0XUj25xwn"
-                },
-                {
-                    "id": "OW47xH11Mlp"
-                },
-                {
-                    "id": "slTvWdRDgIF"
-                },
-                {
-                    "id": "W74Ga7M8wPq"
-                },
-                {
-                    "id": "J1Z4yIYaVfE"
-                },
-                {
-                    "id": "nyfStgOFMMm"
                 }
             ],
             "name": "SF - Eye care service delivery",
@@ -6850,13 +6850,22 @@
                     "id": "BeUHkPzUM0M"
                 },
                 {
+                    "id": "cA9K3Fmgph1"
+                },
+                {
                     "id": "Y5r7IDOgm90"
                 },
                 {
                     "id": "ZBu28eZA0X2"
                 },
                 {
+                    "id": "Ep6NXmVcyvs"
+                },
+                {
                     "id": "MzYgTQAmhEK"
+                },
+                {
+                    "id": "Bk7KI8ux0Xj"
                 },
                 {
                     "id": "xqCZ3gOgvEi"
@@ -6865,10 +6874,10 @@
                     "id": "UG676JNrMG3"
                 },
                 {
-                    "id": "BQBiZYZg8rI"
+                    "id": "woADeBc51vT"
                 },
                 {
-                    "id": "Ep6NXmVcyvs"
+                    "id": "BQBiZYZg8rI"
                 },
                 {
                     "id": "muEtXfE2xnm"
@@ -6880,13 +6889,13 @@
                     "id": "oqHIf6uWrdT"
                 },
                 {
+                    "id": "euZJh8Xabkj"
+                },
+                {
                     "id": "uIDjTXykuFx"
                 },
                 {
                     "id": "GsjVeBSxMnK"
-                },
-                {
-                    "id": "euZJh8Xabkj"
                 },
                 {
                     "id": "ZnCfYdxGi3T"
@@ -6898,19 +6907,10 @@
                     "id": "Cly6Aa8MWra"
                 },
                 {
-                    "id": "cA9K3Fmgph1"
-                },
-                {
                     "id": "NIKE7bsmxK3"
                 },
                 {
-                    "id": "woADeBc51vT"
-                },
-                {
                     "id": "UJqaPtKAgM2"
-                },
-                {
-                    "id": "Bk7KI8ux0Xj"
                 },
                 {
                     "id": "MFTfpsGcXT8"
@@ -7404,44 +7404,6 @@
                 "users": {}
             },
             "shortName": "Average eye care caseload per staff",
-            "translations": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "NCD_SF_WT",
-            "denominator": "#{lT6d197gDRv}",
-            "denominatorDescription": "Mastoid surg for middle ear cholesteatoma",
-            "description": "Average waiting time for mastoid surgery for middle ear cholesteatoma from first registration for the surgery to the surgery itself",
-            "id": "GsjVeBSxMnK",
-            "indicatorType": {
-                "id": "k4RGC3sMTzO"
-            },
-            "legendSets": [],
-            "name": "SF - Average waiting days for mastoid surgery for middle ear cholesteatoma",
-            "numerator": "#{FEz60tiNOil}",
-            "numeratorDescription": "Delay of mastoid surg for middle ear cholesteatoma",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Tukj8VmcPAB": {
-                        "access": "r-------",
-                        "id": "Tukj8VmcPAB"
-                    },
-                    "jjxah7OuNid": {
-                        "access": "rw------",
-                        "id": "jjxah7OuNid"
-                    },
-                    "mGv5ypAj0S4": {
-                        "access": "r-------",
-                        "id": "mGv5ypAj0S4"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Av wait days, mastoid, mid ear chole.,",
             "translations": []
         },
         {
@@ -8410,7 +8372,7 @@
                 "id": "kHy61PbChXr"
             },
             "legendSets": [],
-            "name": "SF - Hearing loss cases",
+            "name": "SF - Hearing loss diagnosis",
             "numerator": "#{sX96WU7L4gu}+\n#{CSBgvy6oUOq}+\n#{DSiEgJHZkyi}",
             "numeratorDescription": "Total number of hearing loss diagnoses",
             "sharing": {
@@ -8433,7 +8395,121 @@
                 },
                 "users": {}
             },
-            "shortName": "Hearing loss cases",
+            "shortName": "Hearing loss diagnosis",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "NCD_SF_HL_ALL_PROP",
+            "denominator": "#{kyoEYR44UmP}",
+            "denominatorDescription": "Number of first visit",
+            "description": "Proportion of total hearing loss cases out of consultations",
+            "id": "cA9K3Fmgph1",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "SF - Hearing loss diagnosis (%)",
+            "numerator": "#{sX96WU7L4gu}+\n#{CSBgvy6oUOq}+\n#{DSiEgJHZkyi}",
+            "numeratorDescription": "Total number of hearing loss diagnoses",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Hearing loss diagnosis (%)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "NCD_SF_HL_0_17_PROP",
+            "denominator": "#{sX96WU7L4gu.DuZSbHzRz8z}+\n#{CSBgvy6oUOq.DuZSbHzRz8z}+\n#{DSiEgJHZkyi.DuZSbHzRz8z}+\n#{sX96WU7L4gu.tfzby5d8mtm}+\n#{CSBgvy6oUOq.tfzby5d8mtm}+\n#{DSiEgJHZkyi.tfzby5d8mtm}+\n#{sX96WU7L4gu.TnIeZJTJOT2}+\n#{CSBgvy6oUOq.TnIeZJTJOT2}+\n#{DSiEgJHZkyi.TnIeZJTJOT2}+\n#{sX96WU7L4gu.sILt0qVVs7U}+\n#{CSBgvy6oUOq.sILt0qVVs7U}+\n#{DSiEgJHZkyi.sILt0qVVs7U}+\n#{sX96WU7L4gu.PfeoneCECAm}+\n#{CSBgvy6oUOq.PfeoneCECAm}+\n#{DSiEgJHZkyi.PfeoneCECAm}+\n#{sX96WU7L4gu.AthuEvWYA8F}+\n#{CSBgvy6oUOq.AthuEvWYA8F}+\n#{DSiEgJHZkyi.AthuEvWYA8F}+\n#{sX96WU7L4gu.oZoCDJYgKOg}+\n#{CSBgvy6oUOq.oZoCDJYgKOg}+\n#{DSiEgJHZkyi.oZoCDJYgKOg}+\n#{sX96WU7L4gu.loloaNR74kY}+\n#{CSBgvy6oUOq.loloaNR74kY}+\n#{DSiEgJHZkyi.loloaNR74kY}+\n#{sX96WU7L4gu.ITvEmyEv00I}+\n#{CSBgvy6oUOq.ITvEmyEv00I}+\n#{DSiEgJHZkyi.ITvEmyEv00I}",
+            "denominatorDescription": "Total hearing loss cases",
+            "description": "Proportion of total hearing loss cases aged 0-17 out of consultations",
+            "id": "woADeBc51vT",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "SF - Hearing loss diagnosis - 0-17 (%)",
+            "numerator": "#{sX96WU7L4gu.DuZSbHzRz8z}+\r\n#{CSBgvy6oUOq.DuZSbHzRz8z}+\r\n#{DSiEgJHZkyi.DuZSbHzRz8z}+\r\n#{sX96WU7L4gu.tfzby5d8mtm}+\r\n#{CSBgvy6oUOq.tfzby5d8mtm}+\r\n#{DSiEgJHZkyi.tfzby5d8mtm}+\r\n#{sX96WU7L4gu.TnIeZJTJOT2}+\r\n#{CSBgvy6oUOq.TnIeZJTJOT2}+\r\n#{DSiEgJHZkyi.TnIeZJTJOT2}",
+            "numeratorDescription": "Hearing loss cases - 0-17",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Hearing loss diagnosis - 0-17 (%)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "NCD_SF_HL_18_49_PROP",
+            "denominator": "#{sX96WU7L4gu.DuZSbHzRz8z}+\r\n#{CSBgvy6oUOq.DuZSbHzRz8z}+\r\n#{DSiEgJHZkyi.DuZSbHzRz8z}+\r\n#{sX96WU7L4gu.tfzby5d8mtm}+\r\n#{CSBgvy6oUOq.tfzby5d8mtm}+\r\n#{DSiEgJHZkyi.tfzby5d8mtm}+\r\n#{sX96WU7L4gu.TnIeZJTJOT2}+\r\n#{CSBgvy6oUOq.TnIeZJTJOT2}+\r\n#{DSiEgJHZkyi.TnIeZJTJOT2}+\r\n#{sX96WU7L4gu.sILt0qVVs7U}+\r\n#{CSBgvy6oUOq.sILt0qVVs7U}+\r\n#{DSiEgJHZkyi.sILt0qVVs7U}+\r\n#{sX96WU7L4gu.PfeoneCECAm}+\r\n#{CSBgvy6oUOq.PfeoneCECAm}+\r\n#{DSiEgJHZkyi.PfeoneCECAm}+\r\n#{sX96WU7L4gu.AthuEvWYA8F}+\r\n#{CSBgvy6oUOq.AthuEvWYA8F}+\r\n#{DSiEgJHZkyi.AthuEvWYA8F}+\r\n#{sX96WU7L4gu.oZoCDJYgKOg}+\r\n#{CSBgvy6oUOq.oZoCDJYgKOg}+\r\n#{DSiEgJHZkyi.oZoCDJYgKOg}+\r\n#{sX96WU7L4gu.loloaNR74kY}+\r\n#{CSBgvy6oUOq.loloaNR74kY}+\r\n#{DSiEgJHZkyi.loloaNR74kY}+\r\n#{sX96WU7L4gu.ITvEmyEv00I}+\r\n#{CSBgvy6oUOq.ITvEmyEv00I}+\r\n#{DSiEgJHZkyi.ITvEmyEv00I}",
+            "denominatorDescription": "Total hearing loss cases",
+            "description": "Proportion of total hearing loss cases aged 18-49 out of consultations",
+            "id": "Bk7KI8ux0Xj",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "SF - Hearing loss diagnosis - 18-49 (%)",
+            "numerator": "#{sX96WU7L4gu.sILt0qVVs7U}+\r\n#{CSBgvy6oUOq.sILt0qVVs7U}+\r\n#{DSiEgJHZkyi.sILt0qVVs7U}+\r\n#{sX96WU7L4gu.PfeoneCECAm}+\r\n#{CSBgvy6oUOq.PfeoneCECAm}+\r\n#{DSiEgJHZkyi.PfeoneCECAm}+\r\n#{sX96WU7L4gu.AthuEvWYA8F}+\r\n#{CSBgvy6oUOq.AthuEvWYA8F}+\r\n#{DSiEgJHZkyi.AthuEvWYA8F}",
+            "numeratorDescription": "Hearing loss cases - 18-49",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Hearing loss diagnosis - 18-49 (%)",
             "translations": []
         },
         {
@@ -8448,7 +8524,7 @@
                 "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "SF - Hearing loss cases - 50+ (%)",
+            "name": "SF - Hearing loss diagnosis - 50+ (%)",
             "numerator": "#{sX96WU7L4gu.oZoCDJYgKOg}+\r\n#{CSBgvy6oUOq.oZoCDJYgKOg}+\r\n#{DSiEgJHZkyi.oZoCDJYgKOg}+\r\n#{sX96WU7L4gu.loloaNR74kY}+\r\n#{CSBgvy6oUOq.loloaNR74kY}+\r\n#{DSiEgJHZkyi.loloaNR74kY}+\r\n#{sX96WU7L4gu.ITvEmyEv00I}+\r\n#{CSBgvy6oUOq.ITvEmyEv00I}+\r\n#{DSiEgJHZkyi.ITvEmyEv00I}",
             "numeratorDescription": "Hearing loss cases - 50+",
             "sharing": {
@@ -8471,45 +8547,7 @@
                 },
                 "users": {}
             },
-            "shortName": "Hearing loss cases - 50+ (%)",
-            "translations": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "NCD_SF_HT_ALL_PROP",
-            "denominator": "#{sX96WU7L4gu}+\n#{CSBgvy6oUOq}+\n#{DSiEgJHZkyi}",
-            "denominatorDescription": "Total number of hearing loss",
-            "description": "Proportion of hearing technologies fitting out of all hearing loss cases",
-            "id": "ZnCfYdxGi3T",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "SF - Hearing technologies fitting (%)",
-            "numerator": "#{LmsKM7YY2hw}+\n#{b9oN1AEZsja}",
-            "numeratorDescription": "Total number of hearing technologies fitting",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Tukj8VmcPAB": {
-                        "access": "r-------",
-                        "id": "Tukj8VmcPAB"
-                    },
-                    "jjxah7OuNid": {
-                        "access": "rw------",
-                        "id": "jjxah7OuNid"
-                    },
-                    "mGv5ypAj0S4": {
-                        "access": "r-------",
-                        "id": "mGv5ypAj0S4"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Hearing technologies fitting (%)",
+            "shortName": "Hearing loss diagnosis - 50+ (%)",
             "translations": []
         },
         {
@@ -8890,44 +8928,6 @@
                 "users": {}
             },
             "shortName": "Newborns screened for eye conditions - failed (%)",
-            "translations": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "NCD_SF_HSD_NB_SCREENING_ALL_PROP",
-            "denominator": "#{nnjXw0HrTwM}",
-            "denominatorDescription": "RMNCAH - Live births in facility",
-            "description": "Proportion of newborns screened for hearing loss out of all live births",
-            "id": "AnTjvHUANBN",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "SF - Newborns screened for hearing loss (%)",
-            "numerator": "#{Fs3hRNqLJJB} +\n#{nX8fcn9dyia} ",
-            "numeratorDescription": "Total newborn screend for hearing loss",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Tukj8VmcPAB": {
-                        "access": "r-------",
-                        "id": "Tukj8VmcPAB"
-                    },
-                    "jjxah7OuNid": {
-                        "access": "rw------",
-                        "id": "jjxah7OuNid"
-                    },
-                    "mGv5ypAj0S4": {
-                        "access": "r-------",
-                        "id": "mGv5ypAj0S4"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Newborns screened for hearing loss (%)",
             "translations": []
         },
         {
@@ -10415,6 +10415,44 @@
         {
             "annualized": false,
             "attributeValues": [],
+            "code": "NCD_SF_WT",
+            "denominator": "#{lT6d197gDRv}",
+            "denominatorDescription": "Mastoid surg for middle ear cholesteatoma",
+            "description": "Average waiting time for mastoid surgery for middle ear cholesteatoma from first registration for the surgery to the surgery itself",
+            "id": "GsjVeBSxMnK",
+            "indicatorType": {
+                "id": "k4RGC3sMTzO"
+            },
+            "legendSets": [],
+            "name": "SF - Average waiting days for mastoid surgery for middle ear cholesteatoma",
+            "numerator": "#{FEz60tiNOil}",
+            "numeratorDescription": "Delay of mastoid surg for middle ear cholesteatoma",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Av wait days, mastoid, mid ear chole.,",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
             "code": "NCD_SF_HSD_CHLMH",
             "denominator": "1",
             "denominatorDescription": "1",
@@ -10719,120 +10757,6 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "NCD_SF_HL_ALL_PROP",
-            "denominator": "#{kyoEYR44UmP}",
-            "denominatorDescription": "Number of first visit",
-            "description": "Proportion of total hearing loss cases out of consultations",
-            "id": "cA9K3Fmgph1",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "SF - Hearing loss cases (%)",
-            "numerator": "#{sX96WU7L4gu}+\n#{CSBgvy6oUOq}+\n#{DSiEgJHZkyi}",
-            "numeratorDescription": "Total number of hearing loss diagnoses",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Tukj8VmcPAB": {
-                        "access": "r-------",
-                        "id": "Tukj8VmcPAB"
-                    },
-                    "jjxah7OuNid": {
-                        "access": "rw------",
-                        "id": "jjxah7OuNid"
-                    },
-                    "mGv5ypAj0S4": {
-                        "access": "r-------",
-                        "id": "mGv5ypAj0S4"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Hearing loss cases (%)",
-            "translations": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "NCD_SF_HL_0_17_PROP",
-            "denominator": "#{sX96WU7L4gu.DuZSbHzRz8z}+\n#{CSBgvy6oUOq.DuZSbHzRz8z}+\n#{DSiEgJHZkyi.DuZSbHzRz8z}+\n#{sX96WU7L4gu.tfzby5d8mtm}+\n#{CSBgvy6oUOq.tfzby5d8mtm}+\n#{DSiEgJHZkyi.tfzby5d8mtm}+\n#{sX96WU7L4gu.TnIeZJTJOT2}+\n#{CSBgvy6oUOq.TnIeZJTJOT2}+\n#{DSiEgJHZkyi.TnIeZJTJOT2}+\n#{sX96WU7L4gu.sILt0qVVs7U}+\n#{CSBgvy6oUOq.sILt0qVVs7U}+\n#{DSiEgJHZkyi.sILt0qVVs7U}+\n#{sX96WU7L4gu.PfeoneCECAm}+\n#{CSBgvy6oUOq.PfeoneCECAm}+\n#{DSiEgJHZkyi.PfeoneCECAm}+\n#{sX96WU7L4gu.AthuEvWYA8F}+\n#{CSBgvy6oUOq.AthuEvWYA8F}+\n#{DSiEgJHZkyi.AthuEvWYA8F}+\n#{sX96WU7L4gu.oZoCDJYgKOg}+\n#{CSBgvy6oUOq.oZoCDJYgKOg}+\n#{DSiEgJHZkyi.oZoCDJYgKOg}+\n#{sX96WU7L4gu.loloaNR74kY}+\n#{CSBgvy6oUOq.loloaNR74kY}+\n#{DSiEgJHZkyi.loloaNR74kY}+\n#{sX96WU7L4gu.ITvEmyEv00I}+\n#{CSBgvy6oUOq.ITvEmyEv00I}+\n#{DSiEgJHZkyi.ITvEmyEv00I}",
-            "denominatorDescription": "Total hearing loss cases",
-            "description": "Proportion of total hearing loss cases aged 0-17 out of consultations",
-            "id": "woADeBc51vT",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "SF - Hearing loss cases - 0-17 (%)",
-            "numerator": "#{sX96WU7L4gu.DuZSbHzRz8z}+\r\n#{CSBgvy6oUOq.DuZSbHzRz8z}+\r\n#{DSiEgJHZkyi.DuZSbHzRz8z}+\r\n#{sX96WU7L4gu.tfzby5d8mtm}+\r\n#{CSBgvy6oUOq.tfzby5d8mtm}+\r\n#{DSiEgJHZkyi.tfzby5d8mtm}+\r\n#{sX96WU7L4gu.TnIeZJTJOT2}+\r\n#{CSBgvy6oUOq.TnIeZJTJOT2}+\r\n#{DSiEgJHZkyi.TnIeZJTJOT2}",
-            "numeratorDescription": "Hearing loss cases - 0-17",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Tukj8VmcPAB": {
-                        "access": "r-------",
-                        "id": "Tukj8VmcPAB"
-                    },
-                    "jjxah7OuNid": {
-                        "access": "rw------",
-                        "id": "jjxah7OuNid"
-                    },
-                    "mGv5ypAj0S4": {
-                        "access": "r-------",
-                        "id": "mGv5ypAj0S4"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Hearing loss cases - 0-17 (%)",
-            "translations": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "NCD_SF_HL_18_49_PROP",
-            "denominator": "#{sX96WU7L4gu.DuZSbHzRz8z}+\r\n#{CSBgvy6oUOq.DuZSbHzRz8z}+\r\n#{DSiEgJHZkyi.DuZSbHzRz8z}+\r\n#{sX96WU7L4gu.tfzby5d8mtm}+\r\n#{CSBgvy6oUOq.tfzby5d8mtm}+\r\n#{DSiEgJHZkyi.tfzby5d8mtm}+\r\n#{sX96WU7L4gu.TnIeZJTJOT2}+\r\n#{CSBgvy6oUOq.TnIeZJTJOT2}+\r\n#{DSiEgJHZkyi.TnIeZJTJOT2}+\r\n#{sX96WU7L4gu.sILt0qVVs7U}+\r\n#{CSBgvy6oUOq.sILt0qVVs7U}+\r\n#{DSiEgJHZkyi.sILt0qVVs7U}+\r\n#{sX96WU7L4gu.PfeoneCECAm}+\r\n#{CSBgvy6oUOq.PfeoneCECAm}+\r\n#{DSiEgJHZkyi.PfeoneCECAm}+\r\n#{sX96WU7L4gu.AthuEvWYA8F}+\r\n#{CSBgvy6oUOq.AthuEvWYA8F}+\r\n#{DSiEgJHZkyi.AthuEvWYA8F}+\r\n#{sX96WU7L4gu.oZoCDJYgKOg}+\r\n#{CSBgvy6oUOq.oZoCDJYgKOg}+\r\n#{DSiEgJHZkyi.oZoCDJYgKOg}+\r\n#{sX96WU7L4gu.loloaNR74kY}+\r\n#{CSBgvy6oUOq.loloaNR74kY}+\r\n#{DSiEgJHZkyi.loloaNR74kY}+\r\n#{sX96WU7L4gu.ITvEmyEv00I}+\r\n#{CSBgvy6oUOq.ITvEmyEv00I}+\r\n#{DSiEgJHZkyi.ITvEmyEv00I}",
-            "denominatorDescription": "Total hearing loss cases",
-            "description": "Proportion of total hearing loss cases aged 18-49 out of consultations",
-            "id": "Bk7KI8ux0Xj",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "SF - Hearing loss cases - 18-49 (%)",
-            "numerator": "#{sX96WU7L4gu.sILt0qVVs7U}+\r\n#{CSBgvy6oUOq.sILt0qVVs7U}+\r\n#{DSiEgJHZkyi.sILt0qVVs7U}+\r\n#{sX96WU7L4gu.PfeoneCECAm}+\r\n#{CSBgvy6oUOq.PfeoneCECAm}+\r\n#{DSiEgJHZkyi.PfeoneCECAm}+\r\n#{sX96WU7L4gu.AthuEvWYA8F}+\r\n#{CSBgvy6oUOq.AthuEvWYA8F}+\r\n#{DSiEgJHZkyi.AthuEvWYA8F}",
-            "numeratorDescription": "Hearing loss cases - 18-49",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Tukj8VmcPAB": {
-                        "access": "r-------",
-                        "id": "Tukj8VmcPAB"
-                    },
-                    "jjxah7OuNid": {
-                        "access": "rw------",
-                        "id": "jjxah7OuNid"
-                    },
-                    "mGv5ypAj0S4": {
-                        "access": "r-------",
-                        "id": "mGv5ypAj0S4"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Hearing loss cases - 18-49 (%)",
-            "translations": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
             "code": "NCD_SF_HEARING_TOT_VISIT",
             "denominator": "1",
             "denominatorDescription": "1",
@@ -10866,6 +10790,82 @@
                 "users": {}
             },
             "shortName": "Hearing service - Total visit",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "NCD_SF_HT_ALL_PROP",
+            "denominator": "#{sX96WU7L4gu}+\n#{CSBgvy6oUOq}+\n#{DSiEgJHZkyi}",
+            "denominatorDescription": "Total number of hearing loss",
+            "description": "Proportion of hearing technologies fitting out of all hearing loss cases",
+            "id": "ZnCfYdxGi3T",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "SF - Hearing technologies fitting (%)",
+            "numerator": "#{LmsKM7YY2hw}+\n#{b9oN1AEZsja}",
+            "numeratorDescription": "Total number of hearing technologies fitting",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Hearing technologies fitting (%)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "NCD_SF_HSD_NB_SCREENING_ALL_PROP",
+            "denominator": "#{nnjXw0HrTwM}",
+            "denominatorDescription": "RMNCAH - Live births in facility",
+            "description": "Proportion of newborns screened for hearing loss out of all live births",
+            "id": "AnTjvHUANBN",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "SF - Newborns screened for hearing loss (%)",
+            "numerator": "#{Fs3hRNqLJJB} +\n#{nX8fcn9dyia} ",
+            "numeratorDescription": "Total newborn screend for hearing loss",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Tukj8VmcPAB": {
+                        "access": "r-------",
+                        "id": "Tukj8VmcPAB"
+                    },
+                    "jjxah7OuNid": {
+                        "access": "rw------",
+                        "id": "jjxah7OuNid"
+                    },
+                    "mGv5ypAj0S4": {
+                        "access": "r-------",
+                        "id": "mGv5ypAj0S4"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Newborns screened for hearing loss (%)",
             "translations": []
         },
         {
@@ -12206,11 +12206,11 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "rckEmu1N47T",
+                    "id": "hUKS87NAS7Y",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "orgUnit",
-                    "name": "rckEmu1N47T",
+                    "name": "hUKS87NAS7Y",
                     "opacity": 1.0,
                     "organisationUnitGroupSetDimensions": [],
                     "organisationUnitLevels": [
@@ -12271,7 +12271,7 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "BvJthM6G3wX",
+                    "id": "hh4riHtjHAu",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
@@ -12404,11 +12404,11 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "uXW65HUbA9O",
+                    "id": "Zu2lYCyuwUp",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "orgUnit",
-                    "name": "uXW65HUbA9O",
+                    "name": "Zu2lYCyuwUp",
                     "opacity": 1.0,
                     "organisationUnitGroupSetDimensions": [],
                     "organisationUnitLevels": [
@@ -12469,7 +12469,7 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "nAYrxRp0w9U",
+                    "id": "rh4QBDOimsN",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
@@ -12602,11 +12602,11 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "jQWfaNV6qt1",
+                    "id": "Go1zA8c5Siy",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "orgUnit",
-                    "name": "jQWfaNV6qt1",
+                    "name": "Go1zA8c5Siy",
                     "opacity": 1.0,
                     "organisationUnitGroupSetDimensions": [],
                     "organisationUnitLevels": [
@@ -12667,7 +12667,7 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "vdmtjqRbPEA",
+                    "id": "zM2FRxwQlS0",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
@@ -12754,7 +12754,7 @@
                     "userOrganisationUnitGrandChildren": false
                 }
             ],
-            "name": "SF - 5.06 - Average eye care caseload per staff",
+            "name": "SF - 5.06 - Average eye care workload per staff",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -12804,11 +12804,11 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "S9pkYuhv442",
+                    "id": "XoUmmOC8xdj",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "orgUnit",
-                    "name": "S9pkYuhv442",
+                    "name": "XoUmmOC8xdj",
                     "opacity": 1.0,
                     "organisationUnitGroupSetDimensions": [],
                     "organisationUnitLevels": [
@@ -12869,7 +12869,7 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "Io9OvTF91Nr",
+                    "id": "ptpSDe6baY9",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
@@ -12956,7 +12956,7 @@
                     "userOrganisationUnitGrandChildren": false
                 }
             ],
-            "name": "SF - 5.07 - Average eye care caseload per Ophthalmologist & Optometrist",
+            "name": "SF - 5.07 - Average eye care workload per Ophthalmologist & Optometrist",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -13006,11 +13006,11 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "i8mwTMrbaxB",
+                    "id": "Ft5rNZOzjjg",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "orgUnit",
-                    "name": "i8mwTMrbaxB",
+                    "name": "Ft5rNZOzjjg",
                     "opacity": 1.0,
                     "organisationUnitGroupSetDimensions": [],
                     "organisationUnitLevels": [
@@ -13071,7 +13071,7 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "lqvquMBGBQl",
+                    "id": "ywvils35u5J",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
@@ -13208,11 +13208,11 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "DyprlgB34Id",
+                    "id": "GvkSpZRiV8l",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "orgUnit",
-                    "name": "DyprlgB34Id",
+                    "name": "GvkSpZRiV8l",
                     "opacity": 1.0,
                     "organisationUnitGroupSetDimensions": [],
                     "organisationUnitLevels": [
@@ -13273,7 +13273,7 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "qJZ98FxnkfF",
+                    "id": "lfwqSnhJ9Ta",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
@@ -13406,11 +13406,11 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "pn9li3TjIuK",
+                    "id": "Tw3MUJdHwCV",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "orgUnit",
-                    "name": "pn9li3TjIuK",
+                    "name": "Tw3MUJdHwCV",
                     "opacity": 1.0,
                     "organisationUnitGroupSetDimensions": [],
                     "organisationUnitLevels": [
@@ -13471,7 +13471,7 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "UI1mnC5SQoY",
+                    "id": "nu5nN6ETdqP",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
@@ -13558,7 +13558,7 @@
                     "userOrganisationUnitGrandChildren": false
                 }
             ],
-            "name": "SF - 6.06 - Average ear and hearing care caseload per staff",
+            "name": "SF - 6.06 - Average ear and hearing care workload per staff",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -13608,11 +13608,11 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "luxZv0ojJIO",
+                    "id": "fJD3S4dC8Sg",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "orgUnit",
-                    "name": "luxZv0ojJIO",
+                    "name": "fJD3S4dC8Sg",
                     "opacity": 1.0,
                     "organisationUnitGroupSetDimensions": [],
                     "organisationUnitLevels": [
@@ -13673,7 +13673,7 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "apfqP8d40pw",
+                    "id": "eRs2MK4ucvj",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
@@ -13760,7 +13760,7 @@
                     "userOrganisationUnitGrandChildren": false
                 }
             ],
-            "name": "SF - 6.07 - Average ear and hearing care caseload per ENT specialists & Audiologists",
+            "name": "SF - 6.07 - Average ear and hearing care workload per ENT specialists & Audiologists",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -13795,7 +13795,7 @@
         "DHIS2Version": "2.39.1.1",
         "code": "NCD_SF",
         "description": "Sensory function: Eye and Ear care",
-        "lastUpdated": "20230420T075642",
+        "lastUpdated": "20230426T082718",
         "locale": "en",
         "name": "NCD_SF_AGG_DHIS2.39.1.1-en",
         "type": "AGG",
