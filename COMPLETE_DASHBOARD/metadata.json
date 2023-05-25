@@ -2512,19 +2512,16 @@
                     "id": "reqdUg3o7YY"
                 },
                 {
-                    "id": "dBzSmTb5pEK"
+                    "id": "QiRT5GJOQXY"
                 },
                 {
-                    "id": "QiRT5GJOQXY"
+                    "id": "dBzSmTb5pEK"
                 },
                 {
                     "id": "t8aMv5oTiAl"
                 },
                 {
                     "id": "Dg2tGF2MLgb"
-                },
-                {
-                    "id": "FAp46GG8mKq"
                 },
                 {
                     "id": "Q2stXTnkhPo"
@@ -2537,6 +2534,9 @@
                 },
                 {
                     "id": "YXuWRjBsgjL"
+                },
+                {
+                    "id": "FAp46GG8mKq"
                 }
             ],
             "name": "SF - Eye care workforce",
@@ -2690,9 +2690,6 @@
             "id": "WynkJTwMKTF",
             "indicators": [
                 {
-                    "id": "wqAmrEcFzLY"
-                },
-                {
                     "id": "MLsyiS1dO0k"
                 },
                 {
@@ -2700,9 +2697,6 @@
                 },
                 {
                     "id": "LgfNVbHO0kg"
-                },
-                {
-                    "id": "H2msJY4J6ca"
                 },
                 {
                     "id": "auCb1C5a54B"
@@ -2723,7 +2717,13 @@
                     "id": "EGQK7pFMxsq"
                 },
                 {
+                    "id": "H2msJY4J6ca"
+                },
+                {
                     "id": "wgvbBuwK2u7"
+                },
+                {
+                    "id": "wqAmrEcFzLY"
                 },
                 {
                     "id": "I35lIvolXIB"
@@ -3066,7 +3066,7 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "NCD_SF_AVERAGE_EYE_CASELOAD_OPHTH_OPTOMETRIST",
+            "code": "NCD_SF_AVERAGE_EYE_workload_OPHTH_OPTOMETRIST",
             "denominator": -1,
             "denominatorDescription": "Total Ophthalmologist and Optometrist staff",
             "description": "Average number of eye care cases per Ophthalmologist and Optometrist",
@@ -3075,7 +3075,7 @@
                 "id": "k4RGC3sMTzO"
             },
             "legendSets": [],
-            "name": "[CONFIG] SF - Average eye care caseload per Ophthalmologist & Optometrist",
+            "name": "[CONFIG] SF - Average eye care workload per Ophthalmologist & Optometrist",
             "numerator": -1,
             "numeratorDescription": "Eye care - Total visit",
             "sharing": {
@@ -3098,13 +3098,13 @@
                 },
                 "users": {}
             },
-            "shortName": "Avg eye caseload per Ophthalmologist & Optometrist",
+            "shortName": "Avg eye workload per Ophthalmologist & Optometrist",
             "translations": []
         },
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "NCD_SF_AVERAGE_EYE_CASELOAD_CONSULTANT_STCZ",
+            "code": "NCD_SF_AVERAGE_EYE_workload_CONSULTANT_STCZ",
             "denominator": -1,
             "denominatorDescription": "Eye care workforce",
             "description": "Average number of eye care cases per eye care staff",
@@ -3113,7 +3113,7 @@
                 "id": "k4RGC3sMTzO"
             },
             "legendSets": [],
-            "name": "[CONFIG] SF - Average eye care caseload per staff",
+            "name": "[CONFIG] SF - Average eye care workload per staff",
             "numerator": -1,
             "numeratorDescription": "Eye care - Total visit",
             "sharing": {
@@ -3136,7 +3136,7 @@
                 },
                 "users": {}
             },
-            "shortName": "Average eye care caseload per staff",
+            "shortName": "Average eye care workload per staff",
             "translations": []
         },
         {
@@ -6072,7 +6072,7 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "NCD_SF_AVERAGE_EYE_CASELOAD_ENT_AUDIOLOGIST",
+            "code": "NCD_SF_AVERAGE_EYE_workload_ENT_AUDIOLOGIST",
             "denominator": -1,
             "denominatorDescription": "Total ENT Specialists and Audiology Technicians",
             "description": "Average number of  ear and hearing cases per ENT specialist and Audiologist",
@@ -6081,7 +6081,7 @@
                 "id": "k4RGC3sMTzO"
             },
             "legendSets": [],
-            "name": "[CONFIG] SF - Average ear and hearing care caseload per ENT specialists & Audiologists",
+            "name": "[CONFIG] SF - Average ear and hearing care workload per ENT specialists & Audiologists",
             "numerator": -1,
             "numeratorDescription": "Hearing - Total visit",
             "sharing": {
@@ -6104,13 +6104,13 @@
                 },
                 "users": {}
             },
-            "shortName": "Avg eye care caseload per ENT spec & Audiologists",
+            "shortName": "Avg eye care workload per ENT spec & Audiologists",
             "translations": []
         },
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "NCD_SF_AVERAGE_EAR_CASELOAD_CONSULTANT_STCZ",
+            "code": "NCD_SF_AVERAGE_EAR_workload_CONSULTANT_STCZ",
             "denominator": -1,
             "denominatorDescription": "Total ear and hearing workforce",
             "description": "Average number of ear and hearing cases per ear and hearing care staff",
@@ -6119,7 +6119,7 @@
                 "id": "k4RGC3sMTzO"
             },
             "legendSets": [],
-            "name": "[CONFIG] SF - Average ear and hearing care caseload per staff",
+            "name": "[CONFIG] SF - Average ear and hearing care workload per staff",
             "numerator": -1,
             "numeratorDescription": "Hearing - Total visit",
             "sharing": {
@@ -6142,7 +6142,7 @@
                 },
                 "users": {}
             },
-            "shortName": "Average ear and hearing care caseload per staff",
+            "shortName": "Average ear and hearing care workload per staff",
             "translations": []
         },
         {
@@ -8405,7 +8405,7 @@
                     "labels": true,
                     "layer": "thematic",
                     "method": 2,
-                    "name": "SF - Average eye care caseload per staff",
+                    "name": "SF - Average eye care workload per staff",
                     "opacity": 0.9,
                     "organisationUnitGroupSetDimensions": [],
                     "organisationUnitLevels": [
@@ -8607,7 +8607,7 @@
                     "labels": true,
                     "layer": "thematic",
                     "method": 2,
-                    "name": "SF - Average eye care caseload per Ophthalmologist & Optometrist",
+                    "name": "SF - Average eye care workload per Ophthalmologist & Optometrist",
                     "opacity": 0.9,
                     "organisationUnitGroupSetDimensions": [],
                     "organisationUnitLevels": [
@@ -9209,7 +9209,7 @@
                     "labels": true,
                     "layer": "thematic",
                     "method": 2,
-                    "name": "SF - Average ear and hearing care caseload per staff",
+                    "name": "SF - Average ear and hearing care workload per staff",
                     "opacity": 0.9,
                     "organisationUnitGroupSetDimensions": [],
                     "organisationUnitLevels": [
@@ -9411,7 +9411,7 @@
                     "labels": true,
                     "layer": "thematic",
                     "method": 2,
-                    "name": "SF - Average ear and hearing care caseload per ENT specialists & Audiologists",
+                    "name": "SF - Average ear and hearing care workload per ENT specialists & Audiologists",
                     "opacity": 0.9,
                     "organisationUnitGroupSetDimensions": [],
                     "organisationUnitLevels": [
@@ -9524,7 +9524,7 @@
         "DHIS2Version": "2.38.3",
         "code": "NCD_SF",
         "description": "Sensory function: Eye and Ear care (dashboard)",
-        "lastUpdated": "20230426T102707",
+        "lastUpdated": "20230525T085556",
         "locale": "en",
         "name": "NCD_SF_DSH_DHIS2.38.3-en",
         "type": "DSH",
