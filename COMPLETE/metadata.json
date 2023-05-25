@@ -6047,46 +6047,6 @@
                 },
                 {
                     "dataElement": {
-                        "id": "qt8s8kyrk6c"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "LmsKM7YY2hw"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "raUjzYymz6G"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "S1UCOz5Tr1b"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "lT6d197gDRv"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "aCiyRsb3CWI"
                     },
                     "dataSet": {
@@ -6095,15 +6055,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "yqRRLQMlm2v"
-                    },
-                    "dataSet": {
-                        "id": "uRrzcLSWeVh"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "sX96WU7L4gu"
+                        "id": "b9oN1AEZsja"
                     },
                     "dataSet": {
                         "id": "uRrzcLSWeVh"
@@ -6127,7 +6079,31 @@
                 },
                 {
                     "dataElement": {
-                        "id": "FEz60tiNOil"
+                        "id": "sX96WU7L4gu"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "lT6d197gDRv"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "raUjzYymz6G"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "kyoEYR44UmP"
                     },
                     "dataSet": {
                         "id": "uRrzcLSWeVh"
@@ -6143,7 +6119,31 @@
                 },
                 {
                     "dataElement": {
-                        "id": "b9oN1AEZsja"
+                        "id": "LmsKM7YY2hw"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "FEz60tiNOil"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "yqRRLQMlm2v"
+                    },
+                    "dataSet": {
+                        "id": "uRrzcLSWeVh"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "qt8s8kyrk6c"
                     },
                     "dataSet": {
                         "id": "uRrzcLSWeVh"
@@ -6159,7 +6159,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "kyoEYR44UmP"
+                        "id": "S1UCOz5Tr1b"
                     },
                     "dataSet": {
                         "id": "uRrzcLSWeVh"
@@ -6228,6 +6228,54 @@
             "dataSetElements": [
                 {
                     "dataElement": {
+                        "id": "RQH7LqBCkUX"
+                    },
+                    "dataSet": {
+                        "id": "xks3A3Z4Co1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "xjv0oQ5URO6"
+                    },
+                    "dataSet": {
+                        "id": "xks3A3Z4Co1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "TPpAFFclk9U"
+                    },
+                    "dataSet": {
+                        "id": "xks3A3Z4Co1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "SoBdFmbfBw8"
+                    },
+                    "dataSet": {
+                        "id": "xks3A3Z4Co1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "EyJamtdhOOe"
+                    },
+                    "dataSet": {
+                        "id": "xks3A3Z4Co1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "EWJB78Iix88"
+                    },
+                    "dataSet": {
+                        "id": "xks3A3Z4Co1"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "x7cnyPxWbqN"
                     },
                     "dataSet": {
@@ -6244,38 +6292,6 @@
                 },
                 {
                     "dataElement": {
-                        "id": "RQH7LqBCkUX"
-                    },
-                    "dataSet": {
-                        "id": "xks3A3Z4Co1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "EyJamtdhOOe"
-                    },
-                    "dataSet": {
-                        "id": "xks3A3Z4Co1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "TPpAFFclk9U"
-                    },
-                    "dataSet": {
-                        "id": "xks3A3Z4Co1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "xjv0oQ5URO6"
-                    },
-                    "dataSet": {
-                        "id": "xks3A3Z4Co1"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "DvLyXY8CQB0"
                     },
                     "dataSet": {
@@ -6284,23 +6300,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "EWJB78Iix88"
-                    },
-                    "dataSet": {
-                        "id": "xks3A3Z4Co1"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "jkvzTkbBsds"
-                    },
-                    "dataSet": {
-                        "id": "xks3A3Z4Co1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "SoBdFmbfBw8"
                     },
                     "dataSet": {
                         "id": "xks3A3Z4Co1"
@@ -6361,7 +6361,23 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "DkcSRmI1dZA"
+                        "id": "FWLusa1TGJu"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "K5hOIPGMb1b"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Sv0Aj3dUs5o"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -6377,7 +6393,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "CqzbXPXnJok"
+                        "id": "urydTjPQykf"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -6385,7 +6401,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "VAjOP5l1ucd"
+                        "id": "PRUnh6u4MeA"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -6393,15 +6409,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "VfhZJqrGQxJ"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "FWLusa1TGJu"
+                        "id": "Z0sF9RqNrLD"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -6417,7 +6425,119 @@
                 },
                 {
                     "dataElement": {
-                        "id": "Z0sF9RqNrLD"
+                        "id": "O0ECsX0fxzP"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "DkcSRmI1dZA"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Tbl10Dyzy53"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "CqzbXPXnJok"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "i1GGi64UNtm"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "VAjOP5l1ucd"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "bKCHbgQd5nX"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "tWY1PavnH4T"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "EtbxvW954To"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "vev1ZPvrtGK"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "VG6Df2fDCHc"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "R6lFazQe7cS"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "MHWAAeHhu08"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "VfhZJqrGQxJ"
+                    },
+                    "dataSet": {
+                        "id": "LTvYVEodb2t"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "gKrDjIa73HI"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -6434,126 +6554,6 @@
                 {
                     "dataElement": {
                         "id": "eCrhzTQkIcu"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "tWY1PavnH4T"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "PRUnh6u4MeA"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "gKrDjIa73HI"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "MHWAAeHhu08"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "R6lFazQe7cS"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "i1GGi64UNtm"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "O0ECsX0fxzP"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "vev1ZPvrtGK"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Tbl10Dyzy53"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "EtbxvW954To"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "urydTjPQykf"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "bKCHbgQd5nX"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Sv0Aj3dUs5o"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "VG6Df2fDCHc"
-                    },
-                    "dataSet": {
-                        "id": "LTvYVEodb2t"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "K5hOIPGMb1b"
                     },
                     "dataSet": {
                         "id": "LTvYVEodb2t"
@@ -6779,19 +6779,16 @@
                     "id": "reqdUg3o7YY"
                 },
                 {
-                    "id": "dBzSmTb5pEK"
+                    "id": "QiRT5GJOQXY"
                 },
                 {
-                    "id": "QiRT5GJOQXY"
+                    "id": "dBzSmTb5pEK"
                 },
                 {
                     "id": "t8aMv5oTiAl"
                 },
                 {
                     "id": "Dg2tGF2MLgb"
-                },
-                {
-                    "id": "FAp46GG8mKq"
                 },
                 {
                     "id": "Q2stXTnkhPo"
@@ -6804,6 +6801,9 @@
                 },
                 {
                     "id": "YXuWRjBsgjL"
+                },
+                {
+                    "id": "FAp46GG8mKq"
                 }
             ],
             "name": "SF - Eye care workforce",
@@ -6957,9 +6957,6 @@
             "id": "WynkJTwMKTF",
             "indicators": [
                 {
-                    "id": "wqAmrEcFzLY"
-                },
-                {
                     "id": "MLsyiS1dO0k"
                 },
                 {
@@ -6967,9 +6964,6 @@
                 },
                 {
                     "id": "LgfNVbHO0kg"
-                },
-                {
-                    "id": "H2msJY4J6ca"
                 },
                 {
                     "id": "auCb1C5a54B"
@@ -6990,7 +6984,13 @@
                     "id": "EGQK7pFMxsq"
                 },
                 {
+                    "id": "H2msJY4J6ca"
+                },
+                {
                     "id": "wgvbBuwK2u7"
+                },
+                {
+                    "id": "wqAmrEcFzLY"
                 },
                 {
                     "id": "I35lIvolXIB"
@@ -7333,7 +7333,7 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "NCD_SF_AVERAGE_EYE_CASELOAD_OPHTH_OPTOMETRIST",
+            "code": "NCD_SF_AVERAGE_EYE_workload_OPHTH_OPTOMETRIST",
             "denominator": "#{TPpAFFclk9U}+\n#{xjv0oQ5URO6}",
             "denominatorDescription": "Total Ophthalmologist and Optometrist staff",
             "description": "Average number of eye care cases per Ophthalmologist and Optometrist",
@@ -7342,7 +7342,7 @@
                 "id": "k4RGC3sMTzO"
             },
             "legendSets": [],
-            "name": "SF - Average eye care caseload per Ophthalmologist & Optometrist",
+            "name": "SF - Average eye care workload per Ophthalmologist & Optometrist",
             "numerator": "#{Sv0Aj3dUs5o}+\n#{O0ECsX0fxzP}",
             "numeratorDescription": "Eye care - Total visit",
             "sharing": {
@@ -7365,13 +7365,13 @@
                 },
                 "users": {}
             },
-            "shortName": "Avg eye caseload per Ophthalmologist & Optometrist",
+            "shortName": "Avg eye workload per Ophthalmologist & Optometrist",
             "translations": []
         },
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "NCD_SF_AVERAGE_EYE_CASELOAD_CONSULTANT_STCZ",
+            "code": "NCD_SF_AVERAGE_EYE_workload_CONSULTANT_STCZ",
             "denominator": "#{TPpAFFclk9U}+\n#{xjv0oQ5URO6}+\n#{DvLyXY8CQB0}+\n#{L5nUGgWn6Op}+\n#{SoBdFmbfBw8}",
             "denominatorDescription": "Eye care workforce",
             "description": "Average number of eye care cases per eye care staff",
@@ -7380,7 +7380,7 @@
                 "id": "k4RGC3sMTzO"
             },
             "legendSets": [],
-            "name": "SF - Average eye care caseload per staff",
+            "name": "SF - Average eye care workload per staff",
             "numerator": "#{Sv0Aj3dUs5o}+\n#{O0ECsX0fxzP}",
             "numeratorDescription": "Eye care - Total visit",
             "sharing": {
@@ -7403,7 +7403,7 @@
                 },
                 "users": {}
             },
-            "shortName": "Average eye care caseload per staff",
+            "shortName": "Average eye care workload per staff",
             "translations": []
         },
         {
@@ -10339,7 +10339,7 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "NCD_SF_AVERAGE_EYE_CASELOAD_ENT_AUDIOLOGIST",
+            "code": "NCD_SF_AVERAGE_EYE_workload_ENT_AUDIOLOGIST",
             "denominator": "#{RQH7LqBCkUX} +\n#{jkvzTkbBsds}",
             "denominatorDescription": "Total ENT Specialists and Audiology Technicians",
             "description": "Average number of  ear and hearing cases per ENT specialist and Audiologist",
@@ -10348,7 +10348,7 @@
                 "id": "k4RGC3sMTzO"
             },
             "legendSets": [],
-            "name": "SF - Average ear and hearing care caseload per ENT specialists & Audiologists",
+            "name": "SF - Average ear and hearing care workload per ENT specialists & Audiologists",
             "numerator": "#{kyoEYR44UmP}+\n#{HIkTNZjeaEw}",
             "numeratorDescription": "Hearing - Total visit",
             "sharing": {
@@ -10371,13 +10371,13 @@
                 },
                 "users": {}
             },
-            "shortName": "Avg eye care caseload per ENT spec & Audiologists",
+            "shortName": "Avg eye care workload per ENT spec & Audiologists",
             "translations": []
         },
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "NCD_SF_AVERAGE_EAR_CASELOAD_CONSULTANT_STCZ",
+            "code": "NCD_SF_AVERAGE_EAR_workload_CONSULTANT_STCZ",
             "denominator": "#{RQH7LqBCkUX} +\n#{x7cnyPxWbqN} +\n#{EyJamtdhOOe} +\n#{jkvzTkbBsds} +\n#{EWJB78Iix88}",
             "denominatorDescription": "Total ear and hearing workforce",
             "description": "Average number of ear and hearing cases per ear and hearing care staff",
@@ -10386,7 +10386,7 @@
                 "id": "k4RGC3sMTzO"
             },
             "legendSets": [],
-            "name": "SF - Average ear and hearing care caseload per staff",
+            "name": "SF - Average ear and hearing care workload per staff",
             "numerator": "#{kyoEYR44UmP}+\n#{HIkTNZjeaEw}",
             "numeratorDescription": "Hearing - Total visit",
             "sharing": {
@@ -10409,7 +10409,7 @@
                 },
                 "users": {}
             },
-            "shortName": "Average ear and hearing care caseload per staff",
+            "shortName": "Average ear and hearing care workload per staff",
             "translations": []
         },
         {
@@ -12673,7 +12673,7 @@
                     "labels": true,
                     "layer": "thematic",
                     "method": 2,
-                    "name": "SF - Average eye care caseload per staff",
+                    "name": "SF - Average eye care workload per staff",
                     "opacity": 0.9,
                     "organisationUnitGroupSetDimensions": [],
                     "organisationUnitLevels": [
@@ -12875,7 +12875,7 @@
                     "labels": true,
                     "layer": "thematic",
                     "method": 2,
-                    "name": "SF - Average eye care caseload per Ophthalmologist & Optometrist",
+                    "name": "SF - Average eye care workload per Ophthalmologist & Optometrist",
                     "opacity": 0.9,
                     "organisationUnitGroupSetDimensions": [],
                     "organisationUnitLevels": [
@@ -13477,7 +13477,7 @@
                     "labels": true,
                     "layer": "thematic",
                     "method": 2,
-                    "name": "SF - Average ear and hearing care caseload per staff",
+                    "name": "SF - Average ear and hearing care workload per staff",
                     "opacity": 0.9,
                     "organisationUnitGroupSetDimensions": [],
                     "organisationUnitLevels": [
@@ -13679,7 +13679,7 @@
                     "labels": true,
                     "layer": "thematic",
                     "method": 2,
-                    "name": "SF - Average ear and hearing care caseload per ENT specialists & Audiologists",
+                    "name": "SF - Average ear and hearing care workload per ENT specialists & Audiologists",
                     "opacity": 0.9,
                     "organisationUnitGroupSetDimensions": [],
                     "organisationUnitLevels": [
@@ -13795,7 +13795,7 @@
         "DHIS2Version": "2.38.3",
         "code": "NCD_SF",
         "description": "Sensory function: Eye and Ear care",
-        "lastUpdated": "20230426T102707",
+        "lastUpdated": "20230525T085556",
         "locale": "en",
         "name": "NCD_SF_AGG_DHIS2.38.3-en",
         "type": "AGG",
