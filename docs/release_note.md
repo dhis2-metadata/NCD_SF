@@ -34,3 +34,16 @@ Minor updates to naming/nomenclature of metadata and relative period type for th
 |SF - 6.05 - Ear and hearing care workforce (/10000)|Relative - Last year|
 |SF - 6.06 - Average ear and hearing care caseload per staff|Relative - Last year|
 |SF - 6.07 - Average ear and hearing care caseload per ENT specialists & Audiologists|Relative - Last year|
+
+## 1.0.2
+
+Minor updates to naming/nomenclature of metadata of the items listed below
+
+|Metadata|UID|Old Name|New name|
+|--------|---|--------|--------|
+|Indicator|FAp46GG8mKq|SF - Average eye care caseload per staff|SF - Average eye care workload per staff|
+|Indicator|wqAmrEcFzLY|SF - Average ear and hearing care caseload per staff|SF - Average ear and hearing care workload per staff|
+|Indicator|H2msJY4J6ca|SF - Average ear and hearing care caseload per ENT specialists & Audiologists|SF - Average ear and hearing care workload per ENT specialists & Audiologists|
+|Indicator|dBzSmTb5pEK|SF - Average eye care caseload per Ophthalmologist & Optometrist|SF - Average eye care workload per Ophthalmologist & Optometrist|
+|Section|aIYjl0V9BJ0|Ear conditions|Ear conditions on the first visit|
+|Section|GZOWVOtOFNQ|Eye conditions|Eye conditions on the first visit|
